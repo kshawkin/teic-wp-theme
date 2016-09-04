@@ -11,7 +11,8 @@
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
-		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
+		<?php the_title( '<h1 class="entry-title maintitle">TEI: ', '</h1>' ); ?>
+		<hr>
 	</header><!-- .entry-header -->
 
 	<div class="entry-content">
@@ -26,7 +27,12 @@
 	</div><!-- .entry-content -->
 
 	<?php if ( get_edit_post_link() ) : ?>
+
 		<footer class="entry-footer">
+			<hr>
+			<small>Last recorded change to this page:
+		 <?php the_modified_date( 'Y-m-d' ); ?> &bull; For corrections or updates, contact <a href="mailto:web@teic.org?subject=feedback">web@teic.org</a></small>
+		 
 			<?php
 				edit_post_link(
 					sprintf(

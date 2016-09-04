@@ -15,6 +15,7 @@
 get_header();
 get_sidebar(); ?>
 
+	<div id="separator">&nbsp;</div>
 	<div id="content" class="content-area">
 
 			<?php
