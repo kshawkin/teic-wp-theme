@@ -40,12 +40,12 @@
 			) ); ?>
 		</nav><!-- #site-navigation -->
 
-		<?php
-		if ( function_exists('yoast_breadcrumb') ) {
-		     yoast_breadcrumb('<div id="breadcrumbs">','</div>');
-		}
-		?>
-
 	</header><!-- #masthead -->
 
-	<div id="content" class="site-content">
+	<?php
+	if ( function_exists('yoast_breadcrumb') ) {
+			 yoast_breadcrumb('<div id="breadcrumb">','</div>');
+	}
+	?>
+
+	<main id="main" class="site-main" role="main">

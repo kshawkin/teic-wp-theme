@@ -11,15 +11,7 @@
 
 ?>
 
-	</div><!-- #content -->
-
-	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'teic' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'teic' ), 'WordPress' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'teic' ), 'teic', '<a href="http://libux.co" rel="designer">Michael Schofield</a>' ); ?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
+	</main><!-- #main -->
 
 	<footer id="footer" class="site-footer" role="contentinfo">
 		<p>
