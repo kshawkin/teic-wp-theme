@@ -140,6 +140,12 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 	top: 156px;
 }
 
+
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+.children { display: none; }
+.current_page_item .children { display: block; }
 /*--------------------------------------------------------------
 # Widgets
 --------------------------------------------------------------*/

@@ -20,7 +20,7 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 	<?php
 	if ( !is_search() && !is_page( 'home' ) ) :
 		global $post;
-		$page = get_the_ID();
+		$page = get_the_ID();;
 
 		if ( $post->post_parent > 0 ) {
 
@@ -40,43 +40,13 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 		 */
 		$args = array(
 			'child_of' => $page,
-			'depth' => 1,
+			'depth' => 2,
 			'echo' => false,
 			'title_li' => ''
 		); ?>
 
-		<ul>
-		<?php echo wp_list_pages( $args );
-
-		/**
-		 * If a child page, print the title as an h2
-		 */
-		if ( $post->post_parent > 0 ) : ?>
-			<?php if ( count( get_pages( 'child_of=' . get_the_ID() ) ) > 0 ) : ?>
-
-			<ul class="sub-menu">
-			<?php echo wp_list_pages( array(
-				'child_of' => get_the_ID(),
-				'depth' => 1,
-				'title_li' => '',
-				'echo' => false
-				));	?>
-
-			<?php elseif ( ( $post->post_parent !== $parent->ID ) && ( count( get_pages( 'child_of=' . wp_get_post_parent_id( get_the_ID() ) ) ) > 0 ) ) : ?>
-
-			<ul class="sub-menu sub-menu__links">
-			<?php echo wp_list_pages( array(
-				'child_of' => wp_get_post_parent_id( get_the_ID() ),
-				'depth' => 1,
-				'echo' => false,
-				'title_li' => ''
-				));
-			?>
-			</ul>
-			<?php endif; ?>
-	  <?php endif; ?>
-
-	<?php endif; ?>
+		<ul><?php echo wp_list_pages( $args ); ?></ul>
+		<?php endif; ?>
 
 	</div>
 </aside><!-- #secondary -->
