@@ -48,4 +48,21 @@
 	}
 	?>
 
+	<form role="search" method="get" class="search-form" action="http://localhost/teic/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Search …" value="" name="s">
+		</label>
+		<input type="submit" class="search-submit" value="Search">
+	</form>
+
+	<!--<form action="http://www.google.com/search" method="get">
+		<input style="color:#225588;" value="" maxlength="255" size="20" name="q" type="text">&nbsp;
+		<select name="sitesearch">
+		<option value="http://www.tei-c.org/" selected="selected">Entire site</option>
+		<option value="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/">P5 Guidelines</option></select>&nbsp;<input style="font-size:100%; font-weight:bold;  color:#FFFFFF; background-color:#225588; height: 2em;" value="Search" type="submit">
+	</form>-->
+
+	<?php get_search_form(); ?>
+
 	<main id="main" class="site-main" role="main">

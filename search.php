@@ -7,16 +7,18 @@
  * @package TEI-C
  */
 
-get_header(); ?>
+get_header(); get_sidebar(); ?>
 
-	<section id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
+	<div id="separator">&nbsp;</div>
+
+	<section id="content" class="content-area">
 
 		<?php
 		if ( have_posts() ) : ?>
 
 			<header class="page-header">
-				<h1 class="page-title"><?php printf( esc_html__( 'Search Results for: %s', 'teic' ), '<span>' . get_search_query() . '</span>' ); ?></h1>
+				<h1 class="page-title maintitle"><?php printf( esc_html__( 'Search Results for: %s', 'teic' ), '<span>' . get_search_query() . '</span>' ); ?></h1>
+				<hr>
 			</header><!-- .page-header -->
 
 			<?php
@@ -40,7 +42,6 @@ get_header(); ?>
 
 		endif; ?>
 
-		</main><!-- #main -->
 	</section><!-- #primary -->
 
 <?php
