@@ -120,7 +120,9 @@ function teic_scripts() {
 
 	wp_enqueue_style( 'teic-style', get_stylesheet_uri() );
 	wp_enqueue_script( 'teic-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
-	wp_enqueue_script( 'teic-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20151215', true );
+	if ( is_page() ) {
+		wp_enqueue_script( 'teic-toc', get_template_directory_uri() . '/js/table-of-contents.js', array( 'jquery' ), '', true );
+	}
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
