@@ -300,3 +300,16 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+
+/*--------------------------------------------------------------
+# TEI-C Classes
+--------------------------------------------------------------*/
+teiheader, .teiheader { display: none; }
+ul.ordered { list-style-type: decimal; }
+
+div.pre_eg /*, pre.eg, div.eg */ {
+	white-space: pre-wrap;
+}
+
+table[border] { border-collapse: collapse; }

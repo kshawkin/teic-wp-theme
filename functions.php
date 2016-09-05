@@ -155,3 +155,21 @@ require get_template_directory() . '/inc/customizer.php';
  * Load Jetpack compatibility file.
  */
 require get_template_directory() . '/inc/jetpack.php';
+
+/**
+ * Disable wpautop();
+ *
+ * Because so much of the content coming over from OpenCMS
+ * needs a lot of massaging, wpautop() is kind of getting
+ * in the way, at least for now.
+ *
+ * We can disable this in the future, or target just
+ * certain pieces of content..
+ */
+ function teic_disable_autop() {
+	 global $post;
+	 if ( is_page() ) :
+		 remove_filter( 'the_content', 'wpautop' );
+	 endif;
+ }
+ add_action( 'loop_start', 'teic_disable_autop' );

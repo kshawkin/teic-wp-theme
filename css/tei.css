@@ -547,16 +547,24 @@ ul.inlineColumn li.last
 
 img.specialChar { vertical-align: top; }
 
-dt
+ul.gloss {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+ul.gloss li { margin-left: 1em; }
+
+dt, ul.gloss label
 {
 	font-weight: bold;
 	font-size: 9pt;
 	margin-bottom: .2em;
 }
 
-dd { margin-bottom: .5em; }
+dd, ul.gloss li { margin-bottom: .5em; }
 
-dl a { display: inline; }
+dl a, ul.gliss li { display: inline; }
 
 pre {
                 color: #000000;
