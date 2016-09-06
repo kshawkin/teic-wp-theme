@@ -122,6 +122,7 @@ function teic_scripts() {
 	wp_enqueue_script( 'teic-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
 	if ( is_page() ) {
 		wp_enqueue_script( 'teic-toc', get_template_directory_uri() . '/js/table-of-contents.js', array( 'jquery' ), '', true );
+		wp_enqueue_script( 'teic-dom', get_template_directory_uri() . '/js/teic-dom-fixes.js', array( 'jquery' ), '', true );
 	}
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {

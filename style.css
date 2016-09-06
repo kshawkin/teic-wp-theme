@@ -313,3 +313,6 @@ div.pre_eg /*, pre.eg, div.eg */ {
 }
 
 table[border] { border-collapse: collapse; }
+title[level="j"] {
+	font-style: italic;
+}
