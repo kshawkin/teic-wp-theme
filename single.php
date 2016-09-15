@@ -7,10 +7,12 @@
  * @package TEI-C
  */
 
-get_header(); ?>
+get_header();
+get_sidebar();
+?>
 
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
+	<div id="separator">&nbsp;</div>
+	<div id="content" class="content-area">
 
 		<?php
 		while ( have_posts() ) : the_post();
@@ -27,9 +29,7 @@ get_header(); ?>
 		endwhile; // End of the loop.
 		?>
 
-		</main><!-- #main -->
-	</div><!-- #primary -->
+	</div><!-- #content -->
 
 <?php
-get_sidebar();
 get_footer();
