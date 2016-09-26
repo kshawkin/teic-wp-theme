@@ -91,8 +91,8 @@ add_action( 'after_setup_theme', 'teic_content_width', 0 );
  */
 function teic_widgets_init() {
 	register_sidebar( array(
-		'name'          => esc_html__( 'Sidebar', 'teic' ),
-		'id'            => 'sidebar-1',
+		'name'          => esc_html__( 'Home Sidebar', 'teic' ),
+		'id'            => 'sidebar-home',
 		'description'   => esc_html__( 'Add widgets here.', 'teic' ),
 		'before_widget' => '<section id="%1$s" class="widget %2$s">',
 		'after_widget'  => '</section>',

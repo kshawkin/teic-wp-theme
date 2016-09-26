@@ -316,3 +316,23 @@ table[border] { border-collapse: collapse; }
 title[level="j"] {
 	font-style: italic;
 }
+
+.widget_rss li {
+	font-family: Verdana, Tahoma, Geneva, Arial, Helvetica, sans-serif !important;
+	font-size: 11px;
+	margin: 0 0 2px 0 !important;
+}
+
+.widget_rss li a {
+	font-weight: normal !important;
+}
+
+.widget_rss .rss-date {
+	display: block;
+	font-size: 90%;
+	font-style: italic;
+}
+
+.widget_rss .rss-date:before {
+	content: "Posted on: ";
+}

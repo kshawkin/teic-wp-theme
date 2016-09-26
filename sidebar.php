@@ -15,10 +15,10 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 <aside id="sidebar" class="widget-area" role="complementary">
 	<div id="nav-supp">
 
-	<?php //dynamic_sidebar( 'sidebar-1' ); ?>
+	<?php if ( is_front_page() ) : dynamic_sidebar( 'sidebar-home' ); endif; ?>
 
 	<?php
-	if ( !is_search() && !is_page( 'home' ) ) :
+	if ( !is_search() && !is_front_page() ) :
 		global $post;
 		$page = get_the_ID();;
 
