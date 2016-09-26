@@ -12,10 +12,11 @@
  * @package TEI-C
  */
 
-get_header(); ?>
+  get_header();
+  get_sidebar(); ?>
 
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
+	 	<div id="separator">&nbsp;</div>
+	 	<div id="content" class="content-area">
 
 		<?php
 		if ( have_posts() ) :
@@ -48,9 +49,7 @@ get_header(); ?>
 
 		endif; ?>
 
-		</main><!-- #main -->
-	</div><!-- #primary -->
+	</div><!-- #content -->
 
 <?php
-get_sidebar();
 get_footer();
