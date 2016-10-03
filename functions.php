@@ -48,6 +48,13 @@ function teic_setup() {
 	// This theme uses wp_nav_menu() in one location.
 	register_nav_menus( array(
 		'primary' => esc_html__( 'Primary', 'teic' ),
+		'guidelines' => esc_html__( 'Guidelines', 'teic' ),
+		'activities' => esc_html__( 'Activities', 'teic' ),
+		'tools' => esc_html__( 'Tools', 'teic' ),
+		'membership' => esc_html__( 'Membership', 'teic' ),
+		'support' => esc_html__( 'Support', 'teic' ),
+		'about' => esc_html__( 'About', 'teic' ),
+		'news' => esc_html__( 'News', 'teic' ),
 	) );
 
 	/*
@@ -90,6 +97,10 @@ add_action( 'after_setup_theme', 'teic_content_width', 0 );
  * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
  */
 function teic_widgets_init() {
+
+	/**
+	 * Sidebars
+	 */ // Home
 	register_sidebar( array(
 		'name'          => esc_html__( 'Home Sidebar', 'teic' ),
 		'id'            => 'sidebar-home',
@@ -99,6 +110,7 @@ function teic_widgets_init() {
 		'before_title'  => '<h2 class="widget-title">',
 		'after_title'   => '</h2>',
 	) );
+
 }
 add_action( 'widgets_init', 'teic_widgets_init' );
 
@@ -174,3 +186,16 @@ require get_template_directory() . '/inc/jetpack.php';
 	 endif;
  }
  add_action( 'loop_start', 'teic_disable_autop' );
+
+/**
+ * Is the page a child of a specific parent?
+ */
+
+// $pid = The ID of the page we're looking for pages underneath
+function is_tree( $pid ) {
+	global $post;         // load details about this page
+	if(is_page()&&($post->post_parent==$pid || is_page( $pid )))
+		return true;   // we're at the page or at a sub page
+		else
+		return false;  // we're elsewhere
+	};
