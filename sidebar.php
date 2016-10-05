@@ -19,7 +19,7 @@
 	<?php elseif ( is_tree( 22830 ) ) : wp_nav_menu( array( 'theme_location' => 'activities' ) ); ?>
 	<?php elseif ( is_tree( 21809 ) ) : wp_nav_menu( array( 'theme_location' => 'tools' ) ); ?>
 	<?php elseif ( is_tree( 21831 ) ) : wp_nav_menu( array( 'theme_location' => 'support' ) ); ?>
-	<?php elseif ( is_tree( 21586 ) ) : wp_nav_menu( array( 'theme_location' => 'activities' ) ); ?>
+	<?php elseif ( is_tree( 21586 ) ) : wp_nav_menu( array( 'theme_location' => 'about' ) ); ?>
 	<?php endif;?>
 
 	</nav><!-- #site-navigation -->
