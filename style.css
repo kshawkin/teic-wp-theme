@@ -336,3 +336,11 @@ title[level="j"] {
 .widget_rss .rss-date:before {
 	content: "Posted on: ";
 }
+
+.widget-area .menu-item-has-children .sub-menu { display: none; }
+
+.widget-area .current-menu-item .sub-menu,
+.widget-area .current-menu-parent .sub-menu,
+.widget-area .current-menu-ancestor .sub-menu  {
+	display: block;
+}
