@@ -16,6 +16,24 @@ Redirect 301	/Guidelines/access.xml	http://www-dev.tei-c.org/licensing-and-citat
 Redirect 301	/Guidelines/index.xml	http://www-dev.tei-c.org/tei-guidelines/
 Redirect 301	/Guidelines/participation.xml	http://www-dev.tei-c.org/getting-involved/
 
+Redirect 301	/guidelines/customization/lite	http://www-dev.tei-c.org/customization/lite/
+Redirect 301	/guidelines/customization/jtei	http://www-dev.tei-c.org/customization/jtei/
+Redirect 301	/guidelines/customization/odds.xml	http://www-dev.tei-c.org/customization/getting-started-with-p5-odds/
+Redirect 301	/guidelines/customization/use_roma.xml	http://www-dev.tei-c.org/customization/customizing-the-tei-with-roma/
+Redirect 301	/guidelines/customization	http://www-dev.tei-c.org/customization/
+
+Redirect 301	/guidelines/dtd/catalog.xml	http://www-dev.tei-c.org/dtd/catalog-xml/
+Redirect 301	/guidelines/dtd	http://www-dev.tei-c.org/dtd/
+
+Redirect 301	/guidelines/p5/about-dsewell.xml	http://www-dev.tei-c.org/p5/about-the-tei-p5-guidelines/
+Redirect 301	/guidelines/p5/get.xml	http://www-dev.tei-c.org/p5/using-the-tei-github-repository/
+Redirect 301	/guidelines/p5/index-search-example.html	http://www-dev.tei-c.org/p5/p5-guidelines/
+Redirect 301	/guidelines/p5	http://www-dev.tei-c.org/p5/
+
+Redirect 301	/guidelines/access.xml	http://www-dev.tei-c.org/licensing-and-citation/
+Redirect 301	/guidelines/index.xml	http://www-dev.tei-c.org/tei-guidelines/
+Redirect 301	/guidelines/participation.xml	http://www-dev.tei-c.org/getting-involved/
+
 # /Board
 Redirect 301	/Activities/Board/2010BylawsProposal.xml	http://www-dev.tei-c.org/tei-bylaws/
 Redirect 301	/Activities/Board/2011-special-election.xml	http://www-dev.tei-c.org/tei-special-election-february-2011/
@@ -123,6 +141,113 @@ Redirect 301	/Activities/Board/bylaws2013.xml	http://www-dev.tei-c.org/tei-bylaw
 Redirect 301	/Activities/Board/index.xml	http://www-dev.tei-c.org/tei-board/
 Redirect 301	/Activities/Board/newbylawsDraft2.xml	http://www-dev.tei-c.org/tei-bylaws-3/
 Redirect 301	/Activities/Board/procedures.xml	http://www-dev.tei-c.org/tei-consortium-procedures-customs-and-practices/
+
+Redirect 301	/activities/board/2010bylawsproposal.xml	http://www-dev.tei-c.org/tei-bylaws/
+Redirect 301	/activities/board/2011-special-election.xml	http://www-dev.tei-c.org/tei-special-election-february-2011/
+Redirect 301	/activities/board/bm01.xml	http://www-dev.tei-c.org/minutes-of-the-board-of-directors-meeting-tingviken-utne-in-hardanger-norway-may-11-12-2001/
+Redirect 301	/activities/board/bm03a.xml	http://www-dev.tei-c.org/prague-board-meeting-agenda/
+Redirect 301	/activities/board/bm06.xml	http://www-dev.tei-c.org/minutes-ofthe-tei-c-board-meeting-may-9-10-2002/
+Redirect 301	/activities/board/bm07.xml	http://www-dev.tei-c.org/tei-board-meeting-12-oct-02-draft-agenda/
+Redirect 301	/activities/board/bm08.xml	http://www-dev.tei-c.org/tei-board-meeting-chicago-11-october-2002-minutes/
+Redirect 301	/activities/board/bm09.xml	http://www-dev.tei-c.org/tei-board-conference-call-agenda-june-19-2003/
+Redirect 301	/activities/board/bm10.xml	http://www-dev.tei-c.org/minutes-ofthe-tei-c-board-telephone-conference-held-19-june-2003/
+Redirect 301	/activities/board/bm11.xml	http://www-dev.tei-c.org/tei-consortium-board-meeting-november-9th-2003-minutes/
+Redirect 301	/activities/board/bm11a.xml	http://www-dev.tei-c.org/board-meeting-in-nancy-agenda/
+Redirect 301	/activities/board/bm12.xml	http://www-dev.tei-c.org/minutes-ofthe-tei-c-board-meeting-baltimore-24-october-2004/
+Redirect 301	/activities/board/bm13.xml	http://www-dev.tei-c.org/tei-board-telecon-held-21-july-2005/
+Redirect 301	/activities/board/bm14.xml	http://www-dev.tei-c.org/minutes-of-the-tei-c-board-meeting-sofia-bulgaria-30-october-2005/
+Redirect 301	/activities/board/bm14a.xml	http://www-dev.tei-c.org/agenda-for-the-tei-c-board-meeting-sofia-bulgaria-30-october-2005/
+Redirect 301	/activities/board/bm15.xml	http://www-dev.tei-c.org/tei-board-conference-call-24-january-2006/
+Redirect 301	/activities/board/bm15a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-24-january-2006/
+Redirect 301	/activities/board/bm16.xml	http://www-dev.tei-c.org/tei-board-conference-call-9-may-2006/
+Redirect 301	/activities/board/bm16a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-9-may-2006/
+Redirect 301	/activities/board/bm17.xml	http://www-dev.tei-c.org/tei-board-conference-call-12-october-2006/
+Redirect 301	/activities/board/bm17a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-12-october-2006/
+Redirect 301	/activities/board/bm18.xml	http://www-dev.tei-c.org/minutes-of-the-tei-c-board-meeting-victoria-b-c-canada-29-october-2006/
+Redirect 301	/activities/board/bm18a.xml	http://www-dev.tei-c.org/agenda-for-the-tei-c-board-meeting-victoria-b-c-canada-29-october-2006/
+Redirect 301	/activities/board/bm19.xml	http://www-dev.tei-c.org/minutes-of-the-tei-c-board-teleconference-13-december-2006/
+Redirect 301	/activities/board/bm20.xml	http://www-dev.tei-c.org/tei-board-conference-call-29-january-2007/
+Redirect 301	/activities/board/bm20a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-29-january-2007/
+Redirect 301	/activities/board/bm21.xml	http://www-dev.tei-c.org/tei-board-conference-call-5-may-2007/
+Redirect 301	/activities/board/bm21a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-5-may-2007/
+Redirect 301	/activities/board/bm22.xml	http://www-dev.tei-c.org/tei-board-conference-call-5-october-2007/
+Redirect 301	/activities/board/bm22a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-5-october-2007/
+Redirect 301	/activities/board/bm23.xml	http://www-dev.tei-c.org/minutes-of-the-tei-c-board-meeting-college-park-maryland-usa-4-november-2007/
+Redirect 301	/activities/board/bm23a.xml	http://www-dev.tei-c.org/tei-members-meeting-2007-business-meeting-agenda/
+Redirect 301	/activities/board/bm24.xml	http://www-dev.tei-c.org/tei-board-conference-call-19-december-2007/
+Redirect 301	/activities/board/bm24a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-19-december-2007/
+Redirect 301	/activities/board/bm25.xml	http://www-dev.tei-c.org/tei-board-conference-call-16-january-2008/
+Redirect 301	/activities/board/bm26.xml	http://www-dev.tei-c.org/tei-board-conference-call-20-february-2008/
+Redirect 301	/activities/board/bm26a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-20-february-2008/
+Redirect 301	/activities/board/bm27.xml	http://www-dev.tei-c.org/tei-board-conference-call-26-march-2008/
+Redirect 301	/activities/board/bm28.xml	http://www-dev.tei-c.org/minutes-for-tei-board-conference-call-13-may-2008/
+Redirect 301	/activities/board/bm28a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-13-may-2008/
+Redirect 301	/activities/board/bm29.xml	http://www-dev.tei-c.org/tei-board-conference-call-09-july-2008/
+Redirect 301	/activities/board/bm29a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-9-july-2008/
+Redirect 301	/activities/board/bm30.xml	http://www-dev.tei-c.org/minutes-of-the-tei-c-board-meeting-kings-college-london-9-november-2008/
+Redirect 301	/activities/board/bm30a.xml	http://www-dev.tei-c.org/tei-members-meeting-2008-board-meeting-agenda/
+Redirect 301	/activities/board/bm31.xml	http://www-dev.tei-c.org/minutes-of-the-tei-c-board-teleconference-17-december-2008/
+Redirect 301	/activities/board/bm31appendixb_flanders_cop.xml	http://www-dev.tei-c.org/tei-board-meeting-31-2008-board-meeting-addendum-community-outreach-program/
+Redirect 301	/activities/board/bm31appendixc_flanders_coc.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-wednesday-december-17-2008/
+Redirect 301	/activities/board/bm31appendixd_odonnell_credit_cards.xml	http://www-dev.tei-c.org/tei-board-meeting-31-2008-board-meeting-addendum-credit-card-proposal/
+Redirect 301	/activities/board/bm31appendixe_odonnell_admin_assist.xml	http://www-dev.tei-c.org/tei-board-meeting-31-2008-board-meeting-addendum-central-admin-assistant-manager/
+Redirect 301	/activities/board/bm31appendixf_odonnell_strategic_travel.xml	http://www-dev.tei-c.org/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel/
+Redirect 301	/activities/board/bm31appendixg_romary_council_meeting.xml	http://www-dev.tei-c.org/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-2/
+Redirect 301	/activities/board/bm31appendixh_schreibman_membersmeeting.xml	http://www-dev.tei-c.org/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-3/
+Redirect 301	/activities/board/bm31appendixi_schreibman_sig_grants.xml	http://www-dev.tei-c.org/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-4/
+Redirect 301	/activities/board/bm31appendixj_odonnell_subscriberfees.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-wednesday-december-17-2008-2/
+Redirect 301	/activities/board/bm31a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-wednesday-december-17-2008-3/
+Redirect 301	/activities/board/bm32-chairsreport.xml	http://www-dev.tei-c.org/chairs-report-for-tuesday-february-10-2009/
+Redirect 301	/activities/board/bm32a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-tuesday-february-10-2009-1300-london/
+Redirect 301	/activities/board/bm33.xml	http://www-dev.tei-c.org/minutes-for-tei-board-conference-call-monday-may-18-2009-1400-london/
+Redirect 301	/activities/board/bm33a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-monday-may-18-2009-1400-london/
+Redirect 301	/activities/board/bm34.xml	http://www-dev.tei-c.org/tei-board-conference-call-14-july-2009/
+Redirect 301	/activities/board/bm34a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-tuesday-july-14-2009-1400-gmt/
+Redirect 301	/activities/board/bm35.xml	http://www-dev.tei-c.org/tei-board-conference-call-8-october-2009/
+Redirect 301	/activities/board/bm35a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-tuesday-july-14-2009-1400-gmt-2/
+Redirect 301	/activities/board/bm36.xml	http://www-dev.tei-c.org/minutes-of-the-tei-c-board-meeting-university-of-michigan-14-15-november-2009/
+Redirect 301	/activities/board/bm36a.xml	http://www-dev.tei-c.org/tei-members-meeting-2009-board-meeting-agenda/
+Redirect 301	/activities/board/bm37.xml	http://www-dev.tei-c.org/minutes-of-the-tei-c-board-meeting-teleconference-1-february-2010/
+Redirect 301	/activities/board/bm37a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-monday-february-1-2010-1400-gmt/
+Redirect 301	/activities/board/bm38.xml	http://www-dev.tei-c.org/tei-board-conference-call-8-february-2010/
+Redirect 301	/activities/board/bm38a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-monday-february-8-2010-1400-gmt/
+Redirect 301	/activities/board/bm39.xml	http://www-dev.tei-c.org/tei-board-conference-call-7-may-2010/
+Redirect 301	/activities/board/bm39a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-friday-may-6-2010-1400-london-bst-1300-utc/
+Redirect 301	/activities/board/bm40.xml	http://www-dev.tei-c.org/tei-board-conference-call-13-14-november-2010/
+Redirect 301	/activities/board/bm40a.xml	http://www-dev.tei-c.org/tei-members-meeting-2010-board-meeting-agenda/
+Redirect 301	/activities/board/bm41.xml	http://www-dev.tei-c.org/tei-board-conference-call-6-june-2011/
+Redirect 301	/activities/board/bm41a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-monday-june-6-2011-1300-utc/
+Redirect 301	/activities/board/bm42.xml	http://www-dev.tei-c.org/tei-board-conference-call-11-august-2011/
+Redirect 301	/activities/board/bm42a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-monday-june-6-2011-1300-utc-2/
+Redirect 301	/activities/board/bm43.xml	http://www-dev.tei-c.org/tei-board-meeting-16-october-2011/
+Redirect 301	/activities/board/bm43a.xml	http://www-dev.tei-c.org/tei-members-meeting-2011-board-meeting-agenda/
+Redirect 301	/activities/board/bm44.xml	http://www-dev.tei-c.org/tei-board-meeting-10-january-2012/
+Redirect 301	/activities/board/bm44a.xml	http://www-dev.tei-c.org/tei-members-meeting-2011-board-meeting-agenda-2/
+Redirect 301	/activities/board/bm45.html	http://www-dev.tei-c.org/tei-board-meeting-teleconference-2012-04-26-1300-1400-gmt/
+Redirect 301	/activities/board/bm45.xml	http://www-dev.tei-c.org/tei-board-meeting-teleconference-2012-04-26-1300-1400-gmt-2/
+Redirect 301	/activities/board/bm46.xml	http://www-dev.tei-c.org/tei-board-minutes-2012-11-10-2012-11-11/
+Redirect 301	/activities/board/bm47.xml	http://www-dev.tei-c.org/tei-board-minutes-conference-call-2013-02-13/
+Redirect 301	/activities/board/bm48.xml	http://www-dev.tei-c.org/tei-board-meeting-minutes-rome-sunday-6-october-2013-900-1600/
+Redirect 301	/activities/board/bm54.xml	http://www-dev.tei-c.org/tei-board-meeting/
+Redirect 301	/activities/board/bm55.xml	http://www-dev.tei-c.org/tei-board-minutes-conference-call-2014-11-24/
+Redirect 301	/activities/board/bm56.xml	http://www-dev.tei-c.org/tei-board-minutes-conference-call-2015-01-13/
+Redirect 301	/activities/board/bm57.xml	http://www-dev.tei-c.org/tei-board-minutes-conference-call-2015-02-24/
+Redirect 301	/activities/board/bm58.xml	http://www-dev.tei-c.org/tei-board-of-directors-conference-call-2015-04-15/
+Redirect 301	/activities/board/bm59.xml	http://www-dev.tei-c.org/tei-board-minutes-conference-call-2015-06-25/
+Redirect 301	/activities/board/bm60.xml	http://www-dev.tei-c.org/tei-board-minutes-in-person-meeting-2015-11-01/
+Redirect 301	/activities/board/bm61.xml	http://www-dev.tei-c.org/tei-board-minutes-conference-call-2016-01-12/
+Redirect 301	/activities/board/bm62.xml	http://www-dev.tei-c.org/tei-board-minutes-google-hangout-2016-02-09/
+Redirect 301	/activities/board/bm63.xml	http://www-dev.tei-c.org/tei-board-minutes-google-hangout-2016-03-08/
+Redirect 301	/activities/board/bm64.xml	http://www-dev.tei-c.org/tei-board-minutes-google-hangout-2016-04-12/
+Redirect 301	/activities/board/bw08.xml	http://www-dev.tei-c.org/tei-host-bids-for-2005-2009/
+Redirect 301	/activities/board/bw09.xml	http://www-dev.tei-c.org/members-meeting-procedures/
+Redirect 301	/activities/board/bw10.xml	http://www-dev.tei-c.org/should-the-email-discussions-of-the-tei-board-be-publicly-accessible/
+Redirect 301	/activities/board/bw11.xml	http://www-dev.tei-c.org/tei-consortium-communications-policy/
+Redirect 301	/activities/board/bw12.xml	http://www-dev.tei-c.org/summary-of-2013-bylaw-revisions/
+Redirect 301	/activities/board/bylaws2013.xml	http://www-dev.tei-c.org/tei-bylaws-2/
+Redirect 301	/activities/board/index.xml	http://www-dev.tei-c.org/tei-board/
+Redirect 301	/activities/board/newbylawsdraft2.xml	http://www-dev.tei-c.org/tei-bylaws-3/
+Redirect 301	/activities/board/procedures.xml	http://www-dev.tei-c.org/tei-consortium-procedures-customs-and-practices/
 
 # Activities/Council
 Redirect 301	/Activities/Council/Meetings/tca38.xml	http://www-dev.tei-c.org/meetings/draft-agenda-tei-council-meeting-galway-3-4-april-2008/
@@ -250,6 +375,130 @@ Redirect 301	/Activities/Council/Working	http://www-dev.tei-c.org/working/
 Redirect 301	/Activities/Council/index.xml	http://www-dev.tei-c.org/tei-technical-council-2/
 Redirect 301	/Activities/Council/public	http://www-dev.tei-c.org/public/
 
+Redirect 301	/activities/council/meetings/tca38.xml	http://www-dev.tei-c.org/meetings/draft-agenda-tei-council-meeting-galway-3-4-april-2008/
+Redirect 301	/activities/council/meetings/tcm01.xml	http://www-dev.tei-c.org/meetings/minutes-of-the-tei-c-council-meeting-jan-12th-2002/
+Redirect 301	/activities/council/meetings/tcm02.xml	http://www-dev.tei-c.org/meetings/tei-council-2002-06-24-conference-call-notes/
+Redirect 301	/activities/council/meetings/tcm03.xml	http://www-dev.tei-c.org/meetings/tcm03-tei-council-conference-call-26-nov-02/
+Redirect 301	/activities/council/meetings/tcm04.xml	http://www-dev.tei-c.org/meetings/tcm04-tei-council-conference-call-21-jan-03/
+Redirect 301	/activities/council/meetings/tcm05.xml	http://www-dev.tei-c.org/meetings/tcm05-tei-council-conference-call-18-mar-03/
+Redirect 301	/activities/council/meetings/tcm07.xml	http://www-dev.tei-c.org/meetings/tcm07-tei-council-meeting-oxford-15-16-may-2003/
+Redirect 301	/activities/council/meetings/tcm08.xml	http://www-dev.tei-c.org/meetings/tcm08-tei-council-conference-call-23-sep-03/
+Redirect 301	/activities/council/meetings/tcm09.xml	http://www-dev.tei-c.org/meetings/tcm09-tei-council-conference-call-27-jan-04/
+Redirect 301	/activities/council/meetings/tcm10.xml	http://www-dev.tei-c.org/meetings/tcm10-tei-council-conference-call/
+Redirect 301	/activities/council/meetings/tcm11.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting/
+Redirect 301	/activities/council/meetings/tcm12.xml	http://www-dev.tei-c.org/meetings/tc-m12-tei-council-conference-call-2-jul-04/
+Redirect 301	/activities/council/meetings/tcm13.xml	http://www-dev.tei-c.org/meetings/tc-m13-tei-council-conference-call-20-sept-04/
+Redirect 301	/activities/council/meetings/tcm14.xml	http://www-dev.tei-c.org/meetings/tei-council-conference-call-of/
+Redirect 301	/activities/council/meetings/tcm15.xml	http://www-dev.tei-c.org/meetings/tcm15-tei-council-conference-call/
+Redirect 301	/activities/council/meetings/tcm16.xml	http://www-dev.tei-c.org/meetings/tcm16-tei-council-conference-call/
+Redirect 301	/activities/council/meetings/tcm17.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-2/
+Redirect 301	/activities/council/meetings/tcm18.xml	http://www-dev.tei-c.org/meetings/notes-from-tei-council-conference-call-of/
+Redirect 301	/activities/council/meetings/tcm19.xml	http://www-dev.tei-c.org/meetings/tcm19-tei-council-conference-call/
+Redirect 301	/activities/council/meetings/tcm20.xml	http://www-dev.tei-c.org/meetings/notes-from-tei-meeting-on-element-classes/
+Redirect 301	/activities/council/meetings/tcm21.xml	http://www-dev.tei-c.org/meetings/tcm21-tei-council-conference-call/
+Redirect 301	/activities/council/meetings/tcm22.xml	http://www-dev.tei-c.org/meetings/notes-from-tei-council-conference-call-of-2/
+Redirect 301	/activities/council/meetings/tcm23.xml	http://www-dev.tei-c.org/meetings/tei-council-conference-call/
+Redirect 301	/activities/council/meetings/tcm24.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-3/
+Redirect 301	/activities/council/meetings/tcm25.xml	http://www-dev.tei-c.org/meetings/tei-council-conference-call-2/
+Redirect 301	/activities/council/meetings/tcm26.xml	http://www-dev.tei-c.org/meetings/tei-council-conference-call-3/
+Redirect 301	/activities/council/meetings/tcm27.xml	http://www-dev.tei-c.org/meetings/tei-council-conference-call-4/
+Redirect 301	/activities/council/meetings/tcm28.xml	http://www-dev.tei-c.org/meetings/tei-council-conference-call-5/
+Redirect 301	/activities/council/meetings/tcm29.xml	http://www-dev.tei-c.org/meetings/tei-council-conference-call-19-mar-2007/
+Redirect 301	/activities/council/meetings/tcm30-notes.xml	http://www-dev.tei-c.org/meetings/tei-council-progress-notes-for-june-2007/
+Redirect 301	/activities/council/meetings/tcm30.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-4/
+Redirect 301	/activities/council/meetings/tcm31.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-5/
+Redirect 301	/activities/council/meetings/tcm32.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-6/
+Redirect 301	/activities/council/meetings/tcm33.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-7/
+Redirect 301	/activities/council/meetings/tcm34.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-8/
+Redirect 301	/activities/council/meetings/tcm35.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-9/
+Redirect 301	/activities/council/meetings/tcm36.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-10/
+Redirect 301	/activities/council/meetings/tcm37.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-11/
+Redirect 301	/activities/council/meetings/tcm38.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-12/
+Redirect 301	/activities/council/meetings/tcm39.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-13/
+Redirect 301	/activities/council/meetings/tcm40.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-14/
+Redirect 301	/activities/council/meetings/tcm41.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-15/
+Redirect 301	/activities/council/meetings/tcm42.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-16/
+Redirect 301	/activities/council/meetings/tcm43.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-17/
+Redirect 301	/activities/council/meetings/tcm44.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-18/
+Redirect 301	/activities/council/meetings/tcm45.xml	http://www-dev.tei-c.org/meetings/draft-minutes-of-council-meeting/
+Redirect 301	/activities/council/meetings/tcm46.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-chicago-11-13-april-2011/
+Redirect 301	/activities/council/meetings/tcm47.xml	http://www-dev.tei-c.org/meetings/tei-council-conference-call-17-august-2011/
+Redirect 301	/activities/council/meetings/tcm48.xml	http://www-dev.tei-c.org/meetings/tei-council-meeting-7-9-november-2011/
+Redirect 301	/activities/council/meetings/tcm49.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting/
+Redirect 301	/activities/council/meetings/tcm50.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-2/
+Redirect 301	/activities/council/meetings/tcm51.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-3/
+Redirect 301	/activities/council/meetings/tcm52.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-4/
+Redirect 301	/activities/council/meetings/tcm53.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-5/
+Redirect 301	/activities/council/meetings/tcm54.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-11-13-april-2013/
+Redirect 301	/activities/council/meetings/tcm55.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-6/
+Redirect 301	/activities/council/meetings/tcm56.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-7/
+Redirect 301	/activities/council/meetings/tcm57.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-8/
+Redirect 301	/activities/council/meetings/tcm58.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-9/
+Redirect 301	/activities/council/meetings/tcm59.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-10/
+Redirect 301	/activities/council/meetings/tcm60.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-11/
+Redirect 301	/activities/council/meetings/tcm61.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-12/
+Redirect 301	/activities/council/meetings/tcm62.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-13/
+Redirect 301	/activities/council/meetings/tcm63.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-14/
+Redirect 301	/activities/council/meetings/tcm64.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-meeting-15/
+Redirect 301	/activities/council/meetings/tcm65.xml	http://www-dev.tei-c.org/meetings/tei-teleconference-minutes-2015-01-30/
+Redirect 301	/activities/council/meetings/tcm66.xml	http://www-dev.tei-c.org/meetings/tcm66-xml/
+Redirect 301	/activities/council/meetings/tcm67.xml	http://www-dev.tei-c.org/meetings/teleconference-2015-03-27-1230-utc/
+Redirect 301	/activities/council/meetings/tcm68.xml	http://www-dev.tei-c.org/meetings/teleconference-2015-04-24-1300-utc/
+Redirect 301	/activities/council/meetings/tcm69.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-minutes-2015-05/
+Redirect 301	/activities/council/meetings/tcm70.xml	http://www-dev.tei-c.org/meetings/teleconference-2015-06-29-1400-utc/
+Redirect 301	/activities/council/meetings/tcm71.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-minutes-2015-07/
+Redirect 301	/activities/council/meetings/tcm72.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-minutes-2015-08/
+Redirect 301	/activities/council/meetings/tcm73.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-minutes-2015-09/
+Redirect 301	/activities/council/meetings/tcm74.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-minutes-2015-10/
+Redirect 301	/activities/council/meetings/tcm75.xml	http://www-dev.tei-c.org/meetings/tei-technical-council-minutes-2015-12/
+Redirect 301	/activities/council/meetings/tcm76.xml	http://www-dev.tei-c.org/meetings/teleconference-2016-01-25-1400-utc/
+Redirect 301	/activities/council/meetings/tcm77.xml	http://www-dev.tei-c.org/meetings/teleconference-2016-02-25/
+Redirect 301	/activities/council/meetings/tcm78.xml	http://www-dev.tei-c.org/meetings/teleconference-2016-03-31/
+Redirect 301	/activities/council/meetings/tcm79.xml	http://www-dev.tei-c.org/meetings/tcm79-xml/
+Redirect 301	/activities/council/meetings/tcm80.xml	http://www-dev.tei-c.org/meetings/tcm80-xml/
+Redirect 301	/activities/council/meetings	http://www-dev.tei-c.org/meetings/
+
+Redirect 301	/activities/council/reports/tcr01.xml	http://www-dev.tei-c.org/reports/tcr01-report-of-the-tei-council-2003/
+Redirect 301	/activities/council/reports/tcr02.xml	http://www-dev.tei-c.org/reports/tcr02-report-of-the-tei-council-to-the-members-meeting-2004/
+Redirect 301	/activities/council/reports/tcr03.xml	http://www-dev.tei-c.org/reports/tcr03-report-of-the-tei-council-to-the-members-meeting-2005/
+Redirect 301	/activities/council/reports/tcr04.xml	http://www-dev.tei-c.org/reports/report-of-the-tei-council-activities-to-the-members-meeting-2006/
+Redirect 301	/activities/council/reports	http://www-dev.tei-c.org/reports/
+
+Redirect 301	/activities/council/working/genetictei.doc.html	http://www-dev.tei-c.org/working/an-encoding-model-for-genetic-editions/
+Redirect 301	/activities/council/working/tcw01.xml	http://www-dev.tei-c.org/working/tcw01-proposed-charter-for-feature-structure-workgroup/
+Redirect 301	/activities/council/working/tcw02.xml	http://www-dev.tei-c.org/working/tcw02-approaching-the-son-of-odd-source-markup-for-p5/
+Redirect 301	/activities/council/working/tcw03.xml	http://www-dev.tei-c.org/working/charge-for-the-tei-councils-metalanguage-taskforce/
+Redirect 301	/activities/council/working/tcw04.xml	http://www-dev.tei-c.org/working/charge-for-the-tei-councils-manuscript-description-taskforce/
+Redirect 301	/activities/council/working/tcw05.xml	http://www-dev.tei-c.org/working/tcw-05-tei-p5-progress-report-jan-2005/
+Redirect 301	/activities/council/working/tcw06.xml	http://www-dev.tei-c.org/working/using-the-tei-sourceforge-repository/
+Redirect 301	/activities/council/working/tcw07.xml	http://www-dev.tei-c.org/working/notes-on-the-tei-class-system/
+Redirect 301	/activities/council/working/tcw08.xml	http://www-dev.tei-c.org/working/towards-the-1-0-release-of-tei-p5/
+Redirect 301	/activities/council/working/tcw09.xml	http://www-dev.tei-c.org/working/tcw09-backward-compatibility-and-the-maintenance-of-the-text-encoding-initiative-guidelines/
+Redirect 301	/activities/council/working/tcw10.xml	http://www-dev.tei-c.org/working/tcw10-draft-recommendations-on-the-formatting-of-tei-documents/
+Redirect 301	/activities/council/working/tcw11.html	http://www-dev.tei-c.org/working/currently-open-sf-tracker-items/
+Redirect 301	/activities/council/working/tcw12.xml	http://www-dev.tei-c.org/working/council-tracker-review-3-april-08/
+Redirect 301	/activities/council/working/tcw14.html	http://www-dev.tei-c.org/working/currently-open-sf-feature-requests/
+Redirect 301	/activities/council/working/tcw15.html	http://www-dev.tei-c.org/working/tcw-15-currently-open-sf-feature-requests/
+Redirect 301	/activities/council/working/tcw16.xml	http://www-dev.tei-c.org/working/bibliographies-for-scholarly-work-using-for-scientific-bibliographies/
+Redirect 301	/activities/council/working/tcw17.html	http://www-dev.tei-c.org/working/open-github-issues/
+Redirect 301	/activities/council/working/tcw18.xml	http://www-dev.tei-c.org/working/tcw18-summary-of-genetic-working-group-proposals/
+Redirect 301	/activities/council/working/tcw19.html	http://www-dev.tei-c.org/working/an-encoding-model-for-genetic-editions-2/
+Redirect 301	/activities/council/working/tcw20.xml	http://www-dev.tei-c.org/working/how-to-edit-the-tei-guidelines/
+Redirect 301	/activities/council/working/tcw21.html	http://www-dev.tei-c.org/working/preliminary-updates-for-genetic-editing-in-p5/
+Redirect 301	/activities/council/working/tcw22.xml	http://www-dev.tei-c.org/working/building-a-tei-release/
+Redirect 301	/activities/council/working/tcw23.xml	http://www-dev.tei-c.org/working/proposal-to-clarify-and-rationalize-encoding-of-pagination-in-bibliographic-citations/
+Redirect 301	/activities/council/working/tcw24.xml	http://www-dev.tei-c.org/working/style-guide-for-editing-the-tei-guidelines/
+Redirect 301	/activities/council/working/tcw25.xml	http://www-dev.tei-c.org/working/tcw-25-report-on-eitmmi-3rd-workshop-berlin-22-oct-2012/
+Redirect 301	/activities/council/working/tcw26.xml	http://www-dev.tei-c.org/working/odd-development-working-group-dh2012-meeting-summary/
+Redirect 301	/activities/council/working/tcw26a.xml	http://www-dev.tei-c.org/working/odd-development-working-group-dh2012-meeting-notes/
+Redirect 301	/activities/council/working/tcw27.xml	http://www-dev.tei-c.org/working/procedure-for-handling-practices-that-are-no-longer-recommended-or-deprecated/
+Redirect 301	/activities/council/working/tcw28.xml	http://www-dev.tei-c.org/working/draft-policy-on-integration-of-external-standards-into-the-tei-guidelines/
+Redirect 301	/activities/council/working/tcw29.xml	http://www-dev.tei-c.org/working/the-roma-install-on-tei-c-org/
+Redirect 301	/activities/council/working	http://www-dev.tei-c.org/working/
+
+
+Redirect 301	/activities/council/index.xml	http://www-dev.tei-c.org/tei-technical-council-2/
+Redirect 301	/activities/council/public	http://www-dev.tei-c.org/public/
 
 # Activities/Projects
 Redirect 301	/Activities/Projects/CMS-Uploads/bv01.xml	http://www-dev.tei-c.org/cms-uploads/bvh-virtual-humanistic-libraries-bibliotheques-virtuelles-humanistes/
@@ -447,6 +696,201 @@ Redirect 301	/Activities/Projects/wr01.xml	http://www-dev.tei-c.org/wright-ameri
 Redirect 301	/Activities/Projects/wt01.xml	http://www-dev.tei-c.org/womens-travel-writing-1830-1930/
 Redirect 301	/Activities/Projects/ye01.xml	http://www-dev.tei-c.org/the-yellow-nineties-online/
 
+Redirect 301	/activities/projects/cms-uploads/bv01.xml	http://www-dev.tei-c.org/cms-uploads/bvh-virtual-humanistic-libraries-bibliotheques-virtuelles-humanistes/
+Redirect 301	/activities/projects/cms-uploads/newindex.xml	http://www-dev.tei-c.org/cms-uploads/projects-using-the-tei/
+Redirect 301	/activities/projects/cms-uploads	http://www-dev.tei-c.org/cms-uploads/
+
+Redirect 301	/activities/projects/af01.xml	http://www-dev.tei-c.org/african-languages-lexicon-project-allex/
+Redirect 301	/activities/projects/afr01.xml	http://www-dev.tei-c.org/african-american-women-writers-of-the-19th-century/
+Redirect 301	/activities/projects/al01.xml	http://www-dev.tei-c.org/alex-catalogue-of-electronic-texts/
+Redirect 301	/activities/projects/al02.xml	http://www-dev.tei-c.org/the-algernon-charles-swinburne-project/
+Redirect 301	/activities/projects/al08.xml	http://www-dev.tei-c.org/album-interactif-de-paleographie-medievale/
+Redirect 301	/activities/projects/am01.xml	http://www-dev.tei-c.org/american-verse-project/
+Redirect 301	/activities/projects/am02.xml	http://www-dev.tei-c.org/american-memory-from-the-library-of-congress/
+Redirect 301	/activities/projects/an01.xml	http://www-dev.tei-c.org/the-anglo-saxon-poetry-project/
+Redirect 301	/activities/projects/an02.xml	http://www-dev.tei-c.org/ancient-inscriptions-of-the-northern-black-sea/
+Redirect 301	/activities/projects/an03.xml	http://www-dev.tei-c.org/anemoscala-corpus-of-modern-greek-poetry/
+Redirect 301	/activities/projects/ap02.xml	http://www-dev.tei-c.org/aphrodisias-in-late-antiquity-2004/
+Redirect 301	/activities/projects/ar01.xml	http://www-dev.tei-c.org/archimedes-palimpsest-project/
+Redirect 301	/activities/projects/at01.xml	http://www-dev.tei-c.org/atlas-atla-series/
+Redirect 301	/activities/projects/au01.xml	http://www-dev.tei-c.org/autour-des-res-gestae-divi-augusti/
+Redirect 301	/activities/projects/be01.xml	http://www-dev.tei-c.org/berardier-org/
+Redirect 301	/activities/projects/be02.xml	http://www-dev.tei-c.org/berlin-intellectuals-1800-1830/
+Redirect 301	/activities/projects/bi01.xml	http://www-dev.tei-c.org/miguel-de-cervantes-digital-library/
+Redirect 301	/activities/projects/bi05.xml	http://www-dev.tei-c.org/biblioteca-digital-del-pensamiento-novohispano/
+Redirect 301	/activities/projects/bo01.xml	http://www-dev.tei-c.org/bodleian-library-toyota-city-imaging-project/
+Redirect 301	/activities/projects/bo02.xml	http://www-dev.tei-c.org/boccaccios-decameron/
+Redirect 301	/activities/projects/bo03.xml	http://www-dev.tei-c.org/internet-library-of-early-journals/
+Redirect 301	/activities/projects/bo04.xml	http://www-dev.tei-c.org/book-of-margery-kempe/
+Redirect 301	/activities/projects/br01.xml	http://www-dev.tei-c.org/british-national-corpus/
+Redirect 301	/activities/projects/br02.xml	http://www-dev.tei-c.org/british-women-romantic-poets-1789-1832/
+Redirect 301	/activities/projects/br03.xml	http://www-dev.tei-c.org/brown-university-scholarly-technology-group/
+Redirect 301	/activities/projects/br04.xml	http://www-dev.tei-c.org/brown-university-women-writers-project/
+Redirect 301	/activities/projects/br05.xml	http://www-dev.tei-c.org/brevier-legislative-reports/
+Redirect 301	/activities/projects/bu01.xml	http://www-dev.tei-c.org/bulgarian-national-corpus/
+Redirect 301	/activities/projects/bv01.xml	http://www-dev.tei-c.org/bvh-virtual-humanistic-libraries-bibliotheques-virtuelles-humanistes/
+Redirect 301	/activities/projects/ca01.xml	http://www-dev.tei-c.org/cambridge-university-press/
+Redirect 301	/activities/projects/ca03.xml	http://www-dev.tei-c.org/cartulaire-blanc-of-the-abbey-of-saint-denis/
+Redirect 301	/activities/projects/ca04.xml	http://www-dev.tei-c.org/carl-maria-von-weber-gesamtausgabe/
+Redirect 301	/activities/projects/cb01.xml	http://www-dev.tei-c.org/chinese-buddhist-electronic-text-association/
+Redirect 301	/activities/projects/ce01.xml	http://www-dev.tei-c.org/celt-project-the-corpus-of-electronic-texts/
+Redirect 301	/activities/projects/ch01.xml	http://www-dev.tei-c.org/english-poetry-full-text-database/
+Redirect 301	/activities/projects/ch02.xml	http://www-dev.tei-c.org/the-charrette-project/
+Redirect 301	/activities/projects/ch03.xml	http://www-dev.tei-c.org/chronicon/
+Redirect 301	/activities/projects/ch04.xml	http://www-dev.tei-c.org/the-chymistry-of-isaac-newton/
+Redirect 301	/activities/projects/ch05.xml	http://www-dev.tei-c.org/the-charles-brockden-brown-electronic-archive-and-scholarly-edition/
+Redirect 301	/activities/projects/co02.xml	http://www-dev.tei-c.org/corpus-encoding-standard-ces/
+Redirect 301	/activities/projects/co04.xml	http://www-dev.tei-c.org/computational-linguistics-for-metadata-building-climb/
+Redirect 301	/activities/projects/co05.xml	http://www-dev.tei-c.org/corpus-toneelkritiek-interbellum/
+Redirect 301	/activities/projects/co06.xml	http://www-dev.tei-c.org/colonial-despatches-the-colonial-despatches-of-vancouver-island-and-british-columbia-1846-1871/
+Redirect 301	/activities/projects/co11.xml	http://www-dev.tei-c.org/colonialab/
+Redirect 301	/activities/projects/cr01.xml	http://www-dev.tei-c.org/croatian-language-corpus-hrvatski-jezini-korpus/
+Redirect 301	/activities/projects/cr02.xml	http://www-dev.tei-c.org/croatiae-auctores-latini/
+Redirect 301	/activities/projects/cu01.xml	http://www-dev.tei-c.org/cursus-project/
+Redirect 301	/activities/projects/da02.xml	http://www-dev.tei-c.org/the-world-of-dante/
+Redirect 301	/activities/projects/da03.xml	http://www-dev.tei-c.org/dalf-digital-archive-of-letters-by-flemish-authors-and-composers-from-the-19th-20th-century/
+Redirect 301	/activities/projects/da04.xml	http://www-dev.tei-c.org/dantes-lemmatized-works/
+Redirect 301	/activities/projects/da05.xml	http://www-dev.tei-c.org/dafydd-ap-gwilym-edition/
+Redirect 301	/activities/projects/de01.xml	http://www-dev.tei-c.org/deutsches-textarchiv-the-german-text-archive/
+Redirect 301	/activities/projects/di01.xml	http://www-dev.tei-c.org/digital-litteratur/
+Redirect 301	/activities/projects/di04.xml	http://www-dev.tei-c.org/digitale-bibliotheek-voor-de-nederlandse-letteren-dbnl/
+Redirect 301	/activities/projects/di05.xml	http://www-dev.tei-c.org/digital-quaker-collection/
+Redirect 301	/activities/projects/di06.xml	http://www-dev.tei-c.org/a-digital-comparative-edition-and-translation-of-the-shorter-chinese-sa%e1%b9%83yukta-agama/
+Redirect 301	/activities/projects/di07.xml	http://www-dev.tei-c.org/university-of-virginia-library/
+Redirect 301	/activities/projects/di08.xml	http://www-dev.tei-c.org/dingler-online/
+Redirect 301	/activities/projects/di09.xml	http://www-dev.tei-c.org/diccionario-electronico-multilingue-de-verbos-amplios-de-movimiento-andar-ir-venir-volver-multilingual-electronic-dictionary-of-broad-meaning-motion-verbs-andar-walk-ir/
+Redirect 301	/activities/projects/di80.xml	http://www-dev.tei-c.org/digital-averroes-research-environment-dare/
+Redirect 301	/activities/projects/di81.xml	http://www-dev.tei-c.org/the-digital-temple/
+Redirect 301	/activities/projects/di85.xml	http://www-dev.tei-c.org/digital-archives-and-pacific-cultures/
+Redirect 301	/activities/projects/di86.xml	http://www-dev.tei-c.org/digital-mitford-the-mary-russell-mitford-archive/
+Redirect 301	/activities/projects/di89.xml	http://www-dev.tei-c.org/die-musik-in-geschichte-und-gegenwart-mgg/
+Redirect 301	/activities/projects/di91.xml	http://www-dev.tei-c.org/the-digital-walters/
+Redirect 301	/activities/projects/di93.xml	http://www-dev.tei-c.org/digital-dictionary-of-buddhism-and-cjkv-e-dictionary/
+Redirect 301	/activities/projects/do01.xml	http://www-dev.tei-c.org/documenting-the-american-south/
+Redirect 301	/activities/projects/do02.xml	http://www-dev.tei-c.org/les-dossiers-de-bouvard-et-pecuchet-flaubert/
+Redirect 301	/activities/projects/du01.xml	http://www-dev.tei-c.org/duxbury-online-historical-archive/
+Redirect 301	/activities/projects/dw01.xml	http://www-dev.tei-c.org/digitales-worterbuch-der-deutschen-sprache-the-digital-dictionary-of-the-german-language/
+Redirect 301	/activities/projects/ea02.xml	http://www-dev.tei-c.org/early-americas-digital-archive/
+Redirect 301	/activities/projects/ea03.xml	http://www-dev.tei-c.org/early-irish-glossaries-database/
+Redirect 301	/activities/projects/ec01.xml	http://www-dev.tei-c.org/early-canada-online/
+Redirect 301	/activities/projects/ef01.xml	http://www-dev.tei-c.org/early-modern-french-women-writers/
+Redirect 301	/activities/projects/ei01.xml	http://www-dev.tei-c.org/eighteenth-century-poetry-archive/
+Redirect 301	/activities/projects/el03.xml	http://www-dev.tei-c.org/early-american-fiction/
+Redirect 301	/activities/projects/el05.xml	http://www-dev.tei-c.org/the-electronic/
+Redirect 301	/activities/projects/em01.xml	http://www-dev.tei-c.org/emily-dickinson-archive/
+Redirect 301	/activities/projects/en01.xml	http://www-dev.tei-c.org/the-english-norwegian-parallel-corpus/
+Redirect 301	/activities/projects/ep01.xml	http://www-dev.tei-c.org/the-epidoc-collaborative/
+Redirect 301	/activities/projects/ep02.xml	http://www-dev.tei-c.org/emblem-project-utrecht/
+Redirect 301	/activities/projects/er01.xml	http://www-dev.tei-c.org/early-19th-century-russian-readership-culture/
+Redirect 301	/activities/projects/er02.xml	http://www-dev.tei-c.org/ernst-barlach-bibliographical-listing-of-secondary-literature/
+Redirect 301	/activities/projects/eu01.xml	http://www-dev.tei-c.org/europeana-regia/
+Redirect 301	/activities/projects/ex01.xml	http://www-dev.tei-c.org/extracts-from-the-diary-of-robert-graves/
+Redirect 301	/activities/projects/ex02.xml	http://www-dev.tei-c.org/experimentation-de-normes-de-balisage-en-langues-partenaires/
+Redirect 301	/activities/projects/ex03.xml	http://www-dev.tei-c.org/ex-bibliotheca-gondomariensi/
+Redirect 301	/activities/projects/fa01.xml	http://www-dev.tei-c.org/a-family-at-war-mary-martins-diary-1-january-25-may-1916/
+Redirect 301	/activities/projects/fi01.xml	http://www-dev.tei-c.org/the-fida-corpus-of-slovene-language/
+Redirect 301	/activities/projects/fo01.xml	http://www-dev.tei-c.org/fortunoff-video-archive-for-holocaust-testimonies/
+Redirect 301	/activities/projects/fo02.xml	http://www-dev.tei-c.org/for-better-for-verse/
+Redirect 301	/activities/projects/fr01.xml	http://www-dev.tei-c.org/freiburger-anthologie-lyrik-und-lied/
+Redirect 301	/activities/projects/fr02.xml	http://www-dev.tei-c.org/freedict/
+Redirect 301	/activities/projects/fu01.xml	http://www-dev.tei-c.org/the-future-fire/
+Redirect 301	/activities/projects/gr01.xml	http://www-dev.tei-c.org/greek-manuscripts-in-sweden/
+Redirect 301	/activities/projects/he01.xml	http://www-dev.tei-c.org/henrik-ibsens-writings/
+Redirect 301	/activities/projects/hi01.xml	http://www-dev.tei-c.org/the-history-of-the-accademia-di-san-luca-c-1590-1635-documents-from-the-archivio-di-stato-di-roma/
+Redirect 301	/activities/projects/hy01.xml	http://www-dev.tei-c.org/hypergrammar/
+Redirect 301	/activities/projects/ic01.xml	http://www-dev.tei-c.org/icelandic-online-dictionary-and-readings/
+Redirect 301	/activities/projects/ic02.xml	http://www-dev.tei-c.org/icon-programming-for-humanists-second-edition/
+Redirect 301	/activities/projects/in01.xml	http://www-dev.tei-c.org/indiana-university-library-electronic-text-resources-letrs/
+Redirect 301	/activities/projects/in02.xml	http://www-dev.tei-c.org/inscriptions-of-roman-cyrenaica/
+Redirect 301	/activities/projects/in03.xml	http://www-dev.tei-c.org/inscriptions-of-aphrodisias-2007/
+Redirect 301	/activities/projects/in04.xml	http://www-dev.tei-c.org/inscriptions-of-roman-tripolitania/
+Redirect 301	/activities/projects/in05.xml	http://www-dev.tei-c.org/integrating-digital-papyrology/
+Redirect 301	/activities/projects/in06.xml	http://www-dev.tei-c.org/in-transition-selected-poems-by-the-baroness-elsa-von-freytag-loringhoven/
+Redirect 301	/activities/projects/in07.xml	http://www-dev.tei-c.org/indiana-magazine-of-history/
+Redirect 301	/activities/projects/in08.xml	http://www-dev.tei-c.org/indiana-university-board-of-trustees-minutes/
+Redirect 301	/activities/projects/in09.xml	http://www-dev.tei-c.org/indiana-university-bloomington-faculty-council-minutes/
+Redirect 301	/activities/projects/in10.xml	http://www-dev.tei-c.org/indiana-authors-and-their-books/
+Redirect 301	/activities/projects/in70.xml	http://www-dev.tei-c.org/inscriptiones-antiquae-orae-septentrionalis-ponti-euxini-iospe/
+Redirect 301	/activities/projects/index.xml	http://www-dev.tei-c.org/projects-using-the-tei/
+Redirect 301	/activities/projects/ja02.xml	http://www-dev.tei-c.org/japanese-text-initiative/
+Redirect 301	/activities/projects/jo01.xml	http://www-dev.tei-c.org/john-foxes-book-of-martyrs-variorum-edition-online/
+Redirect 301	/activities/projects/jo02.xml	http://www-dev.tei-c.org/jos-corpora-of-slovene/
+Redirect 301	/activities/projects/ju01.xml	http://www-dev.tei-c.org/der-junge-goethe-in-seiner-zeit/
+Redirect 301	/activities/projects/ka01.xml	http://www-dev.tei-c.org/the-kapellmeisterbuch-of-the-abbey-of-einsiedeln/
+Redirect 301	/activities/projects/ko01.xml	http://www-dev.tei-c.org/kolb-proust-archive-for-research/
+Redirect 301	/activities/projects/le01.xml	http://www-dev.tei-c.org/le-mariage-sous-lancien-regime/
+Redirect 301	/activities/projects/lo01.xml	http://www-dev.tei-c.org/project-lorelei/
+Redirect 301	/activities/projects/lt01.xml	http://www-dev.tei-c.org/the-legacy-tobacco-documents-library/
+Redirect 301	/activities/projects/ma01.xml	http://www-dev.tei-c.org/mark-twain-project-online/
+Redirect 301	/activities/projects/ma06.xml	http://www-dev.tei-c.org/the-map-of-early-modern-london/
+Redirect 301	/activities/projects/ma07.xml	http://www-dev.tei-c.org/the-mary-baker-eddy-papers-project/
+Redirect 301	/activities/projects/me02.xml	http://www-dev.tei-c.org/medieval-nordic-text-archive-menota/
+Redirect 301	/activities/projects/mg01.xml	http://www-dev.tei-c.org/the-thomas-macgreevy-archive/
+Redirect 301	/activities/projects/mo01.xml	http://www-dev.tei-c.org/model-editions-partnership-historical-editions-in-the-digital-age/
+Redirect 301	/activities/projects/mo02.xml	http://www-dev.tei-c.org/morris-on-line-edition/
+Redirect 301	/activities/projects/mr01.xml	http://www-dev.tei-c.org/the-medieval-review/
+Redirect 301	/activities/projects/mu03.xml	http://www-dev.tei-c.org/multilingual-text-tools-and-corpora-multext/
+Redirect 301	/activities/projects/mu04.xml	http://www-dev.tei-c.org/multext-east/
+Redirect 301	/activities/projects/mu05.xml	http://www-dev.tei-c.org/edvard-munchs-writings/
+Redirect 301	/activities/projects/my01.xml	http://www-dev.tei-c.org/mymanuskrip-malaysian-manuscripts-a-digital-library/
+Redirect 301	/activities/projects/na01.xml	http://www-dev.tei-c.org/national-corpus-of-polish/
+Redirect 301	/activities/projects/ne02.xml	http://www-dev.tei-c.org/newton-manuscript-project/
+Redirect 301	/activities/projects/ne03.xml	http://www-dev.tei-c.org/new-zealand-electronic-text-centre/
+Redirect 301	/activities/projects/ne04.xml	http://www-dev.tei-c.org/newcastle-electronic-corpus-of-tyneside-english/
+Redirect 301	/activities/projects/newform.html	http://www-dev.tei-c.org/tei-project-description-form/
+Redirect 301	/activities/projects/newformresp.html	http://www-dev.tei-c.org/tei-project-description-form-2/
+Redirect 301	/activities/projects/newindex.xml	http://www-dev.tei-c.org/projects-using-the-tei-2/
+Redirect 301	/activities/projects/newproj.xml	http://www-dev.tei-c.org/tell-us-about-your-project/
+Redirect 301	/activities/projects/nl01.xml	http://www-dev.tei-c.org/new-left-review/
+Redirect 301	/activities/projects/no01.xml	http://www-dev.tei-c.org/norsk-ordbok-2014/
+Redirect 301	/activities/projects/oc01.xml	http://www-dev.tei-c.org/ocimco-oxford-cambridge-islamic-manuscripts-catalogue-online/
+Redirect 301	/activities/projects/ol02.xml	http://www-dev.tei-c.org/base-de-francais-medieval-old-french-corpus/
+Redirect 301	/activities/projects/op01.xml	http://www-dev.tei-c.org/the-open-siddur-project/
+Redirect 301	/activities/projects/or01.xml	http://www-dev.tei-c.org/the-orlando-project-an-integrated-history-of-womens-writing-in-the-british-isles/
+Redirect 301	/activities/projects/os01.xml	http://www-dev.tei-c.org/the-oslo-multilingual-corpus/
+Redirect 301	/activities/projects/ox01.xml	http://www-dev.tei-c.org/oxford-text-archive/
+Redirect 301	/activities/projects/pa01.xml	http://www-dev.tei-c.org/partial-transcription-of-john-lydgates-fall-of-princes/
+Redirect 301	/activities/projects/pe01.xml	http://www-dev.tei-c.org/perseus-project/
+Redirect 301	/activities/projects/pe02.xml	http://www-dev.tei-c.org/peter-plaoul-the-electronic-critical-edition-of-plaouls-commentary-on-the-sentences/
+Redirect 301	/activities/projects/pi01.xml	http://www-dev.tei-c.org/electronic-archive/
+Redirect 301	/activities/projects/po01.xml	http://www-dev.tei-c.org/polish-language-of-the-xx-century-sixties/
+Redirect 301	/activities/projects/po02.xml	http://www-dev.tei-c.org/poetess-archive/
+Redirect 301	/activities/projects/pr01.xml	http://www-dev.tei-c.org/proquest/
+Redirect 301	/activities/projects/ps01.xml	http://www-dev.tei-c.org/p-s-post-scriptum/
+Redirect 301	/activities/projects/re01.xml	http://www-dev.tei-c.org/repertorium-of-old-bulgarian-literature-and-letters/
+Redirect 301	/activities/projects/re02.xml	http://www-dev.tei-c.org/resianica-dictionary/
+Redirect 301	/activities/projects/ro01.xml	http://www-dev.tei-c.org/roles-et-pouvoirs-des-femmes-au-xvie-siecle-dans-la-france-de-louest/
+Redirect 301	/activities/projects/sa01.xml	http://www-dev.tei-c.org/sandrart-net/
+Redirect 301	/activities/projects/sa02.xml	http://www-dev.tei-c.org/sarit/
+Redirect 301	/activities/projects/sa03.xml	http://www-dev.tei-c.org/saint-patricks-confessio-hyperstack/
+Redirect 301	/activities/projects/sb01.xml	http://www-dev.tei-c.org/sbl-slovene-biograpical-lexicon/
+Redirect 301	/activities/projects/sc02.xml	http://www-dev.tei-c.org/scholarly-digital-editions-of-slovenian-literature/
+Redirect 301	/activities/projects/se02.xml	http://www-dev.tei-c.org/the-scholarly-electronic-text-and-image-service/
+Redirect 301	/activities/projects/sh01.xml	http://www-dev.tei-c.org/the-shelley-godwin-archive/
+Redirect 301	/activities/projects/st01.xml	http://www-dev.tei-c.org/the-sternberg-project-commented-edition-of-the-correspondence-to-and-from-kaspar-maria-von-sternberg-1761-1838/
+Redirect 301	/activities/projects/sz01.xml	http://www-dev.tei-c.org/szeged-corpus-a-natural-language-processed-hungarian-corpus/
+Redirect 301	/activities/projects/ta01.xml	http://www-dev.tei-c.org/tarsian-a-digital-edition-of-first-corinthians-in-vaticanus-arabicus-13/
+Redirect 301	/activities/projects/th01.xml	http://www-dev.tei-c.org/thesaurus-musicarum-italicarum-tmi/
+Redirect 301	/activities/projects/th03.xml	http://www-dev.tei-c.org/the-doegen-records-web-project/
+Redirect 301	/activities/projects/th04.xml	http://www-dev.tei-c.org/the-versioning-machine/
+Redirect 301	/activities/projects/th05.xml	http://www-dev.tei-c.org/the-writings-of-james-fenimore-cooper/
+Redirect 301	/activities/projects/th08.xml	http://www-dev.tei-c.org/thomas-gray-archive/
+Redirect 301	/activities/projects/th09.xml	http://www-dev.tei-c.org/boissy-archive/
+Redirect 301	/activities/projects/th11.xml	http://www-dev.tei-c.org/the-james-malcolm-rymer-collection/
+Redirect 301	/activities/projects/ti01.xml	http://www-dev.tei-c.org/ticha-a-digital-text-explorer-for-colonial-zapotec/
+Redirect 301	/activities/projects/un01.xml	http://www-dev.tei-c.org/university-of-michigan-humanities-text-initiative-hti/
+Redirect 301	/activities/projects/un02.xml	http://www-dev.tei-c.org/university-of-virginia-electronic-text-center/
+Redirect 301	/activities/projects/un03.xml	http://www-dev.tei-c.org/united-farm-workers-of-america-california-collective-bargaining-agreements-collection/
+Redirect 301	/activities/projects/us01.xml	http://www-dev.tei-c.org/using-xml-to-generate-research-tools-for-wittgenstein-scholars-by-collaborative-groupwork/
+Redirect 301	/activities/projects/vi01.xml	http://www-dev.tei-c.org/victorian-women-writers-project/
+Redirect 301	/activities/projects/vi02.xml	http://www-dev.tei-c.org/vincent-van-gogh-the-letters/
+Redirect 301	/activities/projects/vi03.xml	http://www-dev.tei-c.org/victorian-women-writers-project-2/
+Redirect 301	/activities/projects/vo01.xml	http://www-dev.tei-c.org/voltaire-foundation/
+Redirect 301	/activities/projects/vo02.xml	http://www-dev.tei-c.org/voices-of-the-holocaust/
+Redirect 301	/activities/projects/wr01.xml	http://www-dev.tei-c.org/wright-american-fiction-1851-1875/
+Redirect 301	/activities/projects/wt01.xml	http://www-dev.tei-c.org/womens-travel-writing-1830-1930/
+Redirect 301	/activities/projects/ye01.xml	http://www-dev.tei-c.org/the-yellow-nineties-online/
+
 
 # Activities/SIG
 Redirect 301	/Activities/SIG/Authoring	http://www-dev.tei-c.org/authoring/
@@ -507,6 +951,65 @@ Redirect 301	/Activities/SIG/Tools	http://www-dev.tei-c.org/tools/
 
 Redirect 301	/Activities/SIG/index.xml	http://www-dev.tei-c.org/special-interest-groups-sigs/
 Redirect 301	/Activities/SIG/rules.xml	http://www-dev.tei-c.org/sig-rules-and-regulations/
+
+Redirect 301	/activities/sig/authoring	http://www-dev.tei-c.org/authoring/
+Redirect 301	/activities/sig/cmc	http://www-dev.tei-c.org/cmc/
+
+Redirect 301	/activities/sig/correspondence/corrsig-2008.xml	http://www-dev.tei-c.org/correspondence/tei-sig-on-correspondence-minutes-from-the-london-meeting-8-november-2008/
+Redirect 301	/activities/sig/correspondence/corrsig-2009.xml	http://www-dev.tei-c.org/correspondence/tei-sig-on-correspondence-minutes-from-the-ann-arbor-meeting-14-november-2009/
+Redirect 301	/activities/sig/correspondence/corrsig-2010.xml	http://www-dev.tei-c.org/correspondence/tei-sig-on-correspondence-minutes-zadar-nov-13-2010/
+Redirect 301	/activities/sig/correspondence/corrsig-2011.xml	http://www-dev.tei-c.org/correspondence/tei-sig-on-correspondence-minutes-wurzburg-oct-15-2011/
+Redirect 301	/activities/sig/correspondence/corrsig-2012.xml	http://www-dev.tei-c.org/correspondence/tei-sig-on-correspondence-minutes-college-station-nov-9-2012/
+Redirect 301	/activities/sig/correspondence/corrsig-2013.xml	http://www-dev.tei-c.org/correspondence/tei-sig-on-correspondence-minutes-rome-oct-3-2013/
+Redirect 301	/activities/sig/correspondence/corrsig-2014.xml	http://www-dev.tei-c.org/correspondence/tei-sig-on-correspondence-minutes-evanston-oct-22-2014/
+Redirect 301	/activities/sig/correspondence	http://www-dev.tei-c.org/correspondence/
+
+Redirect 301	/activities/sig/eastasian	http://www-dev.tei-c.org/eastasian/
+
+Redirect 301	/activities/sig/education/annarbor.xml	http://www-dev.tei-c.org/education/tei-education-sig-meeting-minutes-november-2009/
+Redirect 301	/activities/sig/education/baltimore.xml	http://www-dev.tei-c.org/education/summary-of-tei-training-sig-meeting/
+Redirect 301	/activities/sig/education/key.xml	http://www-dev.tei-c.org/education/key-xml/
+Redirect 301	/activities/sig/education/nancy.xml	http://www-dev.tei-c.org/education/summary-of-tei-training-sig-meeting-2/
+Redirect 301	/activities/sig/education/short_courses.xml	http://www-dev.tei-c.org/education/tei-training-short-courses/
+Redirect 301	/activities/sig/education	http://www-dev.tei-c.org/education/
+
+Redirect 301	/activities/sig/graphics	http://www-dev.tei-c.org/graphics/
+
+Redirect 301	/activities/sig/libraries/dlf_minutes_2006-02.xml	http://www-dev.tei-c.org/libraries/digital-library-federation-tei-workgroup-2006-02-meeting-minutes/
+Redirect 301	/activities/sig/libraries	http://www-dev.tei-c.org/libraries/
+
+Redirect 301	/activities/sig/manuscript/mssig-2009.xml	http://www-dev.tei-c.org/manuscript/meeting-of-the-tei-manuscript-sig-november-14-2009-ann-arbor/
+Redirect 301	/activities/sig/manuscript/mssigr01.xml	http://www-dev.tei-c.org/manuscript/tei-manuscript-sig-meeting-report-01/
+Redirect 301	/activities/sig/manuscript/mssigr02.xml	http://www-dev.tei-c.org/manuscript/summary-of-tei-manuscript-sig-meeting/
+Redirect 301	/activities/sig/manuscript	http://www-dev.tei-c.org/manuscript/
+
+Redirect 301	/activities/sig/music/musicsig-2008.xml	http://www-dev.tei-c.org/music/meeting-of-the-tei-music-sig-november-8-2008-london/
+Redirect 301	/activities/sig/music/musicsig-2009.xml	http://www-dev.tei-c.org/music/meeting-of-the-tei-music-sig-november-14-2009-ann-arbor/
+Redirect 301	/activities/sig/music	http://www-dev.tei-c.org/music/
+
+Redirect 301	/activities/sig/ontologies	http://www-dev.tei-c.org/ontologies/
+
+Redirect 301	/activities/sig/overlap/olm01.xml	http://www-dev.tei-c.org/overlap/overlap-sig-meeting-minutes/
+Redirect 301	/activities/sig/overlap/olm02.xml	http://www-dev.tei-c.org/overlap/overlap-sig-meeting-minutes-2/
+Redirect 301	/activities/sig/overlap/olm03.xml	http://www-dev.tei-c.org/overlap/minutes-of-the-tei-overlap-sig-meeting-in-sofia-29-october-2005/
+Redirect 301	/activities/sig/overlap	http://www-dev.tei-c.org/overlap/
+
+Redirect 301	/activities/sig/publishing/tei_publishing_sig.xml	http://www-dev.tei-c.org/publishing/scholarly-publishing-sig-tei-xml-workflows-and-best-practices/
+Redirect 301	/activities/sig/publishing/annarbor.xml	http://www-dev.tei-c.org/publishing/tei-scholarly-publishing-sig-minutes-from-14-november-2009/
+Redirect 301	/activities/sig/publishing	http://www-dev.tei-c.org/publishing/
+
+Redirect 301	/activities/sig/sigminutes2009.xml	http://www-dev.tei-c.org/minutes-from-the-sig-convenors-meeting/
+Redirect 301	/activities/sig/tei_for_linguists	http://www-dev.tei-c.org/tei-for-linguists/
+
+Redirect 301	/activities/sig/tools/pt01.xml	http://www-dev.tei-c.org/tools/minutes-of-the-tei-presentation-tools-sig-meeting-in-nancy-08-november-2003/
+Redirect 301	/activities/sig/tools/pt02.xml	http://www-dev.tei-c.org/tools/minutes-of-the-tei-presentation-tools-sig-meeting-in-sofia-29-october-2005/
+Redirect 301	/activities/sig/tools/pt03.xml	http://www-dev.tei-c.org/tools/tei-presentation-tools-sig-minutes-28-october-2006/
+Redirect 301	/activities/sig/tools/pt04.xml	http://www-dev.tei-c.org/tools/tei-presentation-tools-sig-minutes-3-november-2007/
+Redirect 301	/activities/sig/tools/tools.xml	http://www-dev.tei-c.org/tools/authoring-and-tools-sig-at-2003-members-meeting/
+Redirect 301	/activities/sig/tools	http://www-dev.tei-c.org/tools/
+
+Redirect 301	/activities/sig/index.xml	http://www-dev.tei-c.org/special-interest-groups-sigs/
+Redirect 301	/activities/sig/rules.xml	http://www-dev.tei-c.org/sig-rules-and-regulations/
 
 
 # Activities/Workgroups
@@ -747,6 +1250,242 @@ Redirect 301	/Activities/Workgroups/SO	http://www-dev.tei-c.org/activities/workg
 
 Redirect 301	/Activities/Workgroups/index.xml	http://www-dev.tei-c.org/activities/workgroups/tei-workgroups/
 
+Redirect 301	/activities/workgroups/ce/cew06	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/
+Redirect 301	/activities/workgroups/ce/cew06/draft.xml	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/representation-of-non-standard-characters-and-glyphs/
+Redirect 301	/activities/workgroups/ce/cew06/dtdtest.xml	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/test-file/
+Redirect 301	/activities/workgroups/ce/cew06/index.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/index-html/
+Redirect 301	/activities/workgroups/ce/cew06/ref-c.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/c/
+Redirect 301	/activities/workgroups/ce/cew06/ref-char.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/char/
+Redirect 301	/activities/workgroups/ce/cew06/ref-chardesc.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/chardesc/
+Redirect 301	/activities/workgroups/ce/cew06/ref-charname.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/charname/
+Redirect 301	/activities/workgroups/ce/cew06/ref-charprop.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/charprop/
+Redirect 301	/activities/workgroups/ce/cew06/ref-glyph.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/glyph/
+Redirect 301	/activities/workgroups/ce/cew06/ref-glyphname.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/glyphname/
+Redirect 301	/activities/workgroups/ce/cew06/ref-localname.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/localname/
+Redirect 301	/activities/workgroups/ce/cew06/ref-mapping.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/mapping/
+Redirect 301	/activities/workgroups/ce/cew06/ref-unicodename.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/unicodename/
+Redirect 301	/activities/workgroups/ce/cew06/ref-value.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/value/
+Redirect 301	/activities/workgroups/ce/cew06/ref-datatype.ucs.html	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/datatype-ucs/
+Redirect 301	/activities/workgroups/ce/cew06/schemas.xml	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/schemas-xml/
+Redirect 301	/activities/workgroups/ce/cew06/test.xml	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/test-file-2/
+Redirect 301	/activities/workgroups/ce/cew06/thetags.xml	http://www-dev.tei-c.org/activities/workgroups/ce/cew06/thetags-xml/
+Redirect 301	/activities/workgroups/ce/ce01.xml	http://www-dev.tei-c.org/activities/workgroups/ce/terms-of-reference-for-the-work-group-on-character-encoding/
+Redirect 301	/activities/workgroups/ce/cem01.xml	http://www-dev.tei-c.org/activities/workgroups/ce/tei-ce-m-01/
+Redirect 301	/activities/workgroups/ce/cem02.xml	http://www-dev.tei-c.org/activities/workgroups/ce/tei-ce-m-02/
+Redirect 301	/activities/workgroups/ce/cer01.xml	http://www-dev.tei-c.org/activities/workgroups/ce/a-progress-report-from-the-tei-character-encoding-working-group/
+Redirect 301	/activities/workgroups/ce/cew01.xml	http://www-dev.tei-c.org/activities/workgroups/ce/draft-chapter-4-revision-for-p5/
+Redirect 301	/activities/workgroups/ce/cew03.xml	http://www-dev.tei-c.org/activities/workgroups/ce/ce-w-03-use-cases-for-the-character-encoding-extensions/
+Redirect 301	/activities/workgroups/ce/cew04-1.html	http://www-dev.tei-c.org/activities/workgroups/ce/language-and-script-in-tei-documents/
+Redirect 301	/activities/workgroups/ce/cew04.html	http://www-dev.tei-c.org/activities/workgroups/ce/ce-w-04-language-and-script-identification/
+Redirect 301	/activities/workgroups/ce/cew05.xml	http://www-dev.tei-c.org/activities/workgroups/ce/ce-w-05-semantics-for-characters-and-linguistic-features/
+Redirect 301	/activities/workgroups/ce/cew06.xml	http://www-dev.tei-c.org/activities/workgroups/ce/ce-w-06-representation-of-non-standard-characters-and-glyphs/
+Redirect 301	/activities/workgroups/ce/cew07.xml	http://www-dev.tei-c.org/activities/workgroups/ce/cew07-private-use-characters-in-xml/
+Redirect 301	/activities/workgroups/ce/cew08.xml	http://www-dev.tei-c.org/activities/workgroups/ce/outline-of-contentissues-in-chapter-4-of-tei-p4/
+Redirect 301	/activities/workgroups/ce/cew09.xml	http://www-dev.tei-c.org/activities/workgroups/ce/tei-character-encoding-wg-language-identification-cew09/
+Redirect 301	/activities/workgroups/ce/chibs-2002-paper.html	http://www-dev.tei-c.org/activities/workgroups/ce/the-text-in-the-age-of-digital-reproduction/
+Redirect 301	/activities/workgroups/ce	http://www-dev.tei-c.org/activities/workgroups/ce/
+
+Redirect 301	/activities/workgroups/fs/fs-examples.xml	http://www-dev.tei-c.org/activities/workgroups/fs/some-linguistic-examples-of-feature-structures/
+Redirect 301	/activities/workgroups/fs/fsm01.xml	http://www-dev.tei-c.org/activities/workgroups/fs/teiiso-joint-activity-on-feature-structures-meeting-held-4-5-nov-03-at-atilf-universite-de-nancy-2/
+Redirect 301	/activities/workgroups/fs/fsm02.xml	http://www-dev.tei-c.org/activities/workgroups/fs/teiiso-joint-activity-on-feature-structures-meeting-held-24-26-aug-2004-at-afnor-paris/
+Redirect 301	/activities/workgroups/fs/fstest.xml	http://www-dev.tei-c.org/activities/workgroups/fs/erics-example-file/
+Redirect 301	/activities/workgroups/fs/fsw01.xml	http://www-dev.tei-c.org/activities/workgroups/fs/fsw01-tei-iso-fs-changes-for-p5/
+Redirect 301	/activities/workgroups/fs/tcw01.xml	http://www-dev.tei-c.org/fs/tcw01-proposed-charter-for-feature-structure-workgroup/
+Redirect 301	/activities/workgroups/fs	http://www-dev.tei-c.org/activities/workgroups/fs/
+
+
+Redirect 301	/activities/workgroups/meta/mem03.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-meeting-notes-22-mar-2004-mem03/
+Redirect 301	/activities/workgroups/meta/mew01.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-status-report-mew01/
+Redirect 301	/activities/workgroups/meta/mew02.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-minutes-of-a-meeting-to-discuss-p5-development-2003-10-09-mew02/
+Redirect 301	/activities/workgroups/meta/mew03.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-tei-and-docbook-model-classes-mew03/
+Redirect 301	/activities/workgroups/meta/mew04.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-tei-patterns-and-files-mew04/
+Redirect 301	/activities/workgroups/meta/mew05.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-notes-from-meeting-at-afnor-16-oct-03-mew05/
+Redirect 301	/activities/workgroups/meta/mew06.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-report-for-members-meeting-mew06/
+Redirect 301	/activities/workgroups/meta/mew07.xml	http://www-dev.tei-c.org/meta/interim-report-on-status-of-p5-mew07/
+Redirect 301	/activities/workgroups/meta/mew08.xml	http://www-dev.tei-c.org/meta/naming-conventions-in-the-tei-scheme/
+Redirect 301	/activities/workgroups/meta/mew09.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-report-for-council-meeting-27-jan-04-mew09/
+Redirect 301	/activities/workgroups/meta/mew10.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-agenda-for-meeting-22-23-mar-04-mew10/
+Redirect 301	/activities/workgroups/meta/mew11.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-report-to-council-30-mar-2004-mew11/
+Redirect 301	/activities/workgroups/meta/mew12.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-report-to-council-20-sep-2004-mew12/
+Redirect 301	/activities/workgroups/meta/teilite.xml	http://www-dev.tei-c.org/meta/tei-lite/
+Redirect 301	/activities/workgroups/meta/testext.xml	http://www-dev.tei-c.org/meta/tei-silly-extension-file/
+Redirect 301	/activities/workgroups/meta/textatts.xml	http://www-dev.tei-c.org/meta/attributes-values/
+Redirect 301	/activities/workgroups/meta	http://www-dev.tei-c.org/activities/workgroups/meta/
+
+
+Redirect 301	/activities/workgroups/mi/samples	http://www-dev.tei-c.org/activities/workgroups/mi/samples/
+Redirect 301	/activities/workgroups/mi/samples/bnc	http://www-dev.tei-c.org/activities/workgroups/mi/samples/bnc/
+Redirect 301	/activities/workgroups/mi/samples/bnc/bncindex.xml	http://www-dev.tei-c.org/activities/workgroups/mi/samples/bnc/bncindex-xml/
+Redirect 301	/activities/workgroups/mi/samples/bnc/compat.xml	http://www-dev.tei-c.org/activities/workgroups/mi/samples/bnc/guidelines/
+Redirect 301	/activities/workgroups/mi/tools	http://www-dev.tei-c.org/activities/workgroups/mi/tools/
+Redirect 301	/activities/workgroups/mi/tools/wwp	http://www-dev.tei-c.org/activities/workgroups/mi/tools/wwp/
+Redirect 301	/activities/workgroups/mi/tools/wwp/test_that_p4_sgml_works.xml	http://www-dev.tei-c.org/activities/workgroups/mi/tools/wwp/no/
+Redirect 301	/activities/workgroups/mi/tools/wwp/uselessdoc.xml	http://www-dev.tei-c.org/activities/workgroups/mi/tools/wwp/just-a-test/
+Redirect 301	/activities/workgroups/mi/edw76.xml	http://www-dev.tei-c.org/activities/workgroups/mi/draft-charge-for-the-sgmlxml-conversion-work-group/
+Redirect 301	/activities/workgroups/mi/mim01.xml	http://www-dev.tei-c.org/mi/tei-mi-m-01-draft/
+Redirect 301	/activities/workgroups/mi/mim07.xml	http://www-dev.tei-c.org/mi/notes-from-tei-migration-task-force-combined-meeting-2003-02-0708/
+Redirect 301	/activities/workgroups/mi/mim08.xml	http://www-dev.tei-c.org/mi/draft-of-tei-xml-migration-task-force-meeting-minutes-2003-06-1617/
+Redirect 301	/activities/workgroups/mi/miw02.xml	http://www-dev.tei-c.org/mi/tei-mi-w-02/
+Redirect 301	/activities/workgroups/mi/miw03.xml	http://www-dev.tei-c.org/mi/mi-w-03/
+Redirect 301	/activities/workgroups/mi/miw04.xml	http://www-dev.tei-c.org/mi/tei-mi-w-04/
+Redirect 301	/activities/workgroups/mi/miw05.xml	http://www-dev.tei-c.org/mi/tei-mi-w-05-draft/
+Redirect 301	/activities/workgroups/mi/miw06.xml	http://www-dev.tei-c.org/mi/tei-mi-w-06/
+Redirect 301	/activities/workgroups/mi	http://www-dev.tei-c.org/activities/workgroups/mi/
+
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ms.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/refcla.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule-2/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/refent.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule-3/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/reftag.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule-4/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/body.1_div0.1.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule-5/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/index.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule-6/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-accmat.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/accmat/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-acquisition.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/acquisition/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-additional.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/additional/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-additions.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/additions/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-admininfo.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/admininfo/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-altidentifier.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/altidentifier/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-altname.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/altname/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-binding.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/binding/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-bindingdesc.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/bindingdesc/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-catchwords.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/catchwords/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-collation.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/collation/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-collection.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/collection/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-colophon.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/colophon/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-condition.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/condition/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-custevent.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/custevent/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-custodialhist.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/custodialhist/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-decodesc.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/decodesc/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-deconote.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/deconote/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-depth.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/depth/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-dimensions.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/dimensions/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-explicit.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/explicit/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-filiation.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/filiation/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-finalrubric.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/finalrubric/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-foliation.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/foliation/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-handdesc.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/handdesc/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-handnote.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/handnote/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-height.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/height/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-heraldry.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/heraldry/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-history.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/history/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-incipit.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/incipit/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-institution.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/institution/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-layout.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/layout/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-layoutdesc.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/layoutdesc/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-locus.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/locus/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-material.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/material/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-mscontents.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/mscontents/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-msdescription.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/msdescription/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-msidentifier.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/msidentifier/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-msitem.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/msitem/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-msitemstruct.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/msitemstruct/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-mspart.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/mspart/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-musicnotation.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/musicnotation/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-objectdesc.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/objectdesc/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-origdate.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/origdate/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-origplace.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/origplace/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-origin.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/origin/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-physdesc.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/physdesc/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-provenance.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/provenance/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-recordhist.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/recordhist/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-repository.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/repository/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-rubric.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/rubric/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-seal.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/seal/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-sealdesc.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/sealdesc/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-secfol.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/secfol/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-signatures.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/signatures/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-source.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/source/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-summary.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/summary/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-support.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/support/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-supportdesc.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/supportdesc/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-surrogates.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/surrogates/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-tei.datable.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/tei-datable/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-tei.measured.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/tei-measured/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-textlang.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/textlang/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-watermark.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/watermark/
+Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-width.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/width/
+Redirect 301	/activities/workgroups/ms/msm01.xml	http://www-dev.tei-c.org/ms/ms-description-task-force/
+Redirect 301	/activities/workgroups/ms/msw03.html	http://www-dev.tei-c.org/ms/desiderata-for-tei-ms/
+Redirect 301	/activities/workgroups/ms/msw05.xml	http://www-dev.tei-c.org/ms/ms-chapter-reviews/
+Redirect 301	/activities/workgroups/ms	http://www-dev.tei-c.org/activities/workgroups/ms/
+
+Redirect 301	/activities/workgroups/pb/pb-draft.xml	http://www-dev.tei-c.org/activities/workgroups/pb/physical-bibliography-draft-for-p5/
+Redirect 301	/activities/workgroups/pb/albertus-sample-1.xml	http://www-dev.tei-c.org/activities/workgroups/pb/albertus-sample-1-xml/
+Redirect 301	/activities/workgroups/pb/albertus-sample-2.xml	http://www-dev.tei-c.org/activities/workgroups/pb/albertus-sample-2-xml/
+Redirect 301	/activities/workgroups/pb/aphra-sample-1.xml	http://www-dev.tei-c.org/activities/workgroups/pb/aphra-sample-1-xml/
+Redirect 301	/activities/workgroups/pb/aphra-sample-2.xml	http://www-dev.tei-c.org/activities/workgroups/pb/aphra-sample-2-xml/
+Redirect 301	/activities/workgroups/pb/complex-cancels.xml	http://www-dev.tei-c.org/activities/workgroups/pb/complex-cancels-xml/
+Redirect 301	/activities/workgroups/pb/complex-codex.xml	http://www-dev.tei-c.org/activities/workgroups/pb/complex-codex-xml/
+Redirect 301	/activities/workgroups/pb/edw82.xml	http://www-dev.tei-c.org/activities/workgroups/pb/charge-for-the-work-group-on-physical-bibliography/
+Redirect 301	/activities/workgroups/pb/harley-sample-1.xml	http://www-dev.tei-c.org/activities/workgroups/pb/harley-sample-1-xml/
+Redirect 301	/activities/workgroups/pb/harley-sample-2.xml	http://www-dev.tei-c.org/activities/workgroups/pb/harley-sample-2-xml/
+Redirect 301	/activities/workgroups/pb/octavo-1.xml	http://www-dev.tei-c.org/pb/octavo-1-xml/
+Redirect 301	/activities/workgroups/pb/pba01.xml	http://www-dev.tei-c.org/pb/proposed-plan-of-work-for-tei-work-group-on-physical-bibliography/
+Redirect 301	/activities/workgroups/pb/pbr01.xml	http://www-dev.tei-c.org/pb/tei-physical-bibliography-workgroup-summary-of-activity/
+Redirect 301	/activities/workgroups/pb	http://www-dev.tei-c.org/activities/workgroups/pb/
+
+
+Redirect 301	/activities/workgroups/pers/app1.xml	http://www-dev.tei-c.org/activities/workgroups/pers/eac/
+Redirect 301	/activities/workgroups/pers/app2.xml	http://www-dev.tei-c.org/activities/workgroups/pers/eac-2/
+Redirect 301	/activities/workgroups/pers/app3.xml	http://www-dev.tei-c.org/activities/workgroups/pers/appendix-3/
+Redirect 301	/activities/workgroups/pers/persw01.xml	http://www-dev.tei-c.org/pers/personography-workgroup-charge/
+Redirect 301	/activities/workgroups/pers/persw02.xml	http://www-dev.tei-c.org/pers/report-on-xml-mark-up-of-biographical-and-prosopographical-data/
+Redirect 301	/activities/workgroups/pers/persw03.xml	http://www-dev.tei-c.org/pers/biographical-data-in-the-report-from-meeting-held-in-oxford-27-28-april-2006/
+Redirect 301	/activities/workgroups/pers/persw05.xml	http://www-dev.tei-c.org/pers/sample-file-for-testing-personography-stuff/
+Redirect 301	/activities/workgroups/pers/persw06-part2.xml	http://www-dev.tei-c.org/pers/draft-personography-odd/
+Redirect 301	/activities/workgroups/pers/persw06.doc.html	http://www-dev.tei-c.org/pers/draft-personography-odd-2/
+Redirect 301	/activities/workgroups/pers/persw06.xml	http://www-dev.tei-c.org/pers/draft-personography-odd-3/
+Redirect 301	/activities/workgroups/pers/placemtg.xml	http://www-dev.tei-c.org/pers/tei-personography-wg-place-meeting-at-cch-29-may-2007/
+Redirect 301	/activities/workgroups/pers/test-greeks.xml	http://www-dev.tei-c.org/pers/greek-names-online/
+Redirect 301	/activities/workgroups/pers	http://www-dev.tei-c.org/activities/workgroups/pers/
+
+
+Redirect 301	/activities/workgroups/so/edw74.xml	http://www-dev.tei-c.org/activities/workgroups/so/charge-for-the-workgroup-on-stand-off-markup-xlink-and-xpointer/
+Redirect 301	/activities/workgroups/so/som01.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-06-26-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som02.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-08-22-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som03.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-08-22-conference-call-notes-2/
+Redirect 301	/activities/workgroups/so/som04.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-09-05-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som05.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-09-12-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som06.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-09-19-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som07.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-09-26-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som08.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-10-04-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som09.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-11-01-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som10.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-11-15-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som11.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2002-12-20-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som12.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-01-10-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som13.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-01-10-conference-call-notes-2/
+Redirect 301	/activities/workgroups/so/som14.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-01-24-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som15.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-01-31-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som16.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-03-07-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som17.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-03-014-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som18.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-03-28-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som19.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-04-11-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som20.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-04-25-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som21.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-05-02-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som22.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-05-09-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som23.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-05-23-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som24.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-06-06-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som25.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-06-20-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som26.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-06-27-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som27.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-07-18-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som28.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-07-25-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som30.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-10-03-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som31.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-10-10-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som33.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-12-05-conference-call-notes/
+Redirect 301	/activities/workgroups/so/som35.xml	http://www-dev.tei-c.org/so/tei-stand-off-markup-wg-2003-12-19-conference-call-notes/
+Redirect 301	/activities/workgroups/so/sow02.xml	http://www-dev.tei-c.org/so/working-groups-summary-of-technical-rationale-for-decisions-on-xpointer-and-stand-off-markup/
+Redirect 301	/activities/workgroups/so/sow04.xml	http://www-dev.tei-c.org/so/notes-on-media-formats-and-xpointer/
+Redirect 301	/activities/workgroups/so/sow04again.xml	http://www-dev.tei-c.org/so/graphics-markup/
+Redirect 301	/activities/workgroups/so/sow05-prelim.xml	http://www-dev.tei-c.org/so/untitled-document/
+Redirect 301	/activities/workgroups/so/sow05.xml	http://www-dev.tei-c.org/so/corpus-applications/
+Redirect 301	/activities/workgroups/so/sow06.xml	http://www-dev.tei-c.org/so/stand-off-markup/
+Redirect 301	/activities/workgroups/so/sow07.xml	http://www-dev.tei-c.org/so/graph-description-in-the-tei/
+Redirect 301	/activities/workgroups/so/sow08.xml	http://www-dev.tei-c.org/so/canonical-references/
+Redirect 301	/activities/workgroups/so/sow09.xml	http://www-dev.tei-c.org/so/basic-working-decisions-on-pointing-and-linking/
+Redirect 301	/activities/workgroups/so	http://www-dev.tei-c.org/activities/workgroups/so/
+
+Redirect 301	/activities/workgroups/index.xml	http://www-dev.tei-c.org/activities/workgroups/tei-workgroups/
+
 # Tools
 
 Redirect 301	/Tools/I18N/proposal.xml	http://www-dev.tei-c.org/i18n/tei-internationalization-proposal/
@@ -758,6 +1497,16 @@ Redirect 301	/Tools/Stylesheets	http://www-dev.tei-c.org/stylesheets/
 
 Redirect 301	/Tools/index.xml	http://www-dev.tei-c.org/tei-tools/
 Redirect 301	/Tools/roma.xml	http://www-dev.tei-c.org/roma/
+
+Redirect 301	/tools/i18n/proposal.xml	http://www-dev.tei-c.org/i18n/tei-internationalization-proposal/
+Redirect 301	/tools/i18n	http://www-dev.tei-c.org/i18n/
+
+Redirect 301	/tools/stylesheets/customize.xml	http://www-dev.tei-c.org/stylesheets/tei-xsl-customization-handbook/
+Redirect 301	/tools/stylesheets/index-old.xml	http://www-dev.tei-c.org/stylesheets/xsl-stylesheets-for-tei-xml/
+Redirect 301	/tools/stylesheets	http://www-dev.tei-c.org/stylesheets/
+
+Redirect 301	/tools/index.xml	http://www-dev.tei-c.org/tei-tools/
+Redirect 301	/tools/roma.xml	http://www-dev.tei-c.org/roma/
 
 # Support
 Redirect 301	/Support/Learn/amv-manual.html	http://www-dev.tei-c.org/learn/hti-style-guide-for-american-verse-project-and-middle-english-texts/
@@ -780,12 +1529,36 @@ Redirect 301	/Support/Learn	http://www-dev.tei-c.org/learn/
 Redirect 301	/Support/Samples	http://www-dev.tei-c.org/samples/
 Redirect 301	/Support/index.xml	http://www-dev.tei-c.org/tei-support/
 
+Redirect 301	/support/learn/amv-manual.html	http://www-dev.tei-c.org/learn/hti-style-guide-for-american-verse-project-and-middle-english-texts/
+Redirect 301	/support/learn/cictei.htm	http://www-dev.tei-c.org/learn/rules-for-use-of-tei-lite-in-cic-e-text-projects/
+Redirect 301	/support/learn/dsguide1.html	http://www-dev.tei-c.org/learn/a-tei-based-tag-set-for-manuscript-transcription/
+Redirect 301	/support/learn/dsguide2.html	http://www-dev.tei-c.org/learn/alphabetical-list-of-element-types/
+Redirect 301	/support/learn/gentleintro.xml	http://www-dev.tei-c.org/learn/a-gentle-introduction-to-xml/
+Redirect 301	/support/learn/headerproposal.htm	http://www-dev.tei-c.org/learn/its-all-in-the-header-from-minimal-to-optimal-use-of-the-tei-header-edward-vanhoutte/
+Redirect 301	/support/learn/intro.xml	http://www-dev.tei-c.org/learn/introducing-the-guidelines/
+Redirect 301	/support/learn/leiden.html	http://www-dev.tei-c.org/learn/recommendation-for-translating-leiden-style-transcriptions-to-tei-lite/
+Redirect 301	/support/learn/mueller-banner.htm	http://www-dev.tei-c.org/learn/a-very-gentle-introduction-to-the-tei-mark/
+Redirect 301	/support/learn/mueller-content.htm	http://www-dev.tei-c.org/learn/tei-intro-headings/
+Redirect 301	/support/learn/mueller-index.htm	http://www-dev.tei-c.org/learn/introduction-to-tei/
+Redirect 301	/support/learn/mueller-main.htm	http://www-dev.tei-c.org/learn/a-very-gentle-introduction-to-the-tei/
+Redirect 301	/support/learn/odds-old.xml	http://www-dev.tei-c.org/learn/getting-started-with-p5-odds/
+Redirect 301	/support/learn/tei_bibliography.xml	http://www-dev.tei-c.org/learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/
+Redirect 301	/support/learn/tutorials.xml	http://www-dev.tei-c.org/learn/teach-yourself-tei/
+Redirect 301	/support/learn	http://www-dev.tei-c.org/learn/
+
+Redirect 301	/support/samples	http://www-dev.tei-c.org/samples/
+Redirect 301	/support/index.xml	http://www-dev.tei-c.org/tei-support/
+
 # Badges
 Redirect 301	/Activities/About/Badges/index.xml	http://www-dev.tei-c.org/tei-badges/
+
+Redirect 301	/activities/about/badges/index.xml	http://www-dev.tei-c.org/tei-badges/
 
 
 # Logos
 Redirect 301	/Activities/About/Logos/index.xml	http://www-dev.tei-c.org/logos/
+
+Redirect 301	/activities/about/logos/index.xml	http://www-dev.tei-c.org/logos/
 
 
 # About
@@ -804,13 +1577,34 @@ Redirect 301	/About/organization.xml	http://www-dev.tei-c.org/?page_id=21588
 Redirect 301	/About/website-old.xml	http://www-dev.tei-c.org/?page_id=21589
 Redirect 301	/About/website.xml	http://www-dev.tei-c.org/?page_id=21590
 
+Redirect 301	/about/logos	http://www-dev.tei-c.org/?page_id=21576
+Redirect 301	/about/board.xml	http://www-dev.tei-c.org/?page_id=21578
+Redirect 301	/about/bylaws.xml	http://www-dev.tei-c.org/?page_id=21579
+Redirect 301	/about/charter.xml	http://www-dev.tei-c.org/?page_id=21580
+Redirect 301	/about/consortium.html	http://www-dev.tei-c.org/?page_id=21581
+Redirect 301	/about/contact.xml	http://www-dev.tei-c.org/?page_id=21582
+Redirect 301	/about/faq.xml	http://www-dev.tei-c.org/?page_id=21583
+Redirect 301	/about/history.xml	http://www-dev.tei-c.org/?page_id=21584
+Redirect 301	/about/hosting.xml	http://www-dev.tei-c.org/?page_id=21585
+Redirect 301	/about/index.xml	http://www-dev.tei-c.org/?page_id=21586
+Redirect 301	/about/mission.xml	http://www-dev.tei-c.org/?page_id=21587
+Redirect 301	/about/organization.xml	http://www-dev.tei-c.org/?page_id=21588
+Redirect 301	/about/website-old.xml	http://www-dev.tei-c.org/?page_id=21589
+Redirect 301	/about/website.xml	http://www-dev.tei-c.org/?page_id=21590
+
 # AccessTEI
 Redirect 301	/AccessTEI/index.xml	http://www-dev.tei-c.org/?page_id=24105
 Redirect 301	/AccessTEI/index_export.html	http://www-dev.tei-c.org/?page_id=24106
 
+Redirect 301	/accesstei/index.xml	http://www-dev.tei-c.org/?page_id=24105
+Redirect 301	/accesstei/index_export.html	http://www-dev.tei-c.org/?page_id=24106
+
 # ns
 Redirect 301	/ns/1.0	http://www-dev.tei-c.org/?page_id=24107
 Redirect 301	/ns/Examples	http://www-dev.tei-c.org/?page_id=24109
+
+Redirect 301	/ns/1.0	http://www-dev.tei-c.org/?page_id=24107
+Redirect 301	/ns/examples	http://www-dev.tei-c.org/?page_id=24109
 
 # Membership
 
@@ -1034,7 +1828,230 @@ Redirect 301	/Membership/current.xml	http://www-dev.tei-c.org/?page_id=26122
 Redirect 301	/Membership/index.xml	http://www-dev.tei-c.org/?page_id=26123
 Redirect 301	/Membership/join.xml	http://www-dev.tei-c.org/?page_id=26124
 
+Redirect 301	/membership/meetings/2001/ciotti.htm	http://www-dev.tei-c.org/?page_id=25914
+Redirect 301	/membership/meetings/2001/mm01.xml	http://www-dev.tei-c.org/?page_id=25916
+Redirect 301	/membership/meetings/2001/mm02.xml	http://www-dev.tei-c.org/?page_id=25917
+Redirect 301	/membership/meetings/2001/mm03.xml	http://www-dev.tei-c.org/?page_id=25918
+Redirect 301	/membership/meetings/2001/mm07.xml	http://www-dev.tei-c.org/?page_id=25919
+Redirect 301	/membership/meetings/2001/mm08.xml	http://www-dev.tei-c.org/?page_id=25920
+Redirect 301	/membership/meetings/2001/tei1116alt.html	http://www-dev.tei-c.org/?page_id=25921
+Redirect 301	/membership/meetings/2001/wittern	http://www-dev.tei-c.org/?page_id=25922
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides0.html	http://www-dev.tei-c.org/?page_id=25923
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides1.html	http://www-dev.tei-c.org/?page_id=25924
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides10.html	http://www-dev.tei-c.org/?page_id=25925
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides11.html	http://www-dev.tei-c.org/?page_id=25926
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides12.html	http://www-dev.tei-c.org/?page_id=25927
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides13.html	http://www-dev.tei-c.org/?page_id=25928
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides14.html	http://www-dev.tei-c.org/?page_id=25929
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides15.html	http://www-dev.tei-c.org/?page_id=25930
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides16.html	http://www-dev.tei-c.org/?page_id=25931
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides2.html	http://www-dev.tei-c.org/?page_id=25932
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides3.html	http://www-dev.tei-c.org/?page_id=25933
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides4.html	http://www-dev.tei-c.org/?page_id=25934
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides5.html	http://www-dev.tei-c.org/?page_id=25935
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides6.html	http://www-dev.tei-c.org/?page_id=25936
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides7.html	http://www-dev.tei-c.org/?page_id=25937
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides8.html	http://www-dev.tei-c.org/?page_id=25938
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode-slides9.html	http://www-dev.tei-c.org/?page_id=25939
+Redirect 301	/membership/meetings/2001/wittern/tei-unicode.xml	http://www-dev.tei-c.org/?page_id=25940
+Redirect 301	/membership/meetings/2001	http://www-dev.tei-c.org/?page_id=25913
+
+
+Redirect 301	/membership/meetings/2002/piez	http://www-dev.tei-c.org/?page_id=25942
+Redirect 301	/membership/meetings/2002/piez/ancientms.xml	http://www-dev.tei-c.org/?page_id=25943
+Redirect 301	/membership/meetings/2002/piez/contents.html	http://www-dev.tei-c.org/?page_id=25944
+Redirect 301	/membership/meetings/2002/piez/index.html	http://www-dev.tei-c.org/?page_id=25945
+Redirect 301	/membership/meetings/2002/piez/nodenets.xml	http://www-dev.tei-c.org/?page_id=25946
+Redirect 301	/membership/meetings/2002/piez/slide001.html	http://www-dev.tei-c.org/?page_id=25947
+Redirect 301	/membership/meetings/2002/piez/slide002.html	http://www-dev.tei-c.org/?page_id=25948
+Redirect 301	/membership/meetings/2002/piez/slide003.html	http://www-dev.tei-c.org/?page_id=25949
+Redirect 301	/membership/meetings/2002/piez/slide004.html	http://www-dev.tei-c.org/?page_id=25950
+Redirect 301	/membership/meetings/2002/piez/slide005.html	http://www-dev.tei-c.org/?page_id=25951
+Redirect 301	/membership/meetings/2002/piez/slide006.html	http://www-dev.tei-c.org/?page_id=25952
+Redirect 301	/membership/meetings/2002/piez/slide007.html	http://www-dev.tei-c.org/?page_id=25953
+Redirect 301	/membership/meetings/2002/piez/slide008.html	http://www-dev.tei-c.org/?page_id=25954
+Redirect 301	/membership/meetings/2002/piez/slide009.html	http://www-dev.tei-c.org/?page_id=25955
+Redirect 301	/membership/meetings/2002/piez/slide010.html	http://www-dev.tei-c.org/?page_id=25956
+Redirect 301	/membership/meetings/2002/piez/slide011.html	http://www-dev.tei-c.org/?page_id=25957
+Redirect 301	/membership/meetings/2002/piez/slide012.html	http://www-dev.tei-c.org/?page_id=25958
+Redirect 301	/membership/meetings/2002/piez/slide013.html	http://www-dev.tei-c.org/?page_id=25959
+Redirect 301	/membership/meetings/2002/piez/slide014.html	http://www-dev.tei-c.org/?page_id=25960
+Redirect 301	/membership/meetings/2002/piez/teibeyondnotes.html	http://www-dev.tei-c.org/?page_id=25961
+Redirect 301	/membership/meetings/2002/piez/teibeyondtags.xml	http://www-dev.tei-c.org/?page_id=25962
+Redirect 301	/membership/meetings/2002/abstracts.xml	http://www-dev.tei-c.org/?page_id=25963
+Redirect 301	/membership/meetings/2002/mm10.xml	http://www-dev.tei-c.org/?page_id=25965
+Redirect 301	/membership/meetings/2002/mm11.xml	http://www-dev.tei-c.org/?page_id=25966
+Redirect 301	/membership/meetings/2002/mm12.xml	http://www-dev.tei-c.org/?page_id=25967
+Redirect 301	/membership/meetings/2002/mm13.xml	http://www-dev.tei-c.org/?page_id=25968
+Redirect 301	/membership/meetings/2002/mm14.xml	http://www-dev.tei-c.org/?page_id=25969
+Redirect 301	/membership/meetings/2002/olsen.html	http://www-dev.tei-c.org/?page_id=25970
+Redirect 301	/membership/meetings/2002/pichler.xml	http://www-dev.tei-c.org/?page_id=25971
+Redirect 301	/membership/meetings/2002/schedule.xml	http://www-dev.tei-c.org/?page_id=25972
+Redirect 301	/membership/meetings/2002	http://www-dev.tei-c.org/?page_id=25941
+
+
+Redirect 301	/membership/meetings/2003/abstracts.xml	http://www-dev.tei-c.org/?page_id=25974
+Redirect 301	/membership/meetings/2003/mm15.xml	http://www-dev.tei-c.org/?page_id=25976
+Redirect 301	/membership/meetings/2003/mm16.xml	http://www-dev.tei-c.org/?page_id=25977
+Redirect 301	/membership/meetings/2003/mm17.xml	http://www-dev.tei-c.org/?page_id=25978
+Redirect 301	/membership/meetings/2003/mm18.xml	http://www-dev.tei-c.org/?page_id=25979
+Redirect 301	/membership/meetings/2003/mm21.xml	http://www-dev.tei-c.org/?page_id=25980
+Redirect 301	/membership/meetings/2003/mm22.xml	http://www-dev.tei-c.org/?page_id=25981
+Redirect 301	/membership/meetings/2003/mm23.xml	http://www-dev.tei-c.org/?page_id=25982
+Redirect 301	/membership/meetings/2003/schedule.xml	http://www-dev.tei-c.org/?page_id=25983
+Redirect 301	/membership/meetings/2003/sigs.xml	http://www-dev.tei-c.org/?page_id=25984
+Redirect 301	/membership/meetings/2003	http://www-dev.tei-c.org/?page_id=25973
+
+
+Redirect 301	/membership/meetings/2004/p5cc/index.html	http://www-dev.tei-c.org/?page_id=25987
+Redirect 301	/membership/meetings/2004/p5cc/index0.html	http://www-dev.tei-c.org/?page_id=25988
+Redirect 301	/membership/meetings/2004/p5cc/index1.html	http://www-dev.tei-c.org/?page_id=25989
+Redirect 301	/membership/meetings/2004/p5cc/index10.html	http://www-dev.tei-c.org/?page_id=25990
+Redirect 301	/membership/meetings/2004/p5cc/index11.html	http://www-dev.tei-c.org/?page_id=25991
+Redirect 301	/membership/meetings/2004/p5cc/index12.html	http://www-dev.tei-c.org/?page_id=25992
+Redirect 301	/membership/meetings/2004/p5cc/index13.html	http://www-dev.tei-c.org/?page_id=25993
+Redirect 301	/membership/meetings/2004/p5cc/index14.html	http://www-dev.tei-c.org/?page_id=25994
+Redirect 301	/membership/meetings/2004/p5cc/index15.html	http://www-dev.tei-c.org/?page_id=25995
+Redirect 301	/membership/meetings/2004/p5cc/index16.html	http://www-dev.tei-c.org/?page_id=25996
+Redirect 301	/membership/meetings/2004/p5cc/index17.html	http://www-dev.tei-c.org/?page_id=25997
+Redirect 301	/membership/meetings/2004/p5cc/index18.html	http://www-dev.tei-c.org/?page_id=25998
+Redirect 301	/membership/meetings/2004/p5cc/index19.html	http://www-dev.tei-c.org/?page_id=25999
+Redirect 301	/membership/meetings/2004/p5cc/index2.html	http://www-dev.tei-c.org/?page_id=26000
+Redirect 301	/membership/meetings/2004/p5cc/index20.html	http://www-dev.tei-c.org/?page_id=26001
+Redirect 301	/membership/meetings/2004/p5cc/index21.html	http://www-dev.tei-c.org/?page_id=26002
+Redirect 301	/membership/meetings/2004/p5cc/index22.html	http://www-dev.tei-c.org/?page_id=26003
+Redirect 301	/membership/meetings/2004/p5cc/index23.html	http://www-dev.tei-c.org/?page_id=26004
+Redirect 301	/membership/meetings/2004/p5cc/index24.html	http://www-dev.tei-c.org/?page_id=26005
+Redirect 301	/membership/meetings/2004/p5cc/index25.html	http://www-dev.tei-c.org/?page_id=26006
+Redirect 301	/membership/meetings/2004/p5cc/index26.html	http://www-dev.tei-c.org/?page_id=26007
+Redirect 301	/membership/meetings/2004/p5cc/index27.html	http://www-dev.tei-c.org/?page_id=26008
+Redirect 301	/membership/meetings/2004/p5cc/index28.html	http://www-dev.tei-c.org/?page_id=26009
+Redirect 301	/membership/meetings/2004/p5cc/index29.html	http://www-dev.tei-c.org/?page_id=26010
+Redirect 301	/membership/meetings/2004/p5cc/index3.html	http://www-dev.tei-c.org/?page_id=26011
+Redirect 301	/membership/meetings/2004/p5cc/index30.html	http://www-dev.tei-c.org/?page_id=26012
+Redirect 301	/membership/meetings/2004/p5cc/index31.html	http://www-dev.tei-c.org/?page_id=26013
+Redirect 301	/membership/meetings/2004/p5cc/index4.html	http://www-dev.tei-c.org/?page_id=26014
+Redirect 301	/membership/meetings/2004/p5cc/index5.html	http://www-dev.tei-c.org/?page_id=26015
+Redirect 301	/membership/meetings/2004/p5cc/index6.html	http://www-dev.tei-c.org/?page_id=26016
+Redirect 301	/membership/meetings/2004/p5cc/index7.html	http://www-dev.tei-c.org/?page_id=26017
+Redirect 301	/membership/meetings/2004/p5cc/index8.html	http://www-dev.tei-c.org/?page_id=26018
+Redirect 301	/membership/meetings/2004/p5cc/index9.html	http://www-dev.tei-c.org/?page_id=26019
+Redirect 301	/membership/meetings/2004/p5cc	http://www-dev.tei-c.org/?page_id=25986
+
+Redirect 301	/membership/meetings/2004/syd/index-slides0.html	http://www-dev.tei-c.org/?page_id=26021
+Redirect 301	/membership/meetings/2004/syd/index-slides1.html	http://www-dev.tei-c.org/?page_id=26022
+Redirect 301	/membership/meetings/2004/syd/index-slides10.html	http://www-dev.tei-c.org/?page_id=26023
+Redirect 301	/membership/meetings/2004/syd/index-slides11.html	http://www-dev.tei-c.org/?page_id=26024
+Redirect 301	/membership/meetings/2004/syd/index-slides2.html	http://www-dev.tei-c.org/?page_id=26025
+Redirect 301	/membership/meetings/2004/syd/index-slides3.html	http://www-dev.tei-c.org/?page_id=26026
+Redirect 301	/membership/meetings/2004/syd/index-slides4.html	http://www-dev.tei-c.org/?page_id=26027
+Redirect 301	/membership/meetings/2004/syd/index-slides5.html	http://www-dev.tei-c.org/?page_id=26028
+Redirect 301	/membership/meetings/2004/syd/index-slides6.html	http://www-dev.tei-c.org/?page_id=26029
+Redirect 301	/membership/meetings/2004/syd/index-slides7.html	http://www-dev.tei-c.org/?page_id=26030
+Redirect 301	/membership/meetings/2004/syd/index-slides8.html	http://www-dev.tei-c.org/?page_id=26031
+Redirect 301	/membership/meetings/2004/syd/index-slides9.html	http://www-dev.tei-c.org/?page_id=26032
+Redirect 301	/membership/meetings/2004/syd/sfreport.html	http://www-dev.tei-c.org/?page_id=26033
+Redirect 301	/membership/meetings/2004/syd/sfreports.xml	http://www-dev.tei-c.org/?page_id=26034
+Redirect 301	/membership/meetings/2004/syd	http://www-dev.tei-c.org/?page_id=26020
+
+Redirect 301	/membership/meetings/2004/mm24.xml	http://www-dev.tei-c.org/?page_id=26036
+Redirect 301	/membership/meetings/2004/mm25.xml	http://www-dev.tei-c.org/?page_id=26037
+Redirect 301	/membership/meetings/2004/mm26.xml	http://www-dev.tei-c.org/?page_id=26038
+Redirect 301	/membership/meetings/2004/mm28.xml	http://www-dev.tei-c.org/?page_id=26039
+Redirect 301	/membership/meetings/2004/mm29.xml	http://www-dev.tei-c.org/?page_id=26040
+Redirect 301	/membership/meetings/2004/mm30.xml	http://www-dev.tei-c.org/?page_id=26041
+Redirect 301	/membership/meetings/2004/schedule.xml	http://www-dev.tei-c.org/?page_id=26042
+Redirect 301	/membership/meetings/2004	http://www-dev.tei-c.org/?page_id=25985
+
+Redirect 301	/membership/meetings/2005/mm31.xml	http://www-dev.tei-c.org/?page_id=26045
+Redirect 301	/membership/meetings/2005/mm32.xml	http://www-dev.tei-c.org/?page_id=26046
+Redirect 301	/membership/meetings/2005/mm33.xml	http://www-dev.tei-c.org/?page_id=26047
+Redirect 301	/membership/meetings/2005/mm34.xml	http://www-dev.tei-c.org/?page_id=26048
+Redirect 301	/membership/meetings/2005/schedule.xml	http://www-dev.tei-c.org/?page_id=26049
+Redirect 301	/membership/meetings/2005	http://www-dev.tei-c.org/?page_id=26043
+
+Redirect 301	/membership/meetings/2006/bruvik.xml	http://www-dev.tei-c.org/?page_id=26051
+Redirect 301	/membership/meetings/2006/rahtz.xml	http://www-dev.tei-c.org/?page_id=26052
+Redirect 301	/membership/meetings/2006/mm06councilreport.xml	http://www-dev.tei-c.org/?page_id=26054
+Redirect 301	/membership/meetings/2006/mm35.xml	http://www-dev.tei-c.org/?page_id=26055
+Redirect 301	/membership/meetings/2006/mm36.xml	http://www-dev.tei-c.org/?page_id=26056
+Redirect 301	/membership/meetings/2006/mm37.xml	http://www-dev.tei-c.org/?page_id=26057
+Redirect 301	/membership/meetings/2006/mm38.xml	http://www-dev.tei-c.org/?page_id=26058
+Redirect 301	/membership/meetings/2006/mm39.xml	http://www-dev.tei-c.org/?page_id=26059
+Redirect 301	/membership/meetings/2006/schedule.xml	http://www-dev.tei-c.org/?page_id=26060
+Redirect 301	/membership/meetings/2006	http://www-dev.tei-c.org/?page_id=26050
+
+Redirect 301	/membership/meetings/2007/mm40.xml	http://www-dev.tei-c.org/?page_id=26063
+Redirect 301	/membership/meetings/2007/mm41.xml	http://www-dev.tei-c.org/?page_id=26064
+Redirect 301	/membership/meetings/2007/mm42.xml	http://www-dev.tei-c.org/?page_id=26065
+Redirect 301	/membership/meetings/2007/mm43.xml	http://www-dev.tei-c.org/?page_id=26066
+Redirect 301	/membership/meetings/2007/mm44.xml	http://www-dev.tei-c.org/?page_id=26067
+Redirect 301	/membership/meetings/2007	http://www-dev.tei-c.org/?page_id=26061
+
+Redirect 301	/membership/meetings/2008/mm45.xml	http://www-dev.tei-c.org/?page_id=26070
+Redirect 301	/membership/meetings/2008/mm46.xml	http://www-dev.tei-c.org/?page_id=26071
+Redirect 301	/membership/meetings/2008/mm47.xml	http://www-dev.tei-c.org/?page_id=26072
+Redirect 301	/membership/meetings/2008/mm48.xml	http://www-dev.tei-c.org/?page_id=26073
+Redirect 301	/membership/meetings/2008	http://www-dev.tei-c.org/?page_id=26068
+
+Redirect 301	/membership/meetings/2009/mm49.xml	http://www-dev.tei-c.org/?page_id=26076
+Redirect 301	/membership/meetings/2009/mm50.xml	http://www-dev.tei-c.org/?page_id=26077
+Redirect 301	/membership/meetings/2009/mm50a.xml	http://www-dev.tei-c.org/?page_id=26078
+Redirect 301	/membership/meetings/2009/mm51.xml	http://www-dev.tei-c.org/?page_id=26079
+Redirect 301	/membership/meetings/2009	http://www-dev.tei-c.org/?page_id=26074
+
+Redirect 301	/membership/meetings/2010/mm52.xml	http://www-dev.tei-c.org/?page_id=26082
+Redirect 301	/membership/meetings/2010/mm53.xml	http://www-dev.tei-c.org/?page_id=26083
+Redirect 301	/membership/meetings/2010/mm53a.xml	http://www-dev.tei-c.org/?page_id=26084
+Redirect 301	/membership/meetings/2010	http://www-dev.tei-c.org/?page_id=26080
+
+Redirect 301	/membership/meetings/2011/mm54.xml	http://www-dev.tei-c.org/?page_id=26087
+Redirect 301	/membership/meetings/2011/mm55.xml	http://www-dev.tei-c.org/?page_id=26088
+Redirect 301	/membership/meetings/2011/mm56.xml	http://www-dev.tei-c.org/?page_id=26089
+Redirect 301	/membership/meetings/2011/mm57.xml	http://www-dev.tei-c.org/?page_id=26090
+Redirect 301	/membership/meetings/2011	http://www-dev.tei-c.org/?page_id=26085
+
+Redirect 301	/membership/meetings/2012/mm58.xml	http://www-dev.tei-c.org/?page_id=26093
+Redirect 301	/membership/meetings/2012/mm59.xml	http://www-dev.tei-c.org/?page_id=26094
+Redirect 301	/membership/meetings/2012/mm60.xml	http://www-dev.tei-c.org/?page_id=26095
+Redirect 301	/membership/meetings/2012/mm61.xml	http://www-dev.tei-c.org/?page_id=26096
+Redirect 301	/membership/meetings/2012	http://www-dev.tei-c.org/?page_id=26091
+
+Redirect 301	/membership/meetings/2013/bm48.xml	http://www-dev.tei-c.org/?page_id=26098
+Redirect 301	/membership/meetings/2013/mm62.xml	http://www-dev.tei-c.org/?page_id=26100
+Redirect 301	/membership/meetings/2013/mm63.xml	http://www-dev.tei-c.org/?page_id=26101
+Redirect 301	/membership/meetings/2013/mm64.xml	http://www-dev.tei-c.org/?page_id=26102
+Redirect 301	/membership/meetings/2013/mm65.xml	http://www-dev.tei-c.org/?page_id=26103
+Redirect 301	/membership/meetings/2013	http://www-dev.tei-c.org/?page_id=26097
+
+Redirect 301	/membership/meetings/2014/mm70.xml	http://www-dev.tei-c.org/?page_id=26106
+Redirect 301	/membership/meetings/2014/mm71.xml	http://www-dev.tei-c.org/?page_id=26107
+Redirect 301	/membership/meetings/2014/mm72.xml	http://www-dev.tei-c.org/?page_id=26108
+Redirect 301	/membership/meetings/2014/mm73.xml	http://www-dev.tei-c.org/?page_id=26109
+Redirect 301	/membership/meetings/2014	http://www-dev.tei-c.org/?page_id=26104
+
+Redirect 301	/membership/meetings/2015/mm74.xml	http://www-dev.tei-c.org/?page_id=26112
+Redirect 301	/membership/meetings/2015/mm75.xml	http://www-dev.tei-c.org/?page_id=26113
+Redirect 301	/membership/meetings/2015/mm76.xml	http://www-dev.tei-c.org/?page_id=26114
+Redirect 301	/membership/meetings/2015	http://www-dev.tei-c.org/?page_id=26110
+
+Redirect 301	/membership/meetings/2016/mm77.xml	http://www-dev.tei-c.org/?page_id=26117
+Redirect 301	/membership/meetings/2016	http://www-dev.tei-c.org/?page_id=26115
+
+Redirect 301	/membership/meetings/meeting_hosting.xml	http://www-dev.tei-c.org/?page_id=26119
+Redirect 301	/membership/meetings	http://www-dev.tei-c.org/?page_id=25912
+
+Redirect 301	/membership/benefits.xml	http://www-dev.tei-c.org/?page_id=26120
+Redirect 301	/membership/current.html	http://www-dev.tei-c.org/?page_id=26121
+Redirect 301	/membership/current.xml	http://www-dev.tei-c.org/?page_id=26122
+Redirect 301	/membership/index.xml	http://www-dev.tei-c.org/?page_id=26123
+Redirect 301	/membership/join.xml	http://www-dev.tei-c.org/?page_id=26124
+
 # News
 Redirect 301	/News/20071018.xml	http://www-dev.tei-c.org/?page_id=26311
 Redirect 301	/News/index.xml	http://www-dev.tei-c.org/?page_id=26312
 Redirect 301	/News/news122007.xml	http://www-dev.tei-c.org/?page_id=26313
+
+Redirect 301	/news/20071018.xml	http://www-dev.tei-c.org/?page_id=26311
+Redirect 301	/news/index.xml	http://www-dev.tei-c.org/?page_id=26312
+Redirect 301	/news/news122007.xml	http://www-dev.tei-c.org/?page_id=26313
