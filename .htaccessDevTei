@@ -1407,7 +1407,7 @@ Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-width.html	http://
 Redirect 301	/activities/workgroups/ms/msm01.xml	http://www-dev.tei-c.org/ms/ms-description-task-force/
 Redirect 301	/activities/workgroups/ms/msw03.html	http://www-dev.tei-c.org/ms/desiderata-for-tei-ms/
 Redirect 301	/activities/workgroups/ms/msw05.xml	http://www-dev.tei-c.org/ms/ms-chapter-reviews/
-Redirect 301	/activities/workgroups/ms	http://www-dev.tei-c.org/activities/workgroups/ms/
+# Redirect 301	/activities/workgroups/ms	http://www-dev.tei-c.org/activities/workgroups/ms/
 
 Redirect 301	/activities/workgroups/pb/pb-draft.xml	http://www-dev.tei-c.org/activities/workgroups/pb/physical-bibliography-draft-for-p5/
 Redirect 301	/activities/workgroups/pb/albertus-sample-1.xml	http://www-dev.tei-c.org/activities/workgroups/pb/albertus-sample-1-xml/
@@ -1422,7 +1422,7 @@ Redirect 301	/activities/workgroups/pb/harley-sample-2.xml	http://www-dev.tei-c.
 Redirect 301	/activities/workgroups/pb/octavo-1.xml	http://www-dev.tei-c.org/pb/octavo-1-xml/
 Redirect 301	/activities/workgroups/pb/pba01.xml	http://www-dev.tei-c.org/pb/proposed-plan-of-work-for-tei-work-group-on-physical-bibliography/
 Redirect 301	/activities/workgroups/pb/pbr01.xml	http://www-dev.tei-c.org/pb/tei-physical-bibliography-workgroup-summary-of-activity/
-Redirect 301	/activities/workgroups/pb	http://www-dev.tei-c.org/activities/workgroups/pb/
+# Redirect 301	/activities/workgroups/pb	http://www-dev.tei-c.org/activities/workgroups/pb/
 
 
 Redirect 301	/activities/workgroups/pers/app1.xml	http://www-dev.tei-c.org/activities/workgroups/pers/eac/
@@ -1437,7 +1437,7 @@ Redirect 301	/activities/workgroups/pers/persw06.doc.html	http://www-dev.tei-c.o
 Redirect 301	/activities/workgroups/pers/persw06.xml	http://www-dev.tei-c.org/pers/draft-personography-odd-3/
 Redirect 301	/activities/workgroups/pers/placemtg.xml	http://www-dev.tei-c.org/pers/tei-personography-wg-place-meeting-at-cch-29-may-2007/
 Redirect 301	/activities/workgroups/pers/test-greeks.xml	http://www-dev.tei-c.org/pers/greek-names-online/
-Redirect 301	/activities/workgroups/pers	http://www-dev.tei-c.org/activities/workgroups/pers/
+# Redirect 301	/activities/workgroups/pers	http://www-dev.tei-c.org/activities/workgroups/pers/
 
 
 Redirect 301	/activities/workgroups/so/edw74.xml	http://www-dev.tei-c.org/activities/workgroups/so/charge-for-the-workgroup-on-stand-off-markup-xlink-and-xpointer/
@@ -1482,7 +1482,7 @@ Redirect 301	/activities/workgroups/so/sow06.xml	http://www-dev.tei-c.org/so/sta
 Redirect 301	/activities/workgroups/so/sow07.xml	http://www-dev.tei-c.org/so/graph-description-in-the-tei/
 Redirect 301	/activities/workgroups/so/sow08.xml	http://www-dev.tei-c.org/so/canonical-references/
 Redirect 301	/activities/workgroups/so/sow09.xml	http://www-dev.tei-c.org/so/basic-working-decisions-on-pointing-and-linking/
-Redirect 301	/activities/workgroups/so	http://www-dev.tei-c.org/activities/workgroups/so/
+# Redirect 301	/activities/workgroups/so	http://www-dev.tei-c.org/activities/workgroups/so/
 
 Redirect 301	/activities/workgroups/index.xml	http://www-dev.tei-c.org/activities/workgroups/tei-workgroups/
 
