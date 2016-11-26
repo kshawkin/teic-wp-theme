@@ -185,7 +185,7 @@ require get_template_directory() . '/inc/jetpack.php';
 		 remove_filter( 'the_content', 'wpautop' );
 	 endif;
  }
- add_action( 'loop_start', 'teic_disable_autop' );
+ //add_action( 'loop_start', 'teic_disable_autop' );
 
 /**
  * Is the page a child of a specific parent?
