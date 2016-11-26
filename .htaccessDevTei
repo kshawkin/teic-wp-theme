@@ -1283,7 +1283,6 @@ Redirect 301	/activities/workgroups/ce/cew07.xml	http://www-dev.tei-c.org/activi
 Redirect 301	/activities/workgroups/ce/cew08.xml	http://www-dev.tei-c.org/activities/workgroups/ce/outline-of-contentissues-in-chapter-4-of-tei-p4/
 Redirect 301	/activities/workgroups/ce/cew09.xml	http://www-dev.tei-c.org/activities/workgroups/ce/tei-character-encoding-wg-language-identification-cew09/
 Redirect 301	/activities/workgroups/ce/chibs-2002-paper.html	http://www-dev.tei-c.org/activities/workgroups/ce/the-text-in-the-age-of-digital-reproduction/
-Redirect 301	/activities/workgroups/ce	http://www-dev.tei-c.org/activities/workgroups/ce/
 
 Redirect 301	/activities/workgroups/fs/fs-examples.xml	http://www-dev.tei-c.org/activities/workgroups/fs/some-linguistic-examples-of-feature-structures/
 Redirect 301	/activities/workgroups/fs/fsm01.xml	http://www-dev.tei-c.org/activities/workgroups/fs/teiiso-joint-activity-on-feature-structures-meeting-held-4-5-nov-03-at-atilf-universite-de-nancy-2/
@@ -1291,7 +1290,6 @@ Redirect 301	/activities/workgroups/fs/fsm02.xml	http://www-dev.tei-c.org/activi
 Redirect 301	/activities/workgroups/fs/fstest.xml	http://www-dev.tei-c.org/activities/workgroups/fs/erics-example-file/
 Redirect 301	/activities/workgroups/fs/fsw01.xml	http://www-dev.tei-c.org/activities/workgroups/fs/fsw01-tei-iso-fs-changes-for-p5/
 Redirect 301	/activities/workgroups/fs/tcw01.xml	http://www-dev.tei-c.org/fs/tcw01-proposed-charter-for-feature-structure-workgroup/
-Redirect 301	/activities/workgroups/fs	http://www-dev.tei-c.org/activities/workgroups/fs/
 
 
 Redirect 301	/activities/workgroups/meta/mem03.xml	http://www-dev.tei-c.org/meta/tei-meta-task-force-meeting-notes-22-mar-2004-mem03/
@@ -1310,7 +1308,6 @@ Redirect 301	/activities/workgroups/meta/mew12.xml	http://www-dev.tei-c.org/meta
 Redirect 301	/activities/workgroups/meta/teilite.xml	http://www-dev.tei-c.org/meta/tei-lite/
 Redirect 301	/activities/workgroups/meta/testext.xml	http://www-dev.tei-c.org/meta/tei-silly-extension-file/
 Redirect 301	/activities/workgroups/meta/textatts.xml	http://www-dev.tei-c.org/meta/attributes-values/
-Redirect 301	/activities/workgroups/meta	http://www-dev.tei-c.org/activities/workgroups/meta/
 
 
 Redirect 301	/activities/workgroups/mi/samples	http://www-dev.tei-c.org/activities/workgroups/mi/samples/
@@ -1330,7 +1327,6 @@ Redirect 301	/activities/workgroups/mi/miw03.xml	http://www-dev.tei-c.org/mi/mi-
 Redirect 301	/activities/workgroups/mi/miw04.xml	http://www-dev.tei-c.org/mi/tei-mi-w-04/
 Redirect 301	/activities/workgroups/mi/miw05.xml	http://www-dev.tei-c.org/mi/tei-mi-w-05-draft/
 Redirect 301	/activities/workgroups/mi/miw06.xml	http://www-dev.tei-c.org/mi/tei-mi-w-06/
-Redirect 301	/activities/workgroups/mi	http://www-dev.tei-c.org/activities/workgroups/mi/
 
 Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/
 Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ms.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule/
@@ -1407,7 +1403,6 @@ Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ref-width.html	http://
 Redirect 301	/activities/workgroups/ms/msm01.xml	http://www-dev.tei-c.org/ms/ms-description-task-force/
 Redirect 301	/activities/workgroups/ms/msw03.html	http://www-dev.tei-c.org/ms/desiderata-for-tei-ms/
 Redirect 301	/activities/workgroups/ms/msw05.xml	http://www-dev.tei-c.org/ms/ms-chapter-reviews/
-# Redirect 301	/activities/workgroups/ms	http://www-dev.tei-c.org/activities/workgroups/ms/
 
 Redirect 301	/activities/workgroups/pb/pb-draft.xml	http://www-dev.tei-c.org/activities/workgroups/pb/physical-bibliography-draft-for-p5/
 Redirect 301	/activities/workgroups/pb/albertus-sample-1.xml	http://www-dev.tei-c.org/activities/workgroups/pb/albertus-sample-1-xml/
@@ -1422,7 +1417,6 @@ Redirect 301	/activities/workgroups/pb/harley-sample-2.xml	http://www-dev.tei-c.
 Redirect 301	/activities/workgroups/pb/octavo-1.xml	http://www-dev.tei-c.org/pb/octavo-1-xml/
 Redirect 301	/activities/workgroups/pb/pba01.xml	http://www-dev.tei-c.org/pb/proposed-plan-of-work-for-tei-work-group-on-physical-bibliography/
 Redirect 301	/activities/workgroups/pb/pbr01.xml	http://www-dev.tei-c.org/pb/tei-physical-bibliography-workgroup-summary-of-activity/
-# Redirect 301	/activities/workgroups/pb	http://www-dev.tei-c.org/activities/workgroups/pb/
 
 
 Redirect 301	/activities/workgroups/pers/app1.xml	http://www-dev.tei-c.org/activities/workgroups/pers/eac/
