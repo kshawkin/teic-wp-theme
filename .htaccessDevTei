@@ -138,7 +138,7 @@ Redirect 301	/Activities/Board/bw10.xml	http://www-dev.tei-c.org/should-the-emai
 Redirect 301	/Activities/Board/bw11.xml	http://www-dev.tei-c.org/tei-consortium-communications-policy/
 Redirect 301	/Activities/Board/bw12.xml	http://www-dev.tei-c.org/summary-of-2013-bylaw-revisions/
 Redirect 301	/Activities/Board/bylaws2013.xml	http://www-dev.tei-c.org/tei-bylaws-2/
-Redirect 301	/Activities/Board/index.xml	http://www-dev.tei-c.org/tei-board/
+Redirect 301	/Activities/Board/index.xml	http://www-dev.tei-c.org/board/
 Redirect 301	/Activities/Board/newbylawsDraft2.xml	http://www-dev.tei-c.org/tei-bylaws-3/
 Redirect 301	/Activities/Board/procedures.xml	http://www-dev.tei-c.org/tei-consortium-procedures-customs-and-practices/
 
@@ -245,7 +245,7 @@ Redirect 301	/activities/board/bw10.xml	http://www-dev.tei-c.org/should-the-emai
 Redirect 301	/activities/board/bw11.xml	http://www-dev.tei-c.org/tei-consortium-communications-policy/
 Redirect 301	/activities/board/bw12.xml	http://www-dev.tei-c.org/summary-of-2013-bylaw-revisions/
 Redirect 301	/activities/board/bylaws2013.xml	http://www-dev.tei-c.org/tei-bylaws-2/
-Redirect 301	/activities/board/index.xml	http://www-dev.tei-c.org/tei-board/
+Redirect 301	/activities/board/index.xml	http://www-dev.tei-c.org/board/
 Redirect 301	/activities/board/newbylawsdraft2.xml	http://www-dev.tei-c.org/tei-bylaws-3/
 Redirect 301	/activities/board/procedures.xml	http://www-dev.tei-c.org/tei-consortium-procedures-customs-and-practices/
 
