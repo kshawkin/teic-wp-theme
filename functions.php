@@ -180,12 +180,16 @@ require get_template_directory() . '/inc/jetpack.php';
  * certain pieces of content..
  */
  function teic_disable_autop() {
-	 global $post;
 	 if ( is_page() ) :
-		 remove_filter( 'the_content', 'wpautop' );
+		remove_filter( 'the_content', 'wpautop' );
+		$br = false;
+		add_filter( 'the_content', function( $content ) use ( $br ) {
+		    return wpautop( $content, $br );
+		}, 10 );
 	 endif;
  }
- //add_action( 'loop_start', 'teic_disable_autop' );
+add_action( 'loop_start', 'teic_disable_autop' );
+
 
 /**
  * Is the page a child of a specific parent?
@@ -199,3 +203,5 @@ function is_tree( $pid ) {
 		else
 		return false;  // we're elsewhere
 	};
+
+remove_action('wp_head', 'wp_generator');

@@ -3,15 +3,12 @@ Redirect 301	/Guidelines/Customization/jTEI	http://www-dev.tei-c.org/customizati
 Redirect 301	/Guidelines/Customization/odds.xml	http://www-dev.tei-c.org/customization/getting-started-with-p5-odds/
 Redirect 301	/Guidelines/Customization/use_roma.xml	http://www-dev.tei-c.org/customization/customizing-the-tei-with-roma/
 Redirect 301	/Guidelines/Customization	http://www-dev.tei-c.org/customization/
-
 Redirect 301	/Guidelines/DTD/catalog.xml	http://www-dev.tei-c.org/dtd/catalog-xml/
 Redirect 301	/Guidelines/DTD	http://www-dev.tei-c.org/dtd/
-
 Redirect 301	/Guidelines/P5/about-dsewell.xml	http://www-dev.tei-c.org/p5/about-the-tei-p5-guidelines/
 Redirect 301	/Guidelines/P5/get.xml	http://www-dev.tei-c.org/p5/using-the-tei-github-repository/
 Redirect 301	/Guidelines/P5/index-search-example.html	http://www-dev.tei-c.org/p5/p5-guidelines/
 Redirect 301	/Guidelines/P5	http://www-dev.tei-c.org/p5/
-
 Redirect 301	/Guidelines/access.xml	http://www-dev.tei-c.org/licensing-and-citation/
 Redirect 301	/Guidelines/index.xml	http://www-dev.tei-c.org/tei-guidelines/
 Redirect 301	/Guidelines/participation.xml	http://www-dev.tei-c.org/getting-involved/
@@ -20,16 +17,10 @@ Redirect 301	/guidelines/customization/lite	http://www-dev.tei-c.org/customizati
 Redirect 301	/guidelines/customization/jtei	http://www-dev.tei-c.org/customization/jtei/
 Redirect 301	/guidelines/customization/odds.xml	http://www-dev.tei-c.org/customization/getting-started-with-p5-odds/
 Redirect 301	/guidelines/customization/use_roma.xml	http://www-dev.tei-c.org/customization/customizing-the-tei-with-roma/
-Redirect 301	/guidelines/customization	http://www-dev.tei-c.org/customization/
-
 Redirect 301	/guidelines/dtd/catalog.xml	http://www-dev.tei-c.org/dtd/catalog-xml/
-Redirect 301	/guidelines/dtd	http://www-dev.tei-c.org/dtd/
-
 Redirect 301	/guidelines/p5/about-dsewell.xml	http://www-dev.tei-c.org/p5/about-the-tei-p5-guidelines/
 Redirect 301	/guidelines/p5/get.xml	http://www-dev.tei-c.org/p5/using-the-tei-github-repository/
 Redirect 301	/guidelines/p5/index-search-example.html	http://www-dev.tei-c.org/p5/p5-guidelines/
-Redirect 301	/guidelines/p5	http://www-dev.tei-c.org/p5/
-
 Redirect 301	/guidelines/access.xml	http://www-dev.tei-c.org/licensing-and-citation/
 Redirect 301	/guidelines/index.xml	http://www-dev.tei-c.org/tei-guidelines/
 Redirect 301	/guidelines/participation.xml	http://www-dev.tei-c.org/getting-involved/
@@ -456,13 +447,11 @@ Redirect 301	/activities/council/meetings/tcm77.xml	http://www-dev.tei-c.org/mee
 Redirect 301	/activities/council/meetings/tcm78.xml	http://www-dev.tei-c.org/meetings/teleconference-2016-03-31/
 Redirect 301	/activities/council/meetings/tcm79.xml	http://www-dev.tei-c.org/meetings/tcm79-xml/
 Redirect 301	/activities/council/meetings/tcm80.xml	http://www-dev.tei-c.org/meetings/tcm80-xml/
-Redirect 301	/activities/council/meetings	http://www-dev.tei-c.org/meetings/
 
 Redirect 301	/activities/council/reports/tcr01.xml	http://www-dev.tei-c.org/reports/tcr01-report-of-the-tei-council-2003/
 Redirect 301	/activities/council/reports/tcr02.xml	http://www-dev.tei-c.org/reports/tcr02-report-of-the-tei-council-to-the-members-meeting-2004/
 Redirect 301	/activities/council/reports/tcr03.xml	http://www-dev.tei-c.org/reports/tcr03-report-of-the-tei-council-to-the-members-meeting-2005/
 Redirect 301	/activities/council/reports/tcr04.xml	http://www-dev.tei-c.org/reports/report-of-the-tei-council-activities-to-the-members-meeting-2006/
-Redirect 301	/activities/council/reports	http://www-dev.tei-c.org/reports/
 
 Redirect 301	/activities/council/working/genetictei.doc.html	http://www-dev.tei-c.org/working/an-encoding-model-for-genetic-editions/
 Redirect 301	/activities/council/working/tcw01.xml	http://www-dev.tei-c.org/working/tcw01-proposed-charter-for-feature-structure-workgroup/
@@ -494,11 +483,8 @@ Redirect 301	/activities/council/working/tcw26a.xml	http://www-dev.tei-c.org/wor
 Redirect 301	/activities/council/working/tcw27.xml	http://www-dev.tei-c.org/working/procedure-for-handling-practices-that-are-no-longer-recommended-or-deprecated/
 Redirect 301	/activities/council/working/tcw28.xml	http://www-dev.tei-c.org/working/draft-policy-on-integration-of-external-standards-into-the-tei-guidelines/
 Redirect 301	/activities/council/working/tcw29.xml	http://www-dev.tei-c.org/working/the-roma-install-on-tei-c-org/
-Redirect 301	/activities/council/working	http://www-dev.tei-c.org/working/
-
 
 Redirect 301	/activities/council/index.xml	http://www-dev.tei-c.org/tei-technical-council-2/
-Redirect 301	/activities/council/public	http://www-dev.tei-c.org/public/
 
 # Activities/Projects
 Redirect 301	/Activities/Projects/CMS-Uploads/bv01.xml	http://www-dev.tei-c.org/cms-uploads/bvh-virtual-humanistic-libraries-bibliotheques-virtuelles-humanistes/
@@ -698,7 +684,6 @@ Redirect 301	/Activities/Projects/ye01.xml	http://www-dev.tei-c.org/the-yellow-n
 
 Redirect 301	/activities/projects/cms-uploads/bv01.xml	http://www-dev.tei-c.org/cms-uploads/bvh-virtual-humanistic-libraries-bibliotheques-virtuelles-humanistes/
 Redirect 301	/activities/projects/cms-uploads/newindex.xml	http://www-dev.tei-c.org/cms-uploads/projects-using-the-tei/
-Redirect 301	/activities/projects/cms-uploads	http://www-dev.tei-c.org/cms-uploads/
 
 Redirect 301	/activities/projects/af01.xml	http://www-dev.tei-c.org/african-languages-lexicon-project-allex/
 Redirect 301	/activities/projects/afr01.xml	http://www-dev.tei-c.org/african-american-women-writers-of-the-19th-century/
@@ -812,6 +797,8 @@ Redirect 301	/activities/projects/in09.xml	http://www-dev.tei-c.org/indiana-univ
 Redirect 301	/activities/projects/in10.xml	http://www-dev.tei-c.org/indiana-authors-and-their-books/
 Redirect 301	/activities/projects/in70.xml	http://www-dev.tei-c.org/inscriptiones-antiquae-orae-septentrionalis-ponti-euxini-iospe/
 Redirect 301	/activities/projects/index.xml	http://www-dev.tei-c.org/projects-using-the-tei/
+
+
 Redirect 301	/activities/projects/ja02.xml	http://www-dev.tei-c.org/japanese-text-initiative/
 Redirect 301	/activities/projects/jo01.xml	http://www-dev.tei-c.org/john-foxes-book-of-martyrs-variorum-edition-online/
 Redirect 301	/activities/projects/jo02.xml	http://www-dev.tei-c.org/jos-corpora-of-slovene/
