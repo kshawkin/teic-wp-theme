@@ -563,8 +563,9 @@ dt, ul.gloss label
 }
 
 dd, ul.gloss li { margin-bottom: .5em; }
+ul.gloss p { margin: 0;}
 
-dl a, ul.gliss li { display: inline; }
+dl a, ul.gloss li { display: inline; }
 
 pre {
                 color: #000000;
