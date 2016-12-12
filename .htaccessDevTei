@@ -1,3 +1,13 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
 Redirect 301	/Guidelines/Customization/Lite	http://www-dev.tei-c.org/customization/lite/
 Redirect 301	/Guidelines/Customization/jTEI	http://www-dev.tei-c.org/customization/jtei/
 Redirect 301	/Guidelines/Customization/odds.xml	http://www-dev.tei-c.org/customization/getting-started-with-p5-odds/
@@ -132,6 +142,8 @@ Redirect 301	/Activities/Board/bylaws2013.xml	http://www-dev.tei-c.org/tei-bylaw
 Redirect 301	/Activities/Board/index.xml	http://www-dev.tei-c.org/board/
 Redirect 301	/Activities/Board/newbylawsDraft2.xml	http://www-dev.tei-c.org/tei-bylaws-3/
 Redirect 301	/Activities/Board/procedures.xml	http://www-dev.tei-c.org/tei-consortium-procedures-customs-and-practices/
+Redirect 301	Activities/Board/bm65.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-07-june-2016/
+Redirect 301	activities/board/bm65.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-07-june-2016/
 
 Redirect 301	/activities/board/2010bylawsproposal.xml	http://www-dev.tei-c.org/tei-bylaws/
 Redirect 301	/activities/board/2011-special-election.xml	http://www-dev.tei-c.org/tei-special-election-february-2011/
@@ -878,6 +890,9 @@ Redirect 301	/activities/projects/wr01.xml	http://www-dev.tei-c.org/wright-ameri
 Redirect 301	/activities/projects/wt01.xml	http://www-dev.tei-c.org/womens-travel-writing-1830-1930/
 Redirect 301	/activities/projects/ye01.xml	http://www-dev.tei-c.org/the-yellow-nineties-online/
 
+Redirect 301	/Activities/rahtz.xml	http://www-dev.tei-c.org/activities/rahtz-prize-for-tei-ingenuity/
+Redirect 301	/activities/rahtz.xml	http://www-dev.tei-c.org/activities/rahtz-prize-for-tei-ingenuity/
+
 
 # Activities/SIG
 Redirect 301	/Activities/SIG/Authoring	http://www-dev.tei-c.org/authoring/
@@ -1601,7 +1616,7 @@ Redirect 301	/ns/examples	http://www-dev.tei-c.org/?page_id=24109
 # Membership
 
 
-Redirect 301	/nMeetings/2001/ciotti.htm	http://www-dev.tei-c.org/?page_id=25914
+Redirect 301	/Meetings/2001/ciotti.htm	http://www-dev.tei-c.org/?page_id=25914
 Redirect 301	/Membership/Meetings/2001/mm01.xml	http://www-dev.tei-c.org/?page_id=25916
 Redirect 301	/Membership/Meetings/2001/mm02.xml	http://www-dev.tei-c.org/?page_id=25917
 Redirect 301	/Membership/Meetings/2001/mm03.xml	http://www-dev.tei-c.org/?page_id=25918
@@ -1628,7 +1643,6 @@ Redirect 301	/Membership/Meetings/2001/wittern/tei-unicode-slides8.html	http://w
 Redirect 301	/Membership/Meetings/2001/wittern/tei-unicode-slides9.html	http://www-dev.tei-c.org/?page_id=25939
 Redirect 301	/Membership/Meetings/2001/wittern/tei-unicode.xml	http://www-dev.tei-c.org/?page_id=25940
 Redirect 301	/Membership/Meetings/2001	http://www-dev.tei-c.org/?page_id=25913
-
 
 Redirect 301	/Membership/Meetings/2002/Piez	http://www-dev.tei-c.org/?page_id=25942
 Redirect 301	/Membership/Meetings/2002/Piez/ancientms.xml	http://www-dev.tei-c.org/?page_id=25943
@@ -1809,6 +1823,8 @@ Redirect 301	/Membership/Meetings/2015/mm76.xml	http://www-dev.tei-c.org/?page_i
 Redirect 301	/Membership/Meetings/2015	http://www-dev.tei-c.org/?page_id=26110
 
 Redirect 301	/Membership/Meetings/2016/mm77.xml	http://www-dev.tei-c.org/?page_id=26117
+Redirect 301	/Membership/Meetings/2016/mm78.xml	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-26-30-september-2016/tei-members-meeting-2016-business-meeting-agenda/
+Redirect 301	/membership/meetings/2016/mm78.xml	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-26-30-september-2016/tei-members-meeting-2016-business-meeting-agenda/
 Redirect 301	/Membership/Meetings/2016	http://www-dev.tei-c.org/?page_id=26115
 
 Redirect 301	/Membership/Meetings/meeting_hosting.xml	http://www-dev.tei-c.org/?page_id=26119
