@@ -111,6 +111,16 @@ function teic_widgets_init() {
 		'after_title'   => '</h2>',
 	) );
 
+	register_sidebar( array(
+		'name'          => esc_html__( 'Footer', 'teic' ),
+		'id'            => 'footer',
+		'description'   => esc_html__( 'Add widgets here.', 'teic' ),
+		'before_widget' => '<span id="%1s" class="widget %2$s">',
+		'after_widget'  => '</span>'
+	) );
+
+
+
 }
 add_action( 'widgets_init', 'teic_widgets_init' );
 
