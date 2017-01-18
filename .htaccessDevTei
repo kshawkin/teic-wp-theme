@@ -1317,12 +1317,9 @@ Redirect 301	/activities/workgroups/meta/textatts.xml	http://www-dev.tei-c.org/m
 Redirect 301	/activities/workgroups/meta/index.xml	http://www-dev.tei-c.org/activities/workgroups/meta/
 
 
-Redirect 301	/activities/workgroups/mi/samples	http://www-dev.tei-c.org/activities/workgroups/mi/samples/
-Redirect 301	/activities/workgroups/mi/samples/bnc	http://www-dev.tei-c.org/activities/workgroups/mi/samples/bnc/
 Redirect 301	/activities/workgroups/mi/samples/bnc/bncindex.xml	http://www-dev.tei-c.org/activities/workgroups/mi/samples/bnc/bncindex-xml/
 Redirect 301	/activities/workgroups/mi/samples/bnc/compat.xml	http://www-dev.tei-c.org/activities/workgroups/mi/samples/bnc/guidelines/
-Redirect 301	/activities/workgroups/mi/tools	http://www-dev.tei-c.org/activities/workgroups/mi/tools/
-Redirect 301	/activities/workgroups/mi/tools/wwp	http://www-dev.tei-c.org/activities/workgroups/mi/tools/wwp/
+
 Redirect 301	/activities/workgroups/mi/tools/wwp/test_that_p4_sgml_works.xml	http://www-dev.tei-c.org/activities/workgroups/mi/tools/wwp/no/
 Redirect 301	/activities/workgroups/mi/tools/wwp/uselessdoc.xml	http://www-dev.tei-c.org/activities/workgroups/mi/tools/wwp/just-a-test/
 Redirect 301	/activities/workgroups/mi/edw76.xml	http://www-dev.tei-c.org/activities/workgroups/mi/draft-charge-for-the-sgmlxml-conversion-work-group/
@@ -1336,7 +1333,6 @@ Redirect 301	/activities/workgroups/mi/miw05.xml	http://www-dev.tei-c.org/mi/tei
 Redirect 301	/activities/workgroups/mi/miw06.xml	http://www-dev.tei-c.org/mi/tei-mi-w-06/
 Redirect 301	/activities/workgroups/mi/index.xml	http://www-dev.tei-c.org/activities/workgroups/mi/
 
-Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/
 Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/ms.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule/
 Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/refcla.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule-2/
 Redirect 301	/activities/workgroups/ms/fasc-ms-guidelines/refent.html	http://www-dev.tei-c.org/activities/workgroups/ms/fasc-ms-guidelines/p5-fascicule-3/
@@ -1439,7 +1435,7 @@ Redirect 301	/activities/workgroups/pers/persw05.xml	http://www-dev.tei-c.org/pe
 Redirect 301	/activities/workgroups/pers/persw06-part2.xml	http://www-dev.tei-c.org/pers/draft-personography-odd/
 Redirect 301	/activities/workgroups/pers/persw06.doc.html	http://www-dev.tei-c.org/pers/draft-personography-odd-2/
 Redirect 301	/activities/workgroups/pers/persw06.xml	http://www-dev.tei-c.org/pers/draft-personography-odd-3/
-Redirect 301	/activities/workgroups/pers/placemtg.xml	http://www-dev.tei-c.org/pers/tei-personography-wg-place-meeting-at-cch-29-may-2007/
+Redirect 301	/activities/workgroups/pers/placeMtg.xml	http://www-dev.tei-c.org/pers/tei-personography-wg-place-meeting-at-cch-29-may-2007/
 Redirect 301	/activities/workgroups/pers/test-greeks.xml	http://www-dev.tei-c.org/pers/greek-names-online/
 Redirect 301	/activities/workgroups/pers/index.xml	http://www-dev.tei-c.org/activities/workgroups/pers/
 # Redirect 301	/activities/workgroups/pers	http://www-dev.tei-c.org/activities/workgroups/pers/
