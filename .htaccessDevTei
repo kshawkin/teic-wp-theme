@@ -1346,7 +1346,6 @@ Redirect 301	/Membership/Meetings/2015	http://www-dev.tei-c.org/?page_id=26110
 
 Redirect 301	/Membership/Meetings/2016/mm77.xml	http://www-dev.tei-c.org/?page_id=26117
 Redirect 301	/Membership/Meetings/2016/mm78.xml	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-26-30-september-2016/tei-members-meeting-2016-business-meeting-agenda/
-Redirect 301	/membership/meetings/2016/mm78.xml	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-26-30-september-2016/tei-members-meeting-2016-business-meeting-agenda/
 Redirect 301	/Membership/Meetings/2016	http://www-dev.tei-c.org/?page_id=26115
 
 Redirect 301	/Membership/Meetings/meeting_hosting.xml	http://www-dev.tei-c.org/?page_id=26119
@@ -1566,6 +1565,7 @@ Redirect 301	/membership/meetings/2015/mm76.xml	http://www-dev.tei-c.org/?page_i
 Redirect 301	/membership/meetings/2015	http://www-dev.tei-c.org/?page_id=26110
 
 Redirect 301	/membership/meetings/2016/mm77.xml	http://www-dev.tei-c.org/?page_id=26117
+Redirect 301	/membership/meetings/2016/mm78.xml	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-26-30-september-2016/tei-members-meeting-2016-business-meeting-agenda/
 Redirect 301	/membership/meetings/2016	http://www-dev.tei-c.org/?page_id=26115
 
 Redirect 301	/membership/meetings/meeting_hosting.xml	http://www-dev.tei-c.org/?page_id=26119
@@ -1576,6 +1576,9 @@ Redirect 301	/membership/current.html	http://www-dev.tei-c.org/?page_id=26121
 Redirect 301	/membership/current.xml	http://www-dev.tei-c.org/?page_id=26122
 Redirect 301	/membership/index.xml	http://www-dev.tei-c.org/?page_id=26123
 Redirect 301	/membership/join.xml	http://www-dev.tei-c.org/?page_id=26124
+
+Redirect 301	/Membership/Meetings/2017/	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-11-15-november-2017/
+Redirect 301	/membership/meetings/2017/	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-11-15-november-2017/
 
 # News
 Redirect 301	/News/20071018.xml	http://www-dev.tei-c.org/?page_id=26311
