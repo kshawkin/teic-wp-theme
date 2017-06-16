@@ -143,8 +143,6 @@ Redirect 301	/Activities/Board/bylaws2013.xml	http://www-dev.tei-c.org/tei-bylaw
 Redirect 301	/Activities/Board/index.xml	http://www-dev.tei-c.org/board/
 Redirect 301	/Activities/Board/newbylawsDraft2.xml	http://www-dev.tei-c.org/tei-bylaws-3/
 Redirect 301	/Activities/Board/procedures.xml	http://www-dev.tei-c.org/tei-consortium-procedures-customs-and-practices/
-Redirect 301	Activities/Board/bm65.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-07-june-2016/
-Redirect 301	activities/board/bm65.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-07-june-2016/
 
 Redirect 301	/activities/board/2010bylawsproposal.xml	http://www-dev.tei-c.org/tei-bylaws/
 Redirect 301	/activities/board/2011-special-election.xml	http://www-dev.tei-c.org/tei-special-election-february-2011/
@@ -252,6 +250,11 @@ Redirect 301	/activities/board/bylaws2013.xml	http://www-dev.tei-c.org/tei-bylaw
 Redirect 301	/activities/board/index.xml	http://www-dev.tei-c.org/board/
 Redirect 301	/activities/board/newbylawsdraft2.xml	http://www-dev.tei-c.org/tei-bylaws-3/
 Redirect 301	/activities/board/procedures.xml	http://www-dev.tei-c.org/tei-consortium-procedures-customs-and-practices/
+
+Redirect 301	/Activities/Board/bm65.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-07-june-2016/
+Redirect 301	/activities/board/bm65.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-07-june-2016/
+Redirect 301	/Activities/Board/bm66.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-21-july-2016/
+Redirect 301	/activities/board/bm66.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-21-july-2016/
 
 # Activities/Council
 Redirect 301	/Activities/Council/Meetings/tca38.xml	http://www-dev.tei-c.org/meetings/draft-agenda-tei-council-meeting-galway-3-4-april-2008/
