@@ -1085,7 +1085,7 @@ Redirect 301	/activities/about/badges/index.xml	http://www-dev.tei-c.org/tei-bad
 # Logos
 Redirect 301	/Activities/About/Logos/index.xml	http://www-dev.tei-c.org/logos/
 
-Redirect 301	/activities/about/logos/index.xml	http://www-dev.tei-c.org/logos/
+#Redirect 301	/activities/about/logos/index.xml	http://www-dev.tei-c.org/logos/
 
 
 # About
@@ -1104,7 +1104,7 @@ Redirect 301	/About/organization.xml	http://www-dev.tei-c.org/?page_id=21588
 Redirect 301	/About/website-old.xml	http://www-dev.tei-c.org/?page_id=21589
 Redirect 301	/About/website.xml	http://www-dev.tei-c.org/?page_id=21590
 
-Redirect 301	/about/logos	http://www-dev.tei-c.org/?page_id=21576
+#Redirect 301	/about/logos	http://www-dev.tei-c.org/?page_id=21576
 Redirect 301	/about/board.xml	http://www-dev.tei-c.org/?page_id=21578
 Redirect 301	/about/bylaws.xml	http://www-dev.tei-c.org/?page_id=21579
 Redirect 301	/about/charter.xml	http://www-dev.tei-c.org/?page_id=21580
@@ -1130,7 +1130,6 @@ Redirect 301	/accesstei/index_export.html	http://www-dev.tei-c.org/?page_id=2410
 Redirect 301	/ns/1.0	http://www-dev.tei-c.org/?page_id=24107
 Redirect 301	/ns/Examples	http://www-dev.tei-c.org/?page_id=24109
 
-Redirect 301	/ns/1.0	http://www-dev.tei-c.org/?page_id=24107
 Redirect 301	/ns/examples	http://www-dev.tei-c.org/?page_id=24109
 
 # Membership
