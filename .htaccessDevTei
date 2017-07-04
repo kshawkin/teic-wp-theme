@@ -338,6 +338,7 @@ Redirect 301	/Activities/Council/Meetings/tcm77.xml	http://www-dev.tei-c.org/mee
 Redirect 301	/Activities/Council/Meetings/tcm78.xml	http://www-dev.tei-c.org/meetings/teleconference-2016-03-31/
 Redirect 301	/Activities/Council/Meetings/tcm79.xml	http://www-dev.tei-c.org/meetings/tcm79-xml/
 Redirect 301	/Activities/Council/Meetings/tcm80.xml	http://www-dev.tei-c.org/meetings/tcm80-xml/
+Redirect 301	/Activities/Council/Meetings/tcm81.xml	http://www-dev.tei-c.org/activities/council/meetings/tei-technical-council-minutes-2016-06/
 Redirect 301	/Activities/Council/Meetings	http://www-dev.tei-c.org/meetings/
 
 Redirect 301	/Activities/Council/Reports/tcr01.xml	http://www-dev.tei-c.org/reports/tcr01-report-of-the-tei-council-2003/
@@ -463,6 +464,8 @@ Redirect 301	/activities/council/meetings/tcm77.xml	http://www-dev.tei-c.org/mee
 Redirect 301	/activities/council/meetings/tcm78.xml	http://www-dev.tei-c.org/meetings/teleconference-2016-03-31/
 Redirect 301	/activities/council/meetings/tcm79.xml	http://www-dev.tei-c.org/meetings/tcm79-xml/
 Redirect 301	/activities/council/meetings/tcm80.xml	http://www-dev.tei-c.org/meetings/tcm80-xml/
+Redirect 301	/activities/council/meetings/tcm81.xml	http://www-dev.tei-c.org/activities/council/meetings/tei-technical-council-minutes-2016-06/
+
 
 Redirect 301	/activities/council/reports/tcr01.xml	http://www-dev.tei-c.org/reports/tcr01-report-of-the-tei-council-2003/
 Redirect 301	/activities/council/reports/tcr02.xml	http://www-dev.tei-c.org/reports/tcr02-report-of-the-tei-council-to-the-members-meeting-2004/
