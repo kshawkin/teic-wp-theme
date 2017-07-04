@@ -701,6 +701,7 @@ Redirect 301	/Activities/Projects/be03.xml	http://www-dev.tei-c.org/activities/p
 Redirect 301	/Activities/Projects/ca05.xml	http://www-dev.tei-c.org/activities/projects/cambridge-digital-library/
 Redirect 301	/Activities/Projects/la01.xml	http://www-dev.tei-c.org/activities/projects/law-in-aberdeen-council-registers-1398-1511/
 Redirect 301	/Activities/Projects/st02.xml	http://www-dev.tei-c.org/activities/projects/stories-for-all-time-the-icelandic-fornaldarsogur/
+Redirect 301	/Activities/Projects/th12.xml	http://www-dev.tei-c.org/activities/projects/theatre-classique-1550-1890/
 
 Redirect 301	/activities/projects/cms-uploads/bv01.xml	http://www-dev.tei-c.org/cms-uploads/bvh-virtual-humanistic-libraries-bibliotheques-virtuelles-humanistes/
 Redirect 301	/activities/projects/cms-uploads/newindex.xml	http://www-dev.tei-c.org/cms-uploads/projects-using-the-tei/
@@ -901,6 +902,7 @@ Redirect 301	/activities/projects/be03.xml	http://www-dev.tei-c.org/activities/p
 Redirect 301	/activities/projects/ca05.xml	http://www-dev.tei-c.org/activities/projects/cambridge-digital-library/
 Redirect 301	/activities/projects/la01.xml	http://www-dev.tei-c.org/activities/projects/law-in-aberdeen-council-registers-1398-1511/
 Redirect 301	/activities/projects/st02.xml	http://www-dev.tei-c.org/activities/projects/stories-for-all-time-the-icelandic-fornaldarsogur/
+Redirect 301	/activities/projects/th12.xml	http://www-dev.tei-c.org/activities/projects/theatre-classique-1550-1890/
 
 Redirect 301	/Activities/rahtz.xml	http://www-dev.tei-c.org/activities/rahtz-prize-for-tei-ingenuity/
 Redirect 301	/activities/rahtz.xml	http://www-dev.tei-c.org/activities/rahtz-prize-for-tei-ingenuity/
