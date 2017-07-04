@@ -697,6 +697,7 @@ Redirect 301	/Activities/Projects/vo02.xml	http://www-dev.tei-c.org/voices-of-th
 Redirect 301	/Activities/Projects/wr01.xml	http://www-dev.tei-c.org/wright-american-fiction-1851-1875/
 Redirect 301	/Activities/Projects/wt01.xml	http://www-dev.tei-c.org/womens-travel-writing-1830-1930/
 Redirect 301	/Activities/Projects/ye01.xml	http://www-dev.tei-c.org/the-yellow-nineties-online/
+Redirect 301	/Activities/Projects/be03.xml	http://www-dev.tei-c.org/activities/projects/bequali/
 
 Redirect 301	/activities/projects/cms-uploads/bv01.xml	http://www-dev.tei-c.org/cms-uploads/bvh-virtual-humanistic-libraries-bibliotheques-virtuelles-humanistes/
 Redirect 301	/activities/projects/cms-uploads/newindex.xml	http://www-dev.tei-c.org/cms-uploads/projects-using-the-tei/
@@ -893,6 +894,7 @@ Redirect 301	/activities/projects/vo02.xml	http://www-dev.tei-c.org/voices-of-th
 Redirect 301	/activities/projects/wr01.xml	http://www-dev.tei-c.org/wright-american-fiction-1851-1875/
 Redirect 301	/activities/projects/wt01.xml	http://www-dev.tei-c.org/womens-travel-writing-1830-1930/
 Redirect 301	/activities/projects/ye01.xml	http://www-dev.tei-c.org/the-yellow-nineties-online/
+Redirect 301	/activities/projects/be03.xml	http://www-dev.tei-c.org/activities/projects/bequali/
 
 Redirect 301	/Activities/rahtz.xml	http://www-dev.tei-c.org/activities/rahtz-prize-for-tei-ingenuity/
 Redirect 301	/activities/rahtz.xml	http://www-dev.tei-c.org/activities/rahtz-prize-for-tei-ingenuity/
