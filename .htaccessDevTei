@@ -699,6 +699,7 @@ Redirect 301	/Activities/Projects/wt01.xml	http://www-dev.tei-c.org/womens-trave
 Redirect 301	/Activities/Projects/ye01.xml	http://www-dev.tei-c.org/the-yellow-nineties-online/
 Redirect 301	/Activities/Projects/be03.xml	http://www-dev.tei-c.org/activities/projects/bequali/
 Redirect 301	/Activities/Projects/ca05.xml	http://www-dev.tei-c.org/activities/projects/cambridge-digital-library/
+Redirect 301	/Activities/Projects/la01.xml	http://www-dev.tei-c.org/activities/projects/law-in-aberdeen-council-registers-1398-1511/
 
 Redirect 301	/activities/projects/cms-uploads/bv01.xml	http://www-dev.tei-c.org/cms-uploads/bvh-virtual-humanistic-libraries-bibliotheques-virtuelles-humanistes/
 Redirect 301	/activities/projects/cms-uploads/newindex.xml	http://www-dev.tei-c.org/cms-uploads/projects-using-the-tei/
@@ -897,6 +898,7 @@ Redirect 301	/activities/projects/wt01.xml	http://www-dev.tei-c.org/womens-trave
 Redirect 301	/activities/projects/ye01.xml	http://www-dev.tei-c.org/the-yellow-nineties-online/
 Redirect 301	/activities/projects/be03.xml	http://www-dev.tei-c.org/activities/projects/bequali/
 Redirect 301	/activities/projects/ca05.xml	http://www-dev.tei-c.org/activities/projects/cambridge-digital-library/
+Redirect 301	/activities/projects/la01.xml	http://www-dev.tei-c.org/activities/projects/law-in-aberdeen-council-registers-1398-1511/
 
 Redirect 301	/Activities/rahtz.xml	http://www-dev.tei-c.org/activities/rahtz-prize-for-tei-ingenuity/
 Redirect 301	/activities/rahtz.xml	http://www-dev.tei-c.org/activities/rahtz-prize-for-tei-ingenuity/
