@@ -255,6 +255,8 @@ Redirect 301	/Activities/Board/bm65.xml	http://www-dev.tei-c.org/board/tei-board
 Redirect 301	/activities/board/bm65.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-07-june-2016/
 Redirect 301	/Activities/Board/bm66.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-21-july-2016/
 Redirect 301	/activities/board/bm66.xml	http://www-dev.tei-c.org/board/tei-board-minutes-google-hangout-21-july-2016/
+Redirect 301	/Activities/Board/bm67.xml	http://www-dev.tei-c.org/board/tei-board-meeting-in-person-meeting-2016-09-27/
+Redirect 301	/activities/board/bm67.xml	http://www-dev.tei-c.org/board/tei-board-meeting-in-person-meeting-2016-09-27/
 
 # Activities/Council
 Redirect 301	/Activities/Council/Meetings/tca38.xml	http://www-dev.tei-c.org/meetings/draft-agenda-tei-council-meeting-galway-3-4-april-2008/
