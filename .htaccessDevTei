@@ -343,6 +343,7 @@ Redirect 301  /Activities/Council/Meetings/tcm82.xml  http://www-dev.tei-c.org/a
 Redirect 301  /Activities/Council/Meetings/tcm83.xml  http://www-dev.tei-c.org/activities/council/meetings/tei-technical-council-minutes-2016-08/
 Redirect 301  /Activities/Council/Meetings/tcm84.xml  http://www-dev.tei-c.org/activities/council/meetings/fall-2016-face-to-face-vienna/
 Redirect 301  /Activities/Council/Meetings/tcm85.xml  http://www-dev.tei-c.org/activities/council/meetings/teleconference-2016-10-27-1300-utc/
+Redirect 301  /Activities/Council/Meetings/tcm86.xml  http://www-dev.tei-c.org/activities/council/meetings/teleconference-2016-11-17-1400-utc/
 Redirect 301	/Activities/Council/Meetings	http://www-dev.tei-c.org/meetings/
 
 Redirect 301	/Activities/Council/Reports/tcr01.xml	http://www-dev.tei-c.org/reports/tcr01-report-of-the-tei-council-2003/
@@ -473,6 +474,7 @@ Redirect 301  /activities/council/meetings/tcm82.xml  http://www-dev.tei-c.org/a
 Redirect 301  /activities/council/meetings/tcm83.xml  http://www-dev.tei-c.org/activities/council/meetings/tei-technical-council-minutes-2016-08/
 Redirect 301  /activities/council/meetings/tcm84.xml  http://www-dev.tei-c.org/activities/council/meetings/fall-2016-face-to-face-vienna/
 Redirect 301  /activities/council/meetings/tcm85.xml  http://www-dev.tei-c.org/activities/council/meetings/teleconference-2016-10-27-1300-utc/
+Redirect 301  /activities/council/meetings/tcm86.xml  http://www-dev.tei-c.org/activities/council/meetings/teleconference-2016-11-17-1400-utc/
 
 
 Redirect 301	/activities/council/reports/tcr01.xml	http://www-dev.tei-c.org/reports/tcr01-report-of-the-tei-council-2003/
