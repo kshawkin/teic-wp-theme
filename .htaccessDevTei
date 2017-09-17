@@ -1304,12 +1304,12 @@ Redirect 301	/Membership/Meetings/2004/mm30.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/Membership/Meetings/2004/schedule.xml	http://www.tei-c.org/Vault/MembersMeetings/2004-info/schedule.html
 Redirect 301	/Membership/Meetings/2004	http://www.tei-c.org/Vault/MembersMeetings/2004-info
 
-Redirect 301	/Membership/Meetings/2005/mm31.xml	http://www-dev.tei-c.org/?page_id=26045
-Redirect 301	/Membership/Meetings/2005/mm32.xml	http://www-dev.tei-c.org/?page_id=26046
-Redirect 301	/Membership/Meetings/2005/mm33.xml	http://www-dev.tei-c.org/?page_id=26047
-Redirect 301	/Membership/Meetings/2005/mm34.xml	http://www-dev.tei-c.org/?page_id=26048
-Redirect 301	/Membership/Meetings/2005/schedule.xml	http://www-dev.tei-c.org/?page_id=26049
-Redirect 301	/Membership/Meetings/2005	http://www-dev.tei-c.org/?page_id=26043
+Redirect 301	/Membership/Meetings/2005/mm31.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/mm31.html
+Redirect 301	/Membership/Meetings/2005/mm32.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/mm32.html
+Redirect 301	/Membership/Meetings/2005/mm33.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/mm33.html
+Redirect 301	/Membership/Meetings/2005/mm34.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/mm34.html
+Redirect 301	/Membership/Meetings/2005/schedule.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/schedule.html
+Redirect 301	/Membership/Meetings/2005	http://www.tei-c.org/Vault/MembersMeetings/2005-info
 
 Redirect 301	/Membership/Meetings/2006/Bruvik.xml	http://www-dev.tei-c.org/?page_id=26051
 Redirect 301	/Membership/Meetings/2006/Rahtz.xml	http://www-dev.tei-c.org/?page_id=26052
@@ -1525,12 +1525,12 @@ Redirect 301	/membership/meetings/2004/schedule.xml	http://www.tei-c.org/Vault/M
 Redirect 301	/membership/meetings/2004	http://www.tei-c.org/Vault/MembersMeetings/2004-info
 
 
-Redirect 301	/membership/meetings/2005/mm31.xml	http://www-dev.tei-c.org/?page_id=26045
-Redirect 301	/membership/meetings/2005/mm32.xml	http://www-dev.tei-c.org/?page_id=26046
-Redirect 301	/membership/meetings/2005/mm33.xml	http://www-dev.tei-c.org/?page_id=26047
-Redirect 301	/membership/meetings/2005/mm34.xml	http://www-dev.tei-c.org/?page_id=26048
-Redirect 301	/membership/meetings/2005/schedule.xml	http://www-dev.tei-c.org/?page_id=26049
-Redirect 301	/membership/meetings/2005	http://www-dev.tei-c.org/?page_id=26043
+Redirect 301	/membership/meetings/2005/mm31.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/mm31.html
+Redirect 301	/membership/meetings/2005/mm32.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/mm32.html
+Redirect 301	/membership/meetings/2005/mm33.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/mm33.html
+Redirect 301	/membership/meetings/2005/mm34.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/mm34.html
+Redirect 301	/membership/meetings/2005/schedule.xml	http://www.tei-c.org/Vault/MembersMeetings/2005-info/schedule.html
+Redirect 301	/membership/meetings/2005	http://www.tei-c.org/Vault/MembersMeetings/2005-info
 
 Redirect 301	/membership/meetings/2006/bruvik.xml	http://www-dev.tei-c.org/?page_id=26051
 Redirect 301	/membership/meetings/2006/rahtz.xml	http://www-dev.tei-c.org/?page_id=26052
