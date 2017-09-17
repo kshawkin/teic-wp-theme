@@ -1231,17 +1231,17 @@ Redirect 301	/Membership/Meetings/2002/schedule.xml	http://www.tei-c.org/Vault/M
 Redirect 301	/Membership/Meetings/2002	http://www.tei-c.org/Vault/MembersMeetings/2002-info
 
 
-Redirect 301	/Membership/Meetings/2003/abstracts.xml	http://www-dev.tei-c.org/?page_id=25974
-Redirect 301	/Membership/Meetings/2003/mm15.xml	http://www-dev.tei-c.org/?page_id=25976
-Redirect 301	/Membership/Meetings/2003/mm16.xml	http://www-dev.tei-c.org/?page_id=25977
-Redirect 301	/Membership/Meetings/2003/mm17.xml	http://www-dev.tei-c.org/?page_id=25978
-Redirect 301	/Membership/Meetings/2003/mm18.xml	http://www-dev.tei-c.org/?page_id=25979
-Redirect 301	/Membership/Meetings/2003/mm21.xml	http://www-dev.tei-c.org/?page_id=25980
-Redirect 301	/Membership/Meetings/2003/mm22.xml	http://www-dev.tei-c.org/?page_id=25981
-Redirect 301	/Membership/Meetings/2003/mm23.xml	http://www-dev.tei-c.org/?page_id=25982
-Redirect 301	/Membership/Meetings/2003/schedule.xml	http://www-dev.tei-c.org/?page_id=25983
-Redirect 301	/Membership/Meetings/2003/sigs.xml	http://www-dev.tei-c.org/?page_id=25984
-Redirect 301	/Membership/Meetings/2003	http://www-dev.tei-c.org/?page_id=25973
+Redirect 301	/Membership/Meetings/2003/abstracts.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/abstracts.html
+Redirect 301	/Membership/Meetings/2003/mm15.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm15.html
+Redirect 301	/Membership/Meetings/2003/mm16.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm16.html
+Redirect 301	/Membership/Meetings/2003/mm17.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm17.html
+Redirect 301	/Membership/Meetings/2003/mm18.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm18.html
+Redirect 301	/Membership/Meetings/2003/mm21.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm21.html
+Redirect 301	/Membership/Meetings/2003/mm22.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm22.html
+Redirect 301	/Membership/Meetings/2003/mm23.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm23.html
+Redirect 301	/Membership/Meetings/2003/schedule.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/schedule.html
+Redirect 301	/Membership/Meetings/2003/sigs.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/sigs.html
+Redirect 301	/Membership/Meetings/2003	http://www.tei-c.org/Vault/MembersMeetings/2003-info
 
 
 Redirect 301	/Membership/Meetings/2004/P5CC/index.html	http://www-dev.tei-c.org/?page_id=25987
@@ -1451,17 +1451,17 @@ Redirect 301	/membership/meetings/2002/schedule.xml	http://www.tei-c.org/Vault/M
 Redirect 301	/membership/meetings/2002	http://www.tei-c.org/Vault/MembersMeetings/2002-info
 
 
-Redirect 301	/membership/meetings/2003/abstracts.xml	http://www-dev.tei-c.org/?page_id=25974
-Redirect 301	/membership/meetings/2003/mm15.xml	http://www-dev.tei-c.org/?page_id=25976
-Redirect 301	/membership/meetings/2003/mm16.xml	http://www-dev.tei-c.org/?page_id=25977
-Redirect 301	/membership/meetings/2003/mm17.xml	http://www-dev.tei-c.org/?page_id=25978
-Redirect 301	/membership/meetings/2003/mm18.xml	http://www-dev.tei-c.org/?page_id=25979
-Redirect 301	/membership/meetings/2003/mm21.xml	http://www-dev.tei-c.org/?page_id=25980
-Redirect 301	/membership/meetings/2003/mm22.xml	http://www-dev.tei-c.org/?page_id=25981
-Redirect 301	/membership/meetings/2003/mm23.xml	http://www-dev.tei-c.org/?page_id=25982
-Redirect 301	/membership/meetings/2003/schedule.xml	http://www-dev.tei-c.org/?page_id=25983
-Redirect 301	/membership/meetings/2003/sigs.xml	http://www-dev.tei-c.org/?page_id=25984
-Redirect 301	/membership/meetings/2003	http://www-dev.tei-c.org/?page_id=25973
+Redirect 301	/membership/meetings/2003/abstracts.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/abstracts.html
+Redirect 301	/membership/meetings/2003/mm15.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm15.html
+Redirect 301	/membership/meetings/2003/mm16.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm16.html
+Redirect 301	/membership/meetings/2003/mm17.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm17.html
+Redirect 301	/membership/meetings/2003/mm18.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm18.html
+Redirect 301	/membership/meetings/2003/mm21.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm21.html
+Redirect 301	/membership/meetings/2003/mm22.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm22.html
+Redirect 301	/membership/meetings/2003/mm23.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/mm23.html
+Redirect 301	/membership/meetings/2003/schedule.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/schedule.html
+Redirect 301	/membership/meetings/2003/sigs.xml	http://www.tei-c.org/Vault/MembersMeetings/2003-info/sigs.html
+Redirect 301	/membership/meetings/2003	http://www.tei-c.org/Vault/MembersMeetings/2003-info
 
 
 Redirect 301	/membership/meetings/2004/p5cc/index.html	http://www-dev.tei-c.org/?page_id=25987
