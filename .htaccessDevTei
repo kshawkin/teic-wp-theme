@@ -1335,11 +1335,11 @@ Redirect 301	/Membership/Meetings/2008/mm47.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/Membership/Meetings/2008/mm48.xml	http://www.tei-c.org/Vault/MembersMeetings/2008-info/mm48.html
 Redirect 301	/Membership/Meetings/2008	http://www.tei-c.org/Vault/MembersMeetings/2008-info
 
-Redirect 301	/Membership/Meetings/2009/mm49.xml	http://www-dev.tei-c.org/?page_id=26076
-Redirect 301	/Membership/Meetings/2009/mm50.xml	http://www-dev.tei-c.org/?page_id=26077
-Redirect 301	/Membership/Meetings/2009/mm50a.xml	http://www-dev.tei-c.org/?page_id=26078
-Redirect 301	/Membership/Meetings/2009/mm51.xml	http://www-dev.tei-c.org/?page_id=26079
-Redirect 301	/Membership/Meetings/2009	http://www-dev.tei-c.org/?page_id=26074
+Redirect 301	/Membership/Meetings/2009/mm49.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm49.html
+Redirect 301	/Membership/Meetings/2009/mm50.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm50.html
+Redirect 301	/Membership/Meetings/2009/mm50a.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm50a.html
+Redirect 301	/Membership/Meetings/2009/mm51.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm51.html
+Redirect 301	/Membership/Meetings/2009	http://www.tei-c.org/Vault/MembersMeetings/2009-info
 
 Redirect 301	/Membership/Meetings/2010/mm52.xml	http://www-dev.tei-c.org/?page_id=26082
 Redirect 301	/Membership/Meetings/2010/mm53.xml	http://www-dev.tei-c.org/?page_id=26083
@@ -1556,11 +1556,11 @@ Redirect 301	/membership/meetings/2008/mm47.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/membership/meetings/2008/mm48.xml	http://www.tei-c.org/Vault/MembersMeetings/2008-info/mm48.html
 Redirect 301	/membership/meetings/2008	http://www.tei-c.org/Vault/MembersMeetings/2008-info
 
-Redirect 301	/membership/meetings/2009/mm49.xml	http://www-dev.tei-c.org/?page_id=26076
-Redirect 301	/membership/meetings/2009/mm50.xml	http://www-dev.tei-c.org/?page_id=26077
-Redirect 301	/membership/meetings/2009/mm50a.xml	http://www-dev.tei-c.org/?page_id=26078
-Redirect 301	/membership/meetings/2009/mm51.xml	http://www-dev.tei-c.org/?page_id=26079
-Redirect 301	/membership/meetings/2009	http://www-dev.tei-c.org/?page_id=26074
+Redirect 301	/membership/meetings/2009/mm49.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm49.html
+Redirect 301	/membership/meetings/2009/mm50.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm50.html
+Redirect 301	/membership/meetings/2009/mm50a.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm50a.html
+Redirect 301	/membership/meetings/2009/mm51.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm51.html
+Redirect 301	/membership/meetings/2009	http://www.tei-c.org/Vault/MembersMeetings/2009-info
 
 Redirect 301	/membership/meetings/2010/mm52.xml	http://www-dev.tei-c.org/?page_id=26082
 Redirect 301	/membership/meetings/2010/mm53.xml	http://www-dev.tei-c.org/?page_id=26083
