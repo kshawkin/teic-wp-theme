@@ -1358,12 +1358,12 @@ Redirect 301	/Membership/Meetings/2012/mm60.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/Membership/Meetings/2012/mm61.xml	http://www.tei-c.org/Vault/MembersMeetings/2012-info/mm61.html
 Redirect 301	/Membership/Meetings/2012	http://www.tei-c.org/Vault/MembersMeetings/2012-info
 
-Redirect 301	/Membership/Meetings/2013/bm48.xml	http://www-dev.tei-c.org/?page_id=26098
-Redirect 301	/Membership/Meetings/2013/mm62.xml	http://www-dev.tei-c.org/?page_id=26100
-Redirect 301	/Membership/Meetings/2013/mm63.xml	http://www-dev.tei-c.org/?page_id=26101
-Redirect 301	/Membership/Meetings/2013/mm64.xml	http://www-dev.tei-c.org/?page_id=26102
-Redirect 301	/Membership/Meetings/2013/mm65.xml	http://www-dev.tei-c.org/?page_id=26103
-Redirect 301	/Membership/Meetings/2013	http://www-dev.tei-c.org/?page_id=26097
+Redirect 301	/Membership/Meetings/2013/bm48.xml	http://www-dev.tei-c.org/tei-board-meeting-minutes-rome-sunday-6-october-2013-900-1600/
+Redirect 301	/Membership/Meetings/2013/mm62.xml	http://www.tei-c.org/Vault/MembersMeetings/2013-info/mm62.html
+Redirect 301	/Membership/Meetings/2013/mm63.xml	http://www.tei-c.org/Vault/MembersMeetings/2013-info/mm63.html
+Redirect 301	/Membership/Meetings/2013/mm64.xml	http://www.tei-c.org/Vault/MembersMeetings/2013-info/mm64.html
+Redirect 301	/Membership/Meetings/2013/mm65.xml	http://www.tei-c.org/Vault/MembersMeetings/2013-info/mm65.html
+Redirect 301	/Membership/Meetings/2013	http://www.tei-c.org/Vault/MembersMeetings/2013-info
 
 Redirect 301	/Membership/Meetings/2014/mm70.xml	http://www-dev.tei-c.org/?page_id=26106
 Redirect 301	/Membership/Meetings/2014/mm71.xml	http://www-dev.tei-c.org/?page_id=26107
@@ -1580,12 +1580,12 @@ Redirect 301	/membership/meetings/2012/mm61.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/membership/meetings/2012	http://www.tei-c.org/Vault/MembersMeetings/2012-info
 
 
-Redirect 301	/membership/meetings/2013/bm48.xml	http://www-dev.tei-c.org/?page_id=26098
-Redirect 301	/membership/meetings/2013/mm62.xml	http://www-dev.tei-c.org/?page_id=26100
-Redirect 301	/membership/meetings/2013/mm63.xml	http://www-dev.tei-c.org/?page_id=26101
-Redirect 301	/membership/meetings/2013/mm64.xml	http://www-dev.tei-c.org/?page_id=26102
-Redirect 301	/membership/meetings/2013/mm65.xml	http://www-dev.tei-c.org/?page_id=26103
-Redirect 301	/membership/meetings/2013	http://www-dev.tei-c.org/?page_id=26097
+Redirect 301	/membership/meetings/2013/bm48.xml	http://www-dev.tei-c.org/tei-board-meeting-minutes-rome-sunday-6-october-2013-900-1600/
+Redirect 301	/membership/meetings/2013/mm62.xml	http://www.tei-c.org/Vault/MembersMeetings/2013-info/mm62.html
+Redirect 301	/membership/meetings/2013/mm63.xml	http://www.tei-c.org/Vault/MembersMeetings/2013-info/mm63.html
+Redirect 301	/membership/meetings/2013/mm64.xml	http://www.tei-c.org/Vault/MembersMeetings/2013-info/mm64.html
+Redirect 301	/membership/meetings/2013/mm65.xml	http://www.tei-c.org/Vault/MembersMeetings/2013-info/mm65.html
+Redirect 301	/membership/meetings/2013	http://www.tei-c.org/Vault/MembersMeetings/2013-info
 
 Redirect 301	/membership/meetings/2014/mm70.xml	http://www-dev.tei-c.org/?page_id=26106
 Redirect 301	/membership/meetings/2014/mm71.xml	http://www-dev.tei-c.org/?page_id=26107
