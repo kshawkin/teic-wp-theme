@@ -1611,8 +1611,8 @@ Redirect 301	/membership/current.xml	http://www-dev.tei-c.org/?page_id=26122
 Redirect 301	/membership/index.xml	http://www-dev.tei-c.org/?page_id=26123
 Redirect 301	/membership/join.xml	http://www-dev.tei-c.org/?page_id=26124
 
-Redirect 301	/Membership/Meetings/2017/	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-11-15-november-2017/
-Redirect 301	/membership/meetings/2017/	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-11-15-november-2017/
+Redirect 301	/Membership/Meetings/2017/	http://www.tei-c.org/Vault/MembersMeetings/2017-info/
+Redirect 301	/membership/meetings/2017/	http://www.tei-c.org/Vault/MembersMeetings/2017-info/
 
 # News
 Redirect 301	/News/20071018.xml	http://www-dev.tei-c.org/?page_id=26311
