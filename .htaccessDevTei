@@ -1341,10 +1341,10 @@ Redirect 301	/Membership/Meetings/2009/mm50a.xml	http://www.tei-c.org/Vault/Memb
 Redirect 301	/Membership/Meetings/2009/mm51.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm51.html
 Redirect 301	/Membership/Meetings/2009	http://www.tei-c.org/Vault/MembersMeetings/2009-info
 
-Redirect 301	/Membership/Meetings/2010/mm52.xml	http://www-dev.tei-c.org/?page_id=26082
-Redirect 301	/Membership/Meetings/2010/mm53.xml	http://www-dev.tei-c.org/?page_id=26083
-Redirect 301	/Membership/Meetings/2010/mm53a.xml	http://www-dev.tei-c.org/?page_id=26084
-Redirect 301	/Membership/Meetings/2010	http://www-dev.tei-c.org/?page_id=26080
+Redirect 301	/Membership/Meetings/2010/mm52.xml	http://www.tei-c.org/Vault/MembersMeetings/2010-info/mm52.html
+Redirect 301	/Membership/Meetings/2010/mm53.xml	http://www.tei-c.org/Vault/MembersMeetings/2010-info/mm53.html
+Redirect 301	/Membership/Meetings/2010/mm53a.xml	http://www.tei-c.org/Vault/MembersMeetings/2010-info/mm53a.html
+Redirect 301	/Membership/Meetings/2010	http://www.tei-c.org/Vault/MembersMeetings/2010-info
 
 Redirect 301	/Membership/Meetings/2011/mm54.xml	http://www-dev.tei-c.org/?page_id=26087
 Redirect 301	/Membership/Meetings/2011/mm55.xml	http://www-dev.tei-c.org/?page_id=26088
@@ -1562,10 +1562,10 @@ Redirect 301	/membership/meetings/2009/mm50a.xml	http://www.tei-c.org/Vault/Memb
 Redirect 301	/membership/meetings/2009/mm51.xml	http://www.tei-c.org/Vault/MembersMeetings/2009-info/mm51.html
 Redirect 301	/membership/meetings/2009	http://www.tei-c.org/Vault/MembersMeetings/2009-info
 
-Redirect 301	/membership/meetings/2010/mm52.xml	http://www-dev.tei-c.org/?page_id=26082
-Redirect 301	/membership/meetings/2010/mm53.xml	http://www-dev.tei-c.org/?page_id=26083
-Redirect 301	/membership/meetings/2010/mm53a.xml	http://www-dev.tei-c.org/?page_id=26084
-Redirect 301	/membership/meetings/2010	http://www-dev.tei-c.org/?page_id=26080
+Redirect 301	/membership/meetings/2010/mm52.xml	http://www.tei-c.org/Vault/MembersMeetings/2010-info/mm52.html
+Redirect 301	/membership/meetings/2010/mm53.xml	http://www.tei-c.org/Vault/MembersMeetings/2010-info/mm53.html
+Redirect 301	/membership/meetings/2010/mm53a.xml	http://www.tei-c.org/Vault/MembersMeetings/2010-info/mm53a.html
+Redirect 301	/membership/meetings/2010	http://www.tei-c.org/Vault/MembersMeetings/2010-info
 
 Redirect 301	/membership/meetings/2011/mm54.xml	http://www-dev.tei-c.org/?page_id=26087
 Redirect 301	/membership/meetings/2011/mm55.xml	http://www-dev.tei-c.org/?page_id=26088
