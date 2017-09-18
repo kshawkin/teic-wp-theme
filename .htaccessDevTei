@@ -1376,9 +1376,9 @@ Redirect 301	/Membership/Meetings/2015/mm75.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/Membership/Meetings/2015/mm76.xml	http://www.tei-c.org/Vault/MembersMeetings/2015-info/mm76.html
 Redirect 301	/Membership/Meetings/2015	http://www.tei-c.org/Vault/MembersMeetings/2015-info
 
-Redirect 301	/Membership/Meetings/2016/mm77.xml	http://www-dev.tei-c.org/?page_id=26117
-Redirect 301	/Membership/Meetings/2016/mm78.xml	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-26-30-september-2016/tei-members-meeting-2016-business-meeting-agenda/
-Redirect 301	/Membership/Meetings/2016	http://www-dev.tei-c.org/?page_id=26115
+Redirect 301	/Membership/Meetings/2016/mm77.xml	http://www.tei-c.org/Vault/MembersMeetings/2016-info/mm77.html
+Redirect 301	/Membership/Meetings/2016/mm78.xml	http://www.tei-c.org/Vault/MembersMeetings/2016-info/mm78.html
+Redirect 301	/Membership/Meetings/2016	http://www.tei-c.org/Vault/MembersMeetings/2016-info
 
 Redirect 301	/Membership/Meetings/meeting_hosting.xml	http://www-dev.tei-c.org/?page_id=26119
 Redirect 301	/Membership/Meetings	http://www-dev.tei-c.org/?page_id=25912
@@ -1598,9 +1598,9 @@ Redirect 301	/membership/meetings/2015/mm75.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/membership/meetings/2015/mm76.xml	http://www.tei-c.org/Vault/MembersMeetings/2015-info/mm76.html
 Redirect 301	/membership/meetings/2015	http://www.tei-c.org/Vault/MembersMeetings/2015-info
 
-Redirect 301	/membership/meetings/2016/mm77.xml	http://www-dev.tei-c.org/?page_id=26117
-Redirect 301	/membership/meetings/2016/mm78.xml	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-26-30-september-2016/tei-members-meeting-2016-business-meeting-agenda/
-Redirect 301	/membership/meetings/2016	http://www-dev.tei-c.org/?page_id=26115
+Redirect 301	/membership/meetings/2016/mm77.xml	http://www.tei-c.org/Vault/MembersMeetings/2016-info/mm77.html
+Redirect 301	/membership/meetings/2016/mm78.xml	http://www.tei-c.org/Vault/MembersMeetings/2016-info/mm78.html
+Redirect 301	/membership/meetings/2016	http://www.tei-c.org/Vault/MembersMeetings/2016-info
 
 Redirect 301	/membership/meetings/meeting_hosting.xml	http://www-dev.tei-c.org/?page_id=26119
 Redirect 301	/membership/meetings	http://www-dev.tei-c.org/?page_id=25912
