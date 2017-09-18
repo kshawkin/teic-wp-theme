@@ -1371,10 +1371,10 @@ Redirect 301	/Membership/Meetings/2014/mm72.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/Membership/Meetings/2014/mm73.xml	http://www.tei-c.org/Vault/MembersMeetings/2014-info/mm73.html
 Redirect 301	/Membership/Meetings/2014	http://www.tei-c.org/Vault/MembersMeetings/2014-info
 
-Redirect 301	/Membership/Meetings/2015/mm74.xml	http://www-dev.tei-c.org/?page_id=26112
-Redirect 301	/Membership/Meetings/2015/mm75.xml	http://www-dev.tei-c.org/?page_id=26113
-Redirect 301	/Membership/Meetings/2015/mm76.xml	http://www-dev.tei-c.org/?page_id=26114
-Redirect 301	/Membership/Meetings/2015	http://www-dev.tei-c.org/?page_id=26110
+Redirect 301	/Membership/Meetings/2015/mm74.xml	http://www.tei-c.org/Vault/MembersMeetings/2015-info/mm74.html
+Redirect 301	/Membership/Meetings/2015/mm75.xml	http://www.tei-c.org/Vault/MembersMeetings/2015-info/mm75.html
+Redirect 301	/Membership/Meetings/2015/mm76.xml	http://www.tei-c.org/Vault/MembersMeetings/2015-info/mm76.html
+Redirect 301	/Membership/Meetings/2015	http://www.tei-c.org/Vault/MembersMeetings/2015-info
 
 Redirect 301	/Membership/Meetings/2016/mm77.xml	http://www-dev.tei-c.org/?page_id=26117
 Redirect 301	/Membership/Meetings/2016/mm78.xml	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-26-30-september-2016/tei-members-meeting-2016-business-meeting-agenda/
@@ -1593,10 +1593,10 @@ Redirect 301	/membership/meetings/2014/mm72.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/membership/meetings/2014/mm73.xml	http://www.tei-c.org/Vault/MembersMeetings/2014-info/mm73.html
 Redirect 301	/membership/meetings/2014	http://www.tei-c.org/Vault/MembersMeetings/2014-info
 
-Redirect 301	/membership/meetings/2015/mm74.xml	http://www-dev.tei-c.org/?page_id=26112
-Redirect 301	/membership/meetings/2015/mm75.xml	http://www-dev.tei-c.org/?page_id=26113
-Redirect 301	/membership/meetings/2015/mm76.xml	http://www-dev.tei-c.org/?page_id=26114
-Redirect 301	/membership/meetings/2015	http://www-dev.tei-c.org/?page_id=26110
+Redirect 301	/membership/meetings/2015/mm74.xml	http://www.tei-c.org/Vault/MembersMeetings/2015-info/mm74.html
+Redirect 301	/membership/meetings/2015/mm75.xml	http://www.tei-c.org/Vault/MembersMeetings/2015-info/mm75.html
+Redirect 301	/membership/meetings/2015/mm76.xml	http://www.tei-c.org/Vault/MembersMeetings/2015-info/mm76.html
+Redirect 301	/membership/meetings/2015	http://www.tei-c.org/Vault/MembersMeetings/2015-info
 
 Redirect 301	/membership/meetings/2016/mm77.xml	http://www-dev.tei-c.org/?page_id=26117
 Redirect 301	/membership/meetings/2016/mm78.xml	http://www-dev.tei-c.org/tei-membership/tei-conference-and-members-meetings/annual-meeting-of-the-tei-consortium-26-30-september-2016/tei-members-meeting-2016-business-meeting-agenda/
