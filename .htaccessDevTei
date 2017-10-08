@@ -9,6 +9,9 @@ RewriteRule . /index.php [L]
 </IfModule>
 # END WordPress
 
+Redirect 301	/Admin/TEI_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
+Redirect 301	/admin/TEI_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
+
 Redirect 301	/Guidelines/Customization/Lite	http://www-dev.tei-c.org/customization/lite/
 Redirect 301	/Guidelines/Customization/jTEI	http://www-dev.tei-c.org/customization/jtei/
 Redirect 301	/Guidelines/Customization/odds.xml	http://www-dev.tei-c.org/customization/getting-started-with-p5-odds/
