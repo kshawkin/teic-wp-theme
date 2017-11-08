@@ -1077,18 +1077,18 @@ Redirect 301	/tools/index.xml	http://www-dev.tei-c.org/tei-tools/
 Redirect 301	/tools/roma.xml	http://www-dev.tei-c.org/roma/
 
 # Support
-Redirect 301	/Support/Learn/amv-manual.html	http://www-dev.tei-c.org/learn/hti-style-guide-for-american-verse-project-and-middle-english-texts/
-Redirect 301	/Support/Learn/cictei.htm	http://www-dev.tei-c.org/learn/rules-for-use-of-tei-lite-in-cic-e-text-projects/
+Redirect 301	/Support/Learn/amv-manual.html	http://www.tei-c.org/Vault/Tutorials/amv-manual.html
+Redirect 301	/Support/Learn/cictei.htm	http://www.tei-c.org/Vault/Tutorials/cictei.htm
 Redirect 301	/Support/Learn/dsguide1.html	http://www-dev.tei-c.org/learn/a-tei-based-tag-set-for-manuscript-transcription/
 Redirect 301	/Support/Learn/dsguide2.html	http://www-dev.tei-c.org/learn/alphabetical-list-of-element-types/
 Redirect 301	/Support/Learn/gentleintro.xml	http://www-dev.tei-c.org/learn/a-gentle-introduction-to-xml/
-Redirect 301	/Support/Learn/headerproposal.htm	http://www-dev.tei-c.org/learn/its-all-in-the-header-from-minimal-to-optimal-use-of-the-tei-header-edward-vanhoutte/
+Redirect 301	/Support/Learn/headerproposal.htm	http://www.tei-c.org/Vault/Tutorials/headerproposal.htm
 Redirect 301	/Support/Learn/intro.xml	http://www-dev.tei-c.org/learn/introducing-the-guidelines/
-Redirect 301	/Support/Learn/leiden.html	http://www-dev.tei-c.org/learn/recommendation-for-translating-leiden-style-transcriptions-to-tei-lite/
-Redirect 301	/Support/Learn/mueller-banner.htm	http://www-dev.tei-c.org/learn/a-very-gentle-introduction-to-the-tei-mark/
-Redirect 301	/Support/Learn/mueller-content.htm	http://www-dev.tei-c.org/learn/tei-intro-headings/
-Redirect 301	/Support/Learn/mueller-index.htm	http://www-dev.tei-c.org/learn/introduction-to-tei/
-Redirect 301	/Support/Learn/mueller-main.htm	http://www-dev.tei-c.org/learn/a-very-gentle-introduction-to-the-tei/
+Redirect 301	/Support/Learn/leiden.html	http://www.tei-c.org/Vault/Tutorials/leiden.html
+Redirect 301	/Support/Learn/mueller-banner.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
+Redirect 301	/Support/Learn/mueller-content.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
+Redirect 301	/Support/Learn/mueller-index.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
+Redirect 301	/Support/Learn/mueller-main.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
 Redirect 301	/Support/Learn/odds-OLD.xml	http://www-dev.tei-c.org/learn/getting-started-with-p5-odds/
 Redirect 301	/Support/Learn/tei_bibliography.xml	http://www-dev.tei-c.org/learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/
 Redirect 301	/Support/Learn/tutorials.xml	http://www-dev.tei-c.org/learn/teach-yourself-tei/
@@ -1098,14 +1098,14 @@ Redirect 301	/Support/Learn/index.cml	http://www-dev.tei-c.org/learn/
 Redirect 301	/Support/Samples	http://www-dev.tei-c.org/samples/
 Redirect 301	/Support/index.xml	http://www-dev.tei-c.org/tei-support/
 
-Redirect 301	/support/learn/amv-manual.html	http://www-dev.tei-c.org/learn/hti-style-guide-for-american-verse-project-and-middle-english-texts/
-Redirect 301	/support/learn/cictei.htm	http://www-dev.tei-c.org/learn/rules-for-use-of-tei-lite-in-cic-e-text-projects/
+Redirect 301	/support/learn/amv-manual.html	http://www.tei-c.org/Vault/Tutorials/amv-manual.html
+Redirect 301	/support/learn/cictei.htm	http://www.tei-c.org/Vault/Tutorials/cictei.htm
 Redirect 301	/support/learn/dsguide1.html	http://www-dev.tei-c.org/learn/a-tei-based-tag-set-for-manuscript-transcription/
 Redirect 301	/support/learn/dsguide2.html	http://www-dev.tei-c.org/learn/alphabetical-list-of-element-types/
 Redirect 301	/support/learn/gentleintro.xml	http://www-dev.tei-c.org/learn/a-gentle-introduction-to-xml/
-Redirect 301	/support/learn/headerproposal.htm	http://www-dev.tei-c.org/learn/its-all-in-the-header-from-minimal-to-optimal-use-of-the-tei-header-edward-vanhoutte/
+Redirect 301	/support/learn/headerproposal.htm	http://www.tei-c.org/Vault/Tutorials/headerproposal.htm
 Redirect 301	/support/learn/intro.xml	http://www-dev.tei-c.org/learn/introducing-the-guidelines/
-Redirect 301	/support/learn/leiden.html	http://www-dev.tei-c.org/learn/recommendation-for-translating-leiden-style-transcriptions-to-tei-lite/
+Redirect 301	/support/learn/leiden.html	http://www.tei-c.org/Vault/Tutorials/leiden.html
 Redirect 301	/support/learn/mueller-banner.htm	http://www-dev.tei-c.org/learn/a-very-gentle-introduction-to-the-tei-mark/
 Redirect 301	/support/learn/mueller-content.htm	http://www-dev.tei-c.org/learn/tei-intro-headings/
 Redirect 301	/support/learn/mueller-index.htm	http://www-dev.tei-c.org/learn/introduction-to-tei/
@@ -1118,6 +1118,11 @@ Redirect 301	/support/learn/index.xml	http://www-dev.tei-c.org/learn/
 
 Redirect 301	/support/samples	http://www-dev.tei-c.org/samples/
 Redirect 301	/support/index.xml	http://www-dev.tei-c.org/tei-support/
+
+Redirect 301	/Support/Learn/TEI-ChinLoc-2ndPrintEd.pdf	http://www.tei-c.org/Vault/Tutorials/TEI-ChinLoc-2ndPrintEd.pdf
+Redirect 301	/support/learn/TEI-ChinLoc-2ndPrintEd.pdf	http://www.tei-c.org/Vault/Tutorials/TEI-ChinLoc-2ndPrintEd.pdf
+Redirect 301	/Support/Learn/pg-guide-tei.zip	http://www.tei-c.org/Vault/Tutorials/pg-guide-tei.zip
+Redirect 301	/support/learn/pg-guide-tei.zip	http://www.tei-c.org/Vault/Tutorials/pg-guide-tei.zip
 
 # Badges
 Redirect 301	/Activities/About/Badges/index.xml	http://www-dev.tei-c.org/tei-badges/
