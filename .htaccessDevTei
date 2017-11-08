@@ -1081,7 +1081,6 @@ Redirect 301	/Support/Learn/amv-manual.html	http://www.tei-c.org/Vault/Tutorials
 Redirect 301	/Support/Learn/cictei.htm	http://www.tei-c.org/Vault/Tutorials/cictei.htm
 Redirect 301	/Support/Learn/dsguide1.html	http://www.tei-c.org/Vault/Tutorials/dsguide1.html
 Redirect 301	/Support/Learn/dsguide2.html	http://www.tei-c.org/Vault/Tutorials/dsguide2.html
-Redirect 301	/Support/Learn/gentleintro.xml	http://www-dev.tei-c.org/learn/a-gentle-introduction-to-xml/
 Redirect 301	/Support/Learn/headerproposal.htm	http://www.tei-c.org/Vault/Tutorials/headerproposal.htm
 Redirect 301	/Support/Learn/intro.xml	http://www-dev.tei-c.org/learn/introducing-the-guidelines/
 Redirect 301	/Support/Learn/leiden.html	http://www.tei-c.org/Vault/Tutorials/leiden.html
@@ -1089,7 +1088,6 @@ Redirect 301	/Support/Learn/mueller-banner.htm	http://www.tei-c.org/Vault/Tutori
 Redirect 301	/Support/Learn/mueller-content.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
 Redirect 301	/Support/Learn/mueller-index.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
 Redirect 301	/Support/Learn/mueller-main.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
-Redirect 301	/Support/Learn/odds-OLD.xml	http://www-dev.tei-c.org/learn/getting-started-with-p5-odds/
 Redirect 301	/Support/Learn/tei_bibliography.xml	http://www-dev.tei-c.org/learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/
 Redirect 301	/Support/Learn/tutorials.xml	http://www-dev.tei-c.org/learn/teach-yourself-tei/
 Redirect 301	/Support/Learn/index.cml	http://www-dev.tei-c.org/learn/
@@ -1102,15 +1100,13 @@ Redirect 301	/support/learn/amv-manual.html	http://www.tei-c.org/Vault/Tutorials
 Redirect 301	/support/learn/cictei.htm	http://www.tei-c.org/Vault/Tutorials/cictei.htm
 Redirect 301	/support/learn/dsguide1.html	http://www.tei-c.org/Vault/Tutorials/dsguide1.html
 Redirect 301	/support/learn/dsguide2.html	http://www.tei-c.org/Vault/Tutorials/dsguide2.html
-Redirect 301	/support/learn/gentleintro.xml	http://www-dev.tei-c.org/learn/a-gentle-introduction-to-xml/
 Redirect 301	/support/learn/headerproposal.htm	http://www.tei-c.org/Vault/Tutorials/headerproposal.htm
 Redirect 301	/support/learn/intro.xml	http://www-dev.tei-c.org/learn/introducing-the-guidelines/
 Redirect 301	/support/learn/leiden.html	http://www.tei-c.org/Vault/Tutorials/leiden.html
-Redirect 301	/support/learn/mueller-banner.htm	http://www-dev.tei-c.org/learn/a-very-gentle-introduction-to-the-tei-mark/
-Redirect 301	/support/learn/mueller-content.htm	http://www-dev.tei-c.org/learn/tei-intro-headings/
-Redirect 301	/support/learn/mueller-index.htm	http://www-dev.tei-c.org/learn/introduction-to-tei/
-Redirect 301	/support/learn/mueller-main.htm	http://www-dev.tei-c.org/learn/a-very-gentle-introduction-to-the-tei/
-Redirect 301	/support/learn/odds-old.xml	http://www-dev.tei-c.org/learn/getting-started-with-p5-odds/
+Redirect 301	/support/learn/mueller-banner.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
+Redirect 301	/support/learn/mueller-content.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
+Redirect 301	/support/learn/mueller-index.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
+Redirect 301	/support/learn/mueller-main.htm	http://www.tei-c.org/Vault/Tutorials/mueller-index.htm
 Redirect 301	/support/learn/tei_bibliography.xml	http://www-dev.tei-c.org/learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/
 Redirect 301	/support/learn/tutorials.xml	http://www-dev.tei-c.org/learn/teach-yourself-tei/
 Redirect 301	/support/learn/index.xml	http://www-dev.tei-c.org/learn/
