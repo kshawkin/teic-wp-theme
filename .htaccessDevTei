@@ -1079,8 +1079,8 @@ Redirect 301	/tools/roma.xml	http://www-dev.tei-c.org/roma/
 # Support
 Redirect 301	/Support/Learn/amv-manual.html	http://www.tei-c.org/Vault/Tutorials/amv-manual.html
 Redirect 301	/Support/Learn/cictei.htm	http://www.tei-c.org/Vault/Tutorials/cictei.htm
-Redirect 301	/Support/Learn/dsguide1.html	http://www-dev.tei-c.org/learn/a-tei-based-tag-set-for-manuscript-transcription/
-Redirect 301	/Support/Learn/dsguide2.html	http://www-dev.tei-c.org/learn/alphabetical-list-of-element-types/
+Redirect 301	/Support/Learn/dsguide1.html	http://www.tei-c.org/Vault/Tutorials/dsguide1.html
+Redirect 301	/Support/Learn/dsguide2.html	http://www.tei-c.org/Vault/Tutorials/dsguide2.html
 Redirect 301	/Support/Learn/gentleintro.xml	http://www-dev.tei-c.org/learn/a-gentle-introduction-to-xml/
 Redirect 301	/Support/Learn/headerproposal.htm	http://www.tei-c.org/Vault/Tutorials/headerproposal.htm
 Redirect 301	/Support/Learn/intro.xml	http://www-dev.tei-c.org/learn/introducing-the-guidelines/
@@ -1100,8 +1100,8 @@ Redirect 301	/Support/index.xml	http://www-dev.tei-c.org/tei-support/
 
 Redirect 301	/support/learn/amv-manual.html	http://www.tei-c.org/Vault/Tutorials/amv-manual.html
 Redirect 301	/support/learn/cictei.htm	http://www.tei-c.org/Vault/Tutorials/cictei.htm
-Redirect 301	/support/learn/dsguide1.html	http://www-dev.tei-c.org/learn/a-tei-based-tag-set-for-manuscript-transcription/
-Redirect 301	/support/learn/dsguide2.html	http://www-dev.tei-c.org/learn/alphabetical-list-of-element-types/
+Redirect 301	/support/learn/dsguide1.html	http://www.tei-c.org/Vault/Tutorials/dsguide1.html
+Redirect 301	/support/learn/dsguide2.html	http://www.tei-c.org/Vault/Tutorials/dsguide2.html
 Redirect 301	/support/learn/gentleintro.xml	http://www-dev.tei-c.org/learn/a-gentle-introduction-to-xml/
 Redirect 301	/support/learn/headerproposal.htm	http://www.tei-c.org/Vault/Tutorials/headerproposal.htm
 Redirect 301	/support/learn/intro.xml	http://www-dev.tei-c.org/learn/introducing-the-guidelines/
