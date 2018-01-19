@@ -12,32 +12,32 @@ RewriteRule . /index.php [L]
 Redirect 301	/Admin/TEI_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
 Redirect 301	/admin/TEI_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
 
-Redirect 301	/Guidelines/Customization/Lite	http://www-dev.tei-c.org/customization/lite/
-Redirect 301	/Guidelines/Customization/jTEI	http://www-dev.tei-c.org/customization/jtei/
-Redirect 301	/Guidelines/Customization/odds.xml	http://www-dev.tei-c.org/customization/getting-started-with-p5-odds/
-Redirect 301	/Guidelines/Customization/use_roma.xml	http://www-dev.tei-c.org/customization/customizing-the-tei-with-roma/
-Redirect 301	/Guidelines/Customization	http://www-dev.tei-c.org/customization/
-Redirect 301	/Guidelines/DTD/catalog.xml	http://www-dev.tei-c.org/dtd/catalog-xml/
-Redirect 301	/Guidelines/DTD	http://www-dev.tei-c.org/dtd/
-Redirect 301	/Guidelines/P5/about-dsewell.xml	http://www-dev.tei-c.org/p5/about-the-tei-p5-guidelines/
-Redirect 301	/Guidelines/P5/get.xml	http://www-dev.tei-c.org/p5/using-the-tei-github-repository/
-Redirect 301	/Guidelines/P5/index-search-example.html	http://www-dev.tei-c.org/p5/p5-guidelines/
-Redirect 301	/Guidelines/P5	http://www-dev.tei-c.org/p5/
-Redirect 301	/Guidelines/access.xml	http://www-dev.tei-c.org/licensing-and-citation/
-Redirect 301	/Guidelines/index.xml	http://www-dev.tei-c.org/tei-guidelines/
-Redirect 301	/Guidelines/participation.xml	http://www-dev.tei-c.org/getting-involved/
+Redirect 301	/Guidelines/Customization/Lite	http://www-dev.tei-c.org/guidelines/customization/lite/
+Redirect 301	/Guidelines/Customization/jTEI	http://www-dev.tei-c.org/guidelines/customization/jtei/
+Redirect 301	/Guidelines/Customization/odds.xml	http://www-dev.tei-c.org/guidelines/customization/getting-started-with-p5-odds/
+Redirect 301	/Guidelines/Customization/use_roma.xml	http://www-dev.tei-c.org/guidelines/customization/customizing-the-tei-with-roma/
+Redirect 301	/Guidelines/Customization	http://www-dev.tei-c.org/guidelines/customization/
+Redirect 301	/Guidelines/DTD/catalog.xml	http://www-dev.tei-c.org/guidelines/dtd/catalog-xml/
+Redirect 301	/Guidelines/DTD	http://www-dev.tei-c.org/guidelines/dtd/
+Redirect 301	/Guidelines/P5/about-dsewell.xml	http://www-dev.tei-c.org/guidelines/p5/about-the-tei-p5-guidelines/
+Redirect 301	/Guidelines/P5/get.xml	http://www-dev.tei-c.org/guidelines/p5/using-the-tei-github-repository/
+Redirect 301	/Guidelines/P5/index-search-example.html	http://www-dev.tei-c.org/guidelines/p5/p5-guidelines/
+Redirect 301	/Guidelines/P5	http://www-dev.tei-c.org/guidelines/p5/
+Redirect 301	/Guidelines/access.xml	http://www-dev.tei-c.org/guidelines/licensing-and-citation/
+Redirect 301	/Guidelines/index.xml	http://www-dev.tei-c.org/guidelines/tei-guidelines/
+Redirect 301	/Guidelines/participation.xml	http://www-dev.tei-c.org/guidelines/getting-involved/
 
-Redirect 301	/guidelines/customization/lite	http://www-dev.tei-c.org/customization/lite/
-Redirect 301	/guidelines/customization/jtei	http://www-dev.tei-c.org/customization/jtei/
-Redirect 301	/guidelines/customization/odds.xml	http://www-dev.tei-c.org/customization/getting-started-with-p5-odds/
-Redirect 301	/guidelines/customization/use_roma.xml	http://www-dev.tei-c.org/customization/customizing-the-tei-with-roma/
-Redirect 301	/guidelines/dtd/catalog.xml	http://www-dev.tei-c.org/dtd/catalog-xml/
-Redirect 301	/guidelines/p5/about-dsewell.xml	http://www-dev.tei-c.org/p5/about-the-tei-p5-guidelines/
-Redirect 301	/guidelines/p5/get.xml	http://www-dev.tei-c.org/p5/using-the-tei-github-repository/
-Redirect 301	/guidelines/p5/index-search-example.html	http://www-dev.tei-c.org/p5/p5-guidelines/
-Redirect 301	/guidelines/access.xml	http://www-dev.tei-c.org/licensing-and-citation/
-Redirect 301	/guidelines/index.xml	http://www-dev.tei-c.org/tei-guidelines/
-Redirect 301	/guidelines/participation.xml	http://www-dev.tei-c.org/getting-involved/
+Redirect 301	/guidelines/customization/lite	http://www-dev.tei-c.org/guidelines/customization/lite/
+Redirect 301	/guidelines/customization/jtei	http://www-dev.tei-c.org/guidelines/customization/jtei/
+Redirect 301	/guidelines/customization/odds.xml	http://www-dev.tei-c.org/guidelines/customization/getting-started-with-p5-odds/
+Redirect 301	/guidelines/customization/use_roma.xml	http://www-dev.tei-c.org/guidelines/customization/customizing-the-tei-with-roma/
+Redirect 301	/guidelines/dtd/catalog.xml	http://www-dev.tei-c.org/guidelines/dtd/catalog-xml/
+Redirect 301	/guidelines/p5/about-dsewell.xml	http://www-dev.tei-c.org/guidelines/p5/about-the-tei-p5-guidelines/
+Redirect 301	/guidelines/p5/get.xml	http://www-dev.tei-c.org/guidelines/p5/using-the-tei-github-repository/
+Redirect 301	/guidelines/p5/index-search-example.html	http://www-dev.tei-c.org/guidelines/p5/p5-guidelines/
+Redirect 301	/guidelines/access.xml	http://www-dev.tei-c.org/guidelines/licensing-and-citation/
+Redirect 301	/guidelines/index.xml	http://www-dev.tei-c.org/guidelines/tei-guidelines/
+Redirect 301	/guidelines/participation.xml	http://www-dev.tei-c.org/guidelines/getting-involved/
 
 # /Board
 Redirect 301	/Board/2010BylawsProposal.xml	http://www-dev.tei-c.org/tei-bylaws/
