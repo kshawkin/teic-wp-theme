@@ -1056,9 +1056,9 @@ Redirect 301	/activities/sig/tools/tools.xml	http://www-dev.tei-c.org/tools/auth
 Redirect 301	/activities/sig/index.xml	http://www-dev.tei-c.org/special-interest-groups-sigs/
 Redirect 301	/activities/sig/rules.xml	http://www-dev.tei-c.org/sig-rules-and-regulations/
 
-Redirect 301	/Activities/Workgroups/index.xml	http://www-dev.tei-c.org/activities/workgroups/tei-workgroups/
+Redirect 301	/Activities/Workgroups/index.xml	http://www-dev.tei-c.org/activities/workgroups/
 
-Redirect 301	/activities/workgroups/index.xml	http://www-dev.tei-c.org/activities/workgroups/tei-workgroups/
+Redirect 301	/activities/workgroups/index.xml	http://www-dev.tei-c.org/activities/workgroups/
 
 # Tools
 
