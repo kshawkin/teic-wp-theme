@@ -32,7 +32,7 @@
 		<footer class="entry-footer">
 			<hr>
 			<small>Last recorded change to this page:
-		 <?php the_modified_date( 'Y-m-d' ); ?> &bull; For corrections or updates, contact <a href="mailto:web@teic.org?subject=feedback">web@teic.org</a></small>
+		 <?php the_modified_date( 'Y-m-d' ); ?></small>
 
 			<?php
 				edit_post_link(
