@@ -43,6 +43,7 @@ Redirect 301	/guidelines/participation.xml	http://www-dev.tei-c.org/guidelines/g
 Redirect 301	/Board/2010BylawsProposal.xml	http://www-dev.tei-c.org/tei-bylaws/
 Redirect 301	/Board/2011-special-election.xml	http://www-dev.tei-c.org/tei-special-election-february-2011/
 Redirect 301	/Board/bm01.xml	http://www-dev.tei-c.org/minutes-of-the-board-of-directors-meeting-tingviken-utne-in-hardanger-norway-may-11-12-2001/
+Redirect 301	/Board/bm02.txt	http://www-dev.tei-c.org/board/text-encoding-intiative-consortium-minutes-of-the-board-of-directors-meeting-saturday-november-17-2001-grand-hotel-duomo-pisa-italy/
 Redirect 301	/Board/bm03a.xml	http://www-dev.tei-c.org/prague-board-meeting-agenda/
 Redirect 301	/Board/bm06.xml	http://www-dev.tei-c.org/minutes-ofthe-tei-c-board-meeting-may-9-10-2002/
 Redirect 301	/Board/bm07.xml	http://www-dev.tei-c.org/tei-board-meeting-12-oct-02-draft-agenda/
@@ -150,6 +151,7 @@ Redirect 301	/Board/procedures.xml	http://www-dev.tei-c.org/tei-consortium-proce
 Redirect 301	/board/2010bylawsproposal.xml	http://www-dev.tei-c.org/tei-bylaws/
 Redirect 301	/board/2011-special-election.xml	http://www-dev.tei-c.org/tei-special-election-february-2011/
 Redirect 301	/board/bm01.xml	http://www-dev.tei-c.org/minutes-of-the-board-of-directors-meeting-tingviken-utne-in-hardanger-norway-may-11-12-2001/
+Redirect 301	/board/bm02.txt	http://www-dev.tei-c.org/board/text-encoding-intiative-consortium-minutes-of-the-board-of-directors-meeting-saturday-november-17-2001-grand-hotel-duomo-pisa-italy/
 Redirect 301	/board/bm03a.xml	http://www-dev.tei-c.org/prague-board-meeting-agenda/
 Redirect 301	/board/bm06.xml	http://www-dev.tei-c.org/minutes-ofthe-tei-c-board-meeting-may-9-10-2002/
 Redirect 301	/board/bm07.xml	http://www-dev.tei-c.org/tei-board-meeting-12-oct-02-draft-agenda/
