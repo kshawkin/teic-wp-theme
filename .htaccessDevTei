@@ -392,9 +392,9 @@ Redirect 301	/Activities/Council/Working/tcw15.html	http://www-dev.tei-c.org/wor
 Redirect 301	/Activities/Council/Working/tcw16.xml	http://www-dev.tei-c.org/working/bibliographies-for-scholarly-work-using-for-scientific-bibliographies/
 Redirect 301	/Activities/Council/Working/tcw17.html	http://www-dev.tei-c.org/working/open-github-issues/
 Redirect 301	/Activities/Council/Working/tcw18.xml	http://www-dev.tei-c.org/working/tcw18-summary-of-genetic-working-group-proposals/
-Redirect 301	/Activities/Council/Working/tcw19.html	http://www-dev.tei-c.org/working/an-encoding-model-for-genetic-editions-2/
+Redirect 301	/Activities/Council/Working/tcw19.html	http://www.tei-c.org/Vault/TC/tcw19.html
 Redirect 301	/Activities/Council/Working/tcw20.xml	http://teic.github.io/TCW/tcw20.html
-Redirect 301	/Activities/Council/Working/tcw21.html	http://www-dev.tei-c.org/working/preliminary-updates-for-genetic-editing-in-p5/
+Redirect 301	/Activities/Council/Working/tcw21.html	http://www.tei-c.org/Vault/TC/tcw21.html
 Redirect 301	/Activities/Council/Working/tcw22.xml	http://teic.github.io/TCW/tcw22.html
 Redirect 301	/Activities/Council/Working/tcw23.xml	http://www-dev.tei-c.org/working/proposal-to-clarify-and-rationalize-encoding-of-pagination-in-bibliographic-citations/
 Redirect 301	/Activities/Council/Working/tcw24.xml	http://teic.github.io/TCW/tcw24.html
@@ -523,9 +523,9 @@ Redirect 301	/activities/council/working/tcw15.html	http://www-dev.tei-c.org/wor
 Redirect 301	/activities/council/working/tcw16.xml	http://www-dev.tei-c.org/working/bibliographies-for-scholarly-work-using-for-scientific-bibliographies/
 Redirect 301	/activities/council/working/tcw17.html	http://www-dev.tei-c.org/working/open-github-issues/
 Redirect 301	/activities/council/working/tcw18.xml	http://www-dev.tei-c.org/working/tcw18-summary-of-genetic-working-group-proposals/
-Redirect 301	/activities/council/working/tcw19.html	http://www-dev.tei-c.org/working/an-encoding-model-for-genetic-editions-2/
+Redirect 301	/activities/council/working/tcw19.html	http://www.tei-c.org/Vault/TC/tcw19.html
 Redirect 301	/activities/council/working/tcw20.xml	http://teic.github.io/TCW/tcw20.html
-Redirect 301	/activities/council/working/tcw21.html	http://www-dev.tei-c.org/working/preliminary-updates-for-genetic-editing-in-p5/
+Redirect 301	/activities/council/working/tcw21.html	http://www.tei-c.org/Vault/TC/tcw21.html
 Redirect 301	/activities/council/working/tcw22.xml	http://teic.github.io/TCW/tcw22.html
 Redirect 301	/activities/council/working/tcw23.xml	http://www-dev.tei-c.org/working/proposal-to-clarify-and-rationalize-encoding-of-pagination-in-bibliographic-citations/
 Redirect 301	/activities/council/working/tcw24.xml	http://teic.github.io/TCW/tcw24.html
