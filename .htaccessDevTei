@@ -1352,7 +1352,7 @@ Redirect 301	/Support/Learn/index.cml	http://www-dev.tei-c.org/learn/
 #Redirect 301	/Support/Learn	http://www-dev.tei-c.org/learn/
 
 Redirect 301	/Support/Samples	http://www-dev.tei-c.org/samples/
-Redirect 301	/Support/index.xml	http://www-dev.tei-c.org/tei-support/
+Redirect 301	/Support/index.xml	http://www-dev.tei-c.org/support/
 
 Redirect 301	/support/learn/amv-manual.html	http://www.tei-c.org/Vault/Tutorials/amv-manual.html
 Redirect 301	/support/learn/cictei.htm	http://www.tei-c.org/Vault/Tutorials/cictei.htm
@@ -1371,7 +1371,7 @@ Redirect 301	/support/learn/index.xml	http://www-dev.tei-c.org/learn/
 #Redirect 301	/support/learn	http://www-dev.tei-c.org/learn/
 
 Redirect 301	/support/samples	http://www-dev.tei-c.org/samples/
-Redirect 301	/support/index.xml	http://www-dev.tei-c.org/tei-support/
+Redirect 301	/support/index.xml	http://www-dev.tei-c.org/support/
 
 Redirect 301	/Support/Learn/TEI-ChinLoc-2ndPrintEd.pdf	http://www.tei-c.org/Vault/Tutorials/TEI-ChinLoc-2ndPrintEd.pdf
 Redirect 301	/support/learn/TEI-ChinLoc-2ndPrintEd.pdf	http://www.tei-c.org/Vault/Tutorials/TEI-ChinLoc-2ndPrintEd.pdf
