@@ -104,6 +104,7 @@ Redirect 301	/Board/bm31AppendixH_Schreibman_MembersMeeting.xml	http://www-dev.t
 Redirect 301	/Board/bm31AppendixI_Schreibman_SIG_Grants.xml	http://www-dev.tei-c.org/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-4/
 Redirect 301	/Board/bm31AppendixJ_ODonnell_SubscriberFees.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-wednesday-december-17-2008-2/
 Redirect 301	/Board/bm31a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-wednesday-december-17-2008-3/
+Redirect 301	/Board/bm32.xml	http://www-dev.tei-c.org/board/tei-c-board-of-directors-teleconference-10-feb-2009/
 Redirect 301	/Board/bm32-chairsReport.xml	http://www-dev.tei-c.org/chairs-report-for-tuesday-february-10-2009/
 Redirect 301	/Board/bm32a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-tuesday-february-10-2009-1300-london/
 Redirect 301	/Board/bm33.xml	http://www-dev.tei-c.org/minutes-for-tei-board-conference-call-monday-may-18-2009-1400-london/
@@ -212,6 +213,7 @@ Redirect 301	/board/bm31appendixh_schreibman_membersmeeting.xml	http://www-dev.t
 Redirect 301	/board/bm31appendixi_schreibman_sig_grants.xml	http://www-dev.tei-c.org/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-4/
 Redirect 301	/board/bm31appendixj_odonnell_subscriberfees.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-wednesday-december-17-2008-2/
 Redirect 301	/board/bm31a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-wednesday-december-17-2008-3/
+Redirect 301	/board/bm32.xml	http://www-dev.tei-c.org/board/tei-c-board-of-directors-teleconference-10-feb-2009/
 Redirect 301	/board/bm32-chairsreport.xml	http://www-dev.tei-c.org/chairs-report-for-tuesday-february-10-2009/
 Redirect 301	/board/bm32a.xml	http://www-dev.tei-c.org/agenda-for-tei-board-conference-call-tuesday-february-10-2009-1300-london/
 Redirect 301	/board/bm33.xml	http://www-dev.tei-c.org/minutes-for-tei-board-conference-call-monday-may-18-2009-1400-london/
