@@ -9,8 +9,16 @@ RewriteRule . /index.php [L]
 </IfModule>
 # END WordPress
 
+# README: This file lists most source URLs twice: one with capitalization as in OpenCMS and another with the source URL all in capital
+# letters.  This was a quick-and-dirty way of handling cases where we had two versions of a URL circulating "in the wild" -- with and
+# without the filename capitalized (e.g., www.tei-c.org/About/board.xml and www.tei-c.org/About/Board.xml -- not a real example!).
+# Therefore we have lots of source URLs that are unlikely to ever be encountered.
+#
+# But we had to remove lowercase versions in cases where the auto-generated URL in WordPress happened to be exactly the same as the 
+# source only in lowercase.  So some are missing, and that's okay.
+
 Redirect 301	/Admin/TEI_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
-Redirect 301	/admin/TEI_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
+Redirect 301	/admin/tei_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
 
 Redirect 301	/Guidelines/Customization/Lite	http://www-dev.tei-c.org/guidelines/customization/lite/
 Redirect 301	/Guidelines/Customization/jTEI	http://www-dev.tei-c.org/guidelines/customization/jtei/
@@ -27,8 +35,8 @@ Redirect 301	/Guidelines/access.xml	http://www-dev.tei-c.org/guidelines/licensin
 Redirect 301	/Guidelines/index.xml	http://www-dev.tei-c.org/guidelines/tei-guidelines/
 Redirect 301	/Guidelines/participation.xml	http://www-dev.tei-c.org/guidelines/getting-involved/
 
-Redirect 301	/guidelines/customization/lite	http://www-dev.tei-c.org/guidelines/customization/lite/
-Redirect 301	/guidelines/customization/jtei	http://www-dev.tei-c.org/guidelines/customization/jtei/
+# removed because causes direct loop: Redirect 301	/guidelines/customization/lite	http://www-dev.tei-c.org/guidelines/customization/lite/
+# removed because causes direct loop: Redirect 301	/guidelines/customization/jtei	http://www-dev.tei-c.org/guidelines/customization/jtei/
 Redirect 301	/guidelines/customization/odds.xml	http://www-dev.tei-c.org/guidelines/customization/getting-started-with-p5-odds/
 Redirect 301	/guidelines/customization/use_roma.xml	http://www-dev.tei-c.org/guidelines/customization/customizing-the-tei-with-roma/
 Redirect 301	/guidelines/dtd/catalog.xml	http://www-dev.tei-c.org/guidelines/dtd/catalog-xml/
