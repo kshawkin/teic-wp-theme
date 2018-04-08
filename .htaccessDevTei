@@ -1392,19 +1392,19 @@ Redirect 301	/support/learn/pg-guide-tei.zip	http://www.tei-c.org/Vault/Tutorial
 Redirect 301	/Activities/About/Badges/index.xml	http://www-dev.tei-c.org/tei-badges/
 Redirect 301	/activities/about/badges/index.xml	http://www-dev.tei-c.org/tei-badges/
 
-Redirect 301	/About/Badges/I-use-TEI.png	http://www-.tei-c.org/Vault/Badges/I-use-TEI.png
-Redirect 301	/About/Badges/We-use-TEI.png	http://www-.tei-c.org/Vault/Badges/We-use-TEI.png
-Redirect 301	/About/Badges/powered-by-TEI.png	http://www-.tei-c.org/Vault/Badges/powered-by-TEI.png
-Redirect 301	/About/Badges/I-use-TEI.gif	http://www-.tei-c.org/Vault/Badges/I-use-TEI.gif
-Redirect 301	/About/Badges/We-use-TEI.gif	http://www-.tei-c.org/Vault/Badges/We-use-TEI.gif
-Redirect 301	/About/Badges/powered-by-TEI.gif	http://www-.tei-c.org/Vault/Badges/powered-by-TEI.gif
+Redirect 301	/About/Badges/I-use-TEI.png	http://www-dev.tei-c.org/wp-content/uploads/2016/11/I-use-TEI.png
+Redirect 301	/About/Badges/We-use-TEI.png	http://www-dev.tei-c.org/wp-content/uploads/2016/11/We-use-TEI.png
+Redirect 301	/About/Badges/powered-by-TEI.png	http://www-dev.tei-c.org/wp-content/uploads/2016/11/powered-by-TEI.png
+Redirect 301	/About/Badges/I-use-TEI.gif	http://www-dev.tei-c.org/wp-content/uploads/2016/11/I-use-TEI.gif
+Redirect 301	/About/Badges/We-use-TEI.gif	http://www-dev.tei-c.org/wp-content/uploads/2016/11/We-use-TEI.gif
+Redirect 301	/About/Badges/powered-by-TEI.gif	http://www-dev.tei-c.org/wp-content/uploads/2016/11/powered-by-TEI.gif
 
-Redirect 301	/about/badges/I-use-TEI.png	http://www-.tei-c.org/Vault/Badges/I-use-TEI.png
-Redirect 301	/about/badges/We-use-TEI.png	http://www-.tei-c.org/Vault/Badges/We-use-TEI.png
-Redirect 301	/about/badges/powered-by-TEI.png	http://www-.tei-c.org/Vault/Badges/powered-by-TEI.png
-Redirect 301	/about/badges/I-use-TEI.gif	http://www-.tei-c.org/Vault/Badges/I-use-TEI.gif
-Redirect 301	/about/badges/We-use-TEI.gif	http://www-.tei-c.org/Vault/Badges/We-use-TEI.gif
-Redirect 301	/about/badges/powered-by-TEI.gif	http://www-.tei-c.org/Vault/Badges/powered-by-TEI.gif
+Redirect 301	/about/badges/I-use-TEI.png	http://www-dev.tei-c.org/wp-content/uploads/2016/11/I-use-TEI.png
+Redirect 301	/about/badges/We-use-TEI.png	http://www-dev.tei-c.org/wp-content/uploads/2016/11/We-use-TEI.png
+Redirect 301	/about/badges/powered-by-TEI.png	http://www-dev.tei-c.org/wp-content/uploads/2016/11/powered-by-TEI.png
+Redirect 301	/about/badges/I-use-TEI.gif	http://www-dev.tei-c.org/wp-content/uploads/2016/11/I-use-TEI.gif
+Redirect 301	/about/badges/We-use-TEI.gif	http://www-dev.tei-c.org/wp-content/uploads/2016/11/We-use-TEI.gif
+Redirect 301	/about/badges/powered-by-TEI.gif	http://www-dev.tei-c.org/wp-content/uploads/2016/11/powered-by-TEI.gif
 
 
 # Logos
