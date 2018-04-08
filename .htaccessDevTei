@@ -17,6 +17,8 @@ RewriteRule . /index.php [L]
 # But we had to remove lowercase versions in cases where the auto-generated URL in WordPress happened to be exactly the same as the 
 # source only in lowercase.  So some are missing, and that's okay.
 
+Redirect 301	/index.xml	http://www-dev.tei-c.org/
+
 Redirect 301	/Admin/TEI_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
 Redirect 301	/admin/tei_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
 
