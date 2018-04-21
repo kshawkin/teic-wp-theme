@@ -31,8 +31,9 @@
 
 		<footer class="entry-footer">
 			<hr>
-			<small>Last recorded change to this page:
-		 <?php the_modified_date( 'Y-m-d' ); ?></small>
+			<div><small>Copyright TEI Consortium. Except where otherwise noted, content on this site is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported license</a> and a <a href="http://www.opensource.org/licenses/BSD-2-Clause">BSD 2-Clause license</a>.</small></div>
+			<div><small>Last recorded change to this page:
+			<?php the_modified_date( 'Y-m-d' ); ?></small></div>
 
 			<?php
 				edit_post_link(
