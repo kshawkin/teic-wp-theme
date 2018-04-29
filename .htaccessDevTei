@@ -1674,7 +1674,7 @@ Redirect 301	/Membership/Meetings/2016/mm78.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/Membership/Meetings/2016	http://www.tei-c.org/Vault/MembersMeetings/2016-info
 
 Redirect 301	/Membership/Meetings/meeting_hosting.xml	http://www-dev.tei-c.org/?page_id=26119
-Redirect 301	/Membership/Meetings	http://www-dev.tei-c.org/?page_id=25912
+Redirect 301	/Membership/Meetings	http://members.tei-c.org/Events/meetings
 
 Redirect 301	/Membership/benefits.xml	http://www-dev.tei-c.org/?page_id=26120
 Redirect 301	/Membership/current.html	http://www-dev.tei-c.org/?page_id=26121
@@ -1896,7 +1896,7 @@ Redirect 301	/membership/meetings/2016/mm78.xml	http://www.tei-c.org/Vault/Membe
 Redirect 301	/membership/meetings/2016	http://www.tei-c.org/Vault/MembersMeetings/2016-info
 
 Redirect 301	/membership/meetings/meeting_hosting.xml	http://www-dev.tei-c.org/?page_id=26119
-Redirect 301	/membership/meetings	http://www-dev.tei-c.org/?page_id=25912
+Redirect 301	/membership/meetings	http://members.tei-c.org/Events/meetings
 
 Redirect 301	/membership/benefits.xml	http://www-dev.tei-c.org/?page_id=26120
 Redirect 301	/membership/current.html	http://www-dev.tei-c.org/?page_id=26121
