@@ -21,6 +21,12 @@ Redirect 301	/index.xml	http://www-dev.tei-c.org/
 
 Redirect 301	/Admin/TEI_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
 Redirect 301	/admin/tei_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
+Redirect 301	/Admin/RFP.xml	http://www.tei-c.org/Vault/Tite/RFPdocuments/RFP.html
+Redirect 301	/admin/rfp.xml	http://www.tei-c.org/Vault/Tite/RFPdocuments/RFP.html
+Redirect 301	/Admin/RFP-validating.xml	http://www.tei-c.org/Vault/Tite/RFPdocuments/RFP-validating.html
+Redirect 301	/admin/rfp-validating.xml	http://www.tei-c.org/Vault/Tite/RFPdocuments/RFP-validating.html
+Redirect 301	/Admin/RFP_Answers.xml	http://www.tei-c.org/Vault/Tite/RFPdocuments/RFP_Answers.html
+Redirect 301	/admin/rfp_answers.xml	http://www.tei-c.org/Vault/Tite/RFPdocuments/RFP_Answers.html
 
 Redirect 301	/Guidelines/Customization/Lite	http://www-dev.tei-c.org/guidelines/customization/lite/
 Redirect 301	/Guidelines/Customization/jTEI	http://www-dev.tei-c.org/guidelines/customization/jtei/
