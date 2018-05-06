@@ -19,6 +19,8 @@ RewriteRule . /index.php [L]
 
 Redirect 301	/index.xml	http://www-dev.tei-c.org/
 
+Redirect 301	/rss.xml	http://www-dev.tei-c.org/news/feed
+
 Redirect 301	/Admin/TEI_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
 Redirect 301	/admin/tei_travel_form.pdf	http://www-dev.tei-c.org/wp-content/uploads/2017/10/TEI_travel_form.pdf
 Redirect 301	/Admin/RFP.xml	http://www.tei-c.org/Vault/Tite/RFPdocuments/RFP.html
