@@ -1025,9 +1025,10 @@ Redirect 301	/Activities/SIG/Publishing/annarbor.xml	http://www-dev.tei-c.org/pu
 Redirect 301	/Activities/SIG/Publishing	http://www-dev.tei-c.org/publishing/
 
 Redirect 301	/Activities/SIG/SIGminutes2009.xml	http://www-dev.tei-c.org/minutes-from-the-sig-convenors-meeting/
-Redirect 301	/Activities/SIG/TEI_for_Linguists/index.xml	http://www-dev.tei-c.org/tei-for-linguists/
-Redirect 301	/activities/sig/tei_for_linguists/index.xml	http://www-dev.tei-c.org/tei-for-linguists/
-#Redirect 301	/Activities/SIG/TEI_for_Linguists	http://www-dev.tei-c.org/tei-for-linguists/
+Redirect 301	/Activities/SIG/TEI_for_Linguists/index.xml	http://www-dev.tei-c.org/activities/sig/tei-for-linguists/
+Redirect 301	/activities/sig/tei_for_linguists/index.xml	http://www-dev.tei-c.org/activities/sig/tei-for-linguists/
+Redirect 301	/Activities/SIG/TEI_for_Linguists	http://www-dev.tei-c.org/activities/sig/tei-for-linguists/
+Redirect 301	/activities/sig/tei_for_linguists	http://www-dev.tei-c.org/activities/sig/tei-for-linguists/
 
 Redirect 301	/Activities/SIG/Tools/pt01.xml	http://www-dev.tei-c.org/tools/minutes-of-the-tei-presentation-tools-sig-meeting-in-nancy-08-november-2003/
 Redirect 301	/Activities/SIG/Tools/pt02.xml	http://www-dev.tei-c.org/tools/minutes-of-the-tei-presentation-tools-sig-meeting-in-sofia-29-october-2005/
