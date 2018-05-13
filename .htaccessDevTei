@@ -704,7 +704,6 @@ Redirect 301	/Activities/Projects/na01.xml	http://www-dev.tei-c.org/national-cor
 Redirect 301	/Activities/Projects/ne02.xml	http://www-dev.tei-c.org/newton-manuscript-project/
 Redirect 301	/Activities/Projects/ne03.xml	http://www-dev.tei-c.org/new-zealand-electronic-text-centre/
 Redirect 301	/Activities/Projects/ne04.xml	http://www-dev.tei-c.org/newcastle-electronic-corpus-of-tyneside-english/
-Redirect 301	/Activities/Projects/newform.html	http://www-dev.tei-c.org/tei-project-description-form/
 Redirect 301	/Activities/Projects/newformresp.html	http://www-dev.tei-c.org/tei-project-description-form-2/
 Redirect 301	/Activities/Projects/newindex.xml	http://www-dev.tei-c.org/projects-using-the-tei-2/
 Redirect 301	/Activities/Projects/newproj.xml	http://www-dev.tei-c.org/tell-us-about-your-project/
@@ -907,7 +906,6 @@ Redirect 301	/activities/projects/na01.xml	http://www-dev.tei-c.org/national-cor
 Redirect 301	/activities/projects/ne02.xml	http://www-dev.tei-c.org/newton-manuscript-project/
 Redirect 301	/activities/projects/ne03.xml	http://www-dev.tei-c.org/new-zealand-electronic-text-centre/
 Redirect 301	/activities/projects/ne04.xml	http://www-dev.tei-c.org/newcastle-electronic-corpus-of-tyneside-english/
-Redirect 301	/activities/projects/newform.html	http://www-dev.tei-c.org/tei-project-description-form/
 Redirect 301	/activities/projects/newformresp.html	http://www-dev.tei-c.org/tei-project-description-form-2/
 Redirect 301	/activities/projects/newindex.xml	http://www-dev.tei-c.org/projects-using-the-tei-2/
 Redirect 301	/activities/projects/newproj.xml	http://www-dev.tei-c.org/tell-us-about-your-project/
