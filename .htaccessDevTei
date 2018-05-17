@@ -300,6 +300,8 @@ Redirect 301	/Board/bm75.xml	http://www-dev.tei-c.org/board/tei-c-board-meeting-
 Redirect 301	/board/bm75.xml	http://www-dev.tei-c.org/board/tei-c-board-meeting-2018-02-08/
 Redirect 301	/Board/bm76.xml	http://www-dev.tei-c.org/board/tei-c-board-meeting-2018-03-08/
 Redirect 301	/board/bm76.xml	http://www-dev.tei-c.org/board/tei-c-board-meeting-2018-03-08/
+Redirect 301	/Board/bm77.xml	http://www-dev.tei-c.org/board/tei-c-board-meeting-2018-04-12/
+Redirect 301	/board/bm77.xml	http://www-dev.tei-c.org/board/tei-c-board-meeting-2018-04-12/
 
 # Activities/Council
 Redirect 301	/Activities/Council/Meetings/tca38.xml	http://www-dev.tei-c.org/meetings/draft-agenda-tei-council-meeting-galway-3-4-april-2008/
