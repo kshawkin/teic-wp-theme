@@ -1464,12 +1464,6 @@ Redirect 301	/AccessTEI/index_export.html	http://www-dev.tei-c.org/?page_id=2410
 Redirect 301	/accesstei/index.xml	http://www-dev.tei-c.org/?page_id=24105
 Redirect 301	/accesstei/index_export.html	http://www-dev.tei-c.org/?page_id=24106
 
-# ns
-Redirect 301	/ns/1.0	http://www-dev.tei-c.org/?page_id=24107
-Redirect 301	/ns/Examples	http://www-dev.tei-c.org/?page_id=24109
-
-Redirect 301	/ns/examples	http://www-dev.tei-c.org/?page_id=24109
-
 # Membership
 
 
