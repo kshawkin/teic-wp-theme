@@ -1340,7 +1340,7 @@ Redirect 301	/activities/workgroups/ms/tei-mss-doc.zip	http://www.tei-c.org/Vaul
 # Tools
 
 Redirect 301	/Tools/I18N/proposal.xml	http://www-dev.tei-c.org/i18n/tei-internationalization-proposal/
-Redirect 301	/Tools/I18N	http://www-dev.tei-c.org/i18n/
+Redirect 301	/Tools/I18N	http://www-dev.tei-c.org/tools/i18n/
 
 Redirect 301	/Tools/Stylesheets/customize.xml	http://www-dev.tei-c.org/stylesheets/tei-xsl-customization-handbook/
 Redirect 301	/Tools/Stylesheets/index-old.xml	http://www-dev.tei-c.org/stylesheets/xsl-stylesheets-for-tei-xml/
@@ -1350,7 +1350,7 @@ Redirect 301	/Tools/index.xml	http://www-dev.tei-c.org/tei-tools/
 Redirect 301	/Tools/roma.xml	http://www-dev.tei-c.org/roma/
 
 Redirect 301	/tools/i18n/proposal.xml	http://www-dev.tei-c.org/i18n/tei-internationalization-proposal/
-Redirect 301	/tools/i18n	http://www-dev.tei-c.org/i18n/
+Redirect 301	/tools/i18n	http://www-dev.tei-c.org/tools/i18n/
 
 Redirect 301	/tools/stylesheets/customize.xml	http://www-dev.tei-c.org/stylesheets/tei-xsl-customization-handbook/
 Redirect 301	/tools/stylesheets/index-old.xml	http://www-dev.tei-c.org/stylesheets/xsl-stylesheets-for-tei-xml/
